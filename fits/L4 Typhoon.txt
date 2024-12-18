@@ -1,0 +1,101 @@
+THE FIT(S):
+[Typhoon, L4 Sniper]
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+Reactive Armor Hardener
+Large Armor Repairer II
+Signal Amplifier II
+Co-Processor II
+
+Missile Guidance Computer II
+Large Compact Pb-Acid Cap Battery
+Large Micro Jump Drive
+Cap Recharger II
+Omnidirectional Tracking Link II
+
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Drone Link Augmentor II
+
+Large Drone Control Range Augmentor II
+Large Drone Control Range Augmentor II
+Large Semiconductor Memory Cell I
+
+Hobgoblin II x5
+Warden II x4
+Missile Precision Script x1
+Scourge Fury Cruise Missile x3000
+Nova Fury Cruise Missile x1500
+Mjolnir Fury Cruise Missile x3000
+
+[Typhoon, L4 Rapid Heavy]
+Large Armor Repairer II
+Reactive Armor Hardener
+Multispectrum Energized Membrane II
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+
+100MN Afterburner II
+Missile Guidance Computer II
+Missile Guidance Computer II
+Large Cap Battery II
+Large Cap Battery II
+
+Rapid Heavy Missile Launcher II
+Rapid Heavy Missile Launcher II
+Rapid Heavy Missile Launcher II
+Rapid Heavy Missile Launcher II
+Rapid Heavy Missile Launcher II
+Rapid Heavy Missile Launcher II
+Auto Targeting System II
+
+Large Semiconductor Memory Cell II
+Large Capacitor Control Circuit II
+Large Explosive Armor Reinforcer I
+
+Hobgoblin II x5
+Federation Navy Ogre x4
+Missile Range Script x1
+Missile Precision Script x1
+Scourge Fury Heavy Missile x4500
+
+[Typhoon, L4 Torps]
+Large Armor Repairer II
+Reactive Armor Hardener
+Multispectrum Coating II
+Capacitor Power Relay II
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+
+500MN Quad LiF Restrained Microwarpdrive
+Astro-Inertial Compact Missile Guidance Computer
+Astro-Inertial Compact Missile Guidance Computer
+Large Cap Battery II
+Large Cap Battery II
+
+Torpedo Launcher II
+Torpedo Launcher II
+Torpedo Launcher II
+Torpedo Launcher II
+Torpedo Launcher II
+Torpedo Launcher II
+Auto Targeting System I
+
+Large Semiconductor Memory Cell II
+Large Capacitor Control Circuit II
+Large Capacitor Control Circuit I
+
+Hobgoblin II x5
+Federation Navy Ogre x4
+Nova Javelin Torpedo x2500
+Missile Range Script x1
+Missile Precision Script x1
+Nova Rage Torpedo x2500
