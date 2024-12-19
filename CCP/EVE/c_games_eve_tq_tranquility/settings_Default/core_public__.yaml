@@ -7,7 +7,7 @@ audio:
   suppressTurret: [133791129683127502, 0]
   uiGain: [133791129683127502, 0.5]
   useCombatMusic: [133791129683127502, 1]
-  useOldJukeboxOverride: [133791154362969372, 0]
+  useOldJukeboxOverride: [133791165419584121, 0]
   worldVolume: [133791133446130335, 0.7]
 device:
   DeviceSettings: [133791129365869627, null]
@@ -17,8 +17,8 @@ device:
   FullScreenSettings:
   - 133791129382272534
   - {adapter: 0, height: 768, presentInterval: 1, width: 1366}
-  UIScaleFullscreen: [133791129683127502, 0.9]
-  UIScaleFullscreenSetAutomatically: [133791129683127502, true]
+  UIScaleFullscreen: [133791165909622543, 0.9]
+  UIScaleFullscreenSetAutomatically: [133791165909622543, true]
   UIScaleWindowed: [133791129683127502, 0.9]
   UIScaleWindowedSetAutomatically: [133791129683127502, true]
   WindowMode: [133791129382272534, 0]
@@ -26,22 +26,22 @@ device:
   WindowedSettings:
   - 133791129382272534
   - {adapter: 0, height: 960, left: 0, presentInterval: 1, showState: 0, top: 0, width: 1708}
-  antiAliasing: [133791155180848371, 0]
-  aoQuality: [133791155180848371, 0]
-  brightness: [133791129365869627, 1.0]
+  antiAliasing: [133791165404169511, 0]
+  aoQuality: [133791165404169511, 0]
+  brightness: [133791165423643965, 1.0]
   charClothSimulation: [133791129683127502, 1]
-  charTextureQuality: [133791134283956138, 1]
-  dofEnabled: [133791155145125691, false]
-  fastCharacterCreation: [133791134283956138, 0]
-  fsrMode: [133791155180848371, 0]
-  lodQuality: [133791155180848371, 1]
-  postProcessingQuality: [133791155180848371, 0]
-  reflectionQuality: [133791155180848371, 0]
-  shaderQuality: [133791155180848371, 1]
-  shadowQuality: [133791155180848371, 0]
-  textureQuality: [133791155180848371, 2]
-  volumetricQuality: [133791155180848371, 0]
+  charTextureQuality: [133791165202020793, 1]
+  dofEnabled: [133791165202020793, false]
+  fastCharacterCreation: [133791165202020793, 0]
+  fsrMode: [133791165404169511, 0]
+  lodQuality: [133791165404169511, 1]
+  postProcessingQuality: [133791165441567880, 0]
+  reflectionQuality: [133791165404169511, 0]
+  shaderQuality: [133791165751373033, 1]
+  shadowQuality: [133791165404169511, 0]
+  textureQuality: [133791165404169511, 2]
+  volumetricQuality: [133791165404169511, 0]
 generic: {}
 ui:
-  __migrate_existing_font_size_settings_down_one_size__: [133791129664082765, true]
-  clientFontSize: [133791155184656528, 1]
+  __migrate_existing_font_size_settings_down_one_size__: [133791165909622543, true]
+  clientFontSize: [133791165903585567, 1]
