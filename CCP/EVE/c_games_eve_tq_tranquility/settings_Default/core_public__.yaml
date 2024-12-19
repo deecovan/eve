@@ -1,0 +1,47 @@
+audio:
+  audioEnabled: [133791129683127502, 1]
+  eveampGain: [133791129683127502, 0.5]
+  evevoiceGain: [133791129683127502, 0.9]
+  forceEnglishVoice: [133791129683127502, 1]
+  masterVolume: [133791129683127502, 0.9015384615384615]
+  suppressTurret: [133791129683127502, 0]
+  uiGain: [133791129683127502, 0.5]
+  useCombatMusic: [133791129683127502, 1]
+  useOldJukeboxOverride: [133791154362969372, 0]
+  worldVolume: [133791133446130335, 0.7]
+device:
+  DeviceSettings: [133791129365869627, null]
+  FixedWindow: [133791129365869627, 0]
+  FixedWindowSettings: [133791129382272534, null]
+  FullScreenResolution: [133791129365869627, null]
+  FullScreenSettings:
+  - 133791129382272534
+  - {adapter: 0, height: 768, presentInterval: 1, width: 1366}
+  UIScaleFullscreen: [133791129683127502, 0.9]
+  UIScaleFullscreenSetAutomatically: [133791129683127502, true]
+  UIScaleWindowed: [133791129683127502, 0.9]
+  UIScaleWindowedSetAutomatically: [133791129683127502, true]
+  WindowMode: [133791129382272534, 0]
+  WindowedResolution: [133791129365869627, null]
+  WindowedSettings:
+  - 133791129382272534
+  - {adapter: 0, height: 960, left: 0, presentInterval: 1, showState: 0, top: 0, width: 1708}
+  antiAliasing: [133791155180848371, 0]
+  aoQuality: [133791155180848371, 0]
+  brightness: [133791129365869627, 1.0]
+  charClothSimulation: [133791129683127502, 1]
+  charTextureQuality: [133791134283956138, 1]
+  dofEnabled: [133791155145125691, false]
+  fastCharacterCreation: [133791134283956138, 0]
+  fsrMode: [133791155180848371, 0]
+  lodQuality: [133791155180848371, 1]
+  postProcessingQuality: [133791155180848371, 0]
+  reflectionQuality: [133791155180848371, 0]
+  shaderQuality: [133791155180848371, 1]
+  shadowQuality: [133791155180848371, 0]
+  textureQuality: [133791155180848371, 2]
+  volumetricQuality: [133791155180848371, 0]
+generic: {}
+ui:
+  __migrate_existing_font_size_settings_down_one_size__: [133791129664082765, true]
+  clientFontSize: [133791155184656528, 1]
