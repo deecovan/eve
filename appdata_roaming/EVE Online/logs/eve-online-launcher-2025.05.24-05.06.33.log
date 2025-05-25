@@ -1,0 +1,387 @@
+2025-05-24 05:06:33.926    app     info:    [migrations] Running state migrations from 202403271440 to 202403271440
+2025-05-24 05:06:34.124    app     info:    [self-update] Configuring update feed.
+2025-05-24 05:06:34.124    app     info:    [self-update] Update feed set to: https://launcher.ccpgames.com/eve-online/release/win32/x64/
+2025-05-24 05:06:34.289    app     info:    Startup arguments    []
+2025-05-24 05:06:34.436    app     info:    [self-update] Auto-updating is now enabled
+2025-05-24 05:06:34.438    app     info:    [migrations] Running state migrations from 202403271440 to 202403271440
+2025-05-24 05:06:34.447    app    error:    (node:6772) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+(Use `eve-online --trace-deprecation ...` to show where the warning was created)    []
+2025-05-24 05:06:34.448    app     info:    [third-party-authentications] Checking for Steam startup
+2025-05-24 05:06:35.639    app     info:    [migrations] Running secured-state migrations from 202406060001 to 202406060001
+2025-05-24 05:06:35.784    app     info:    [i18next] Changed language    ru
+2025-05-24 05:06:35.799    app     info:    [steam-auth] Steam startup detected
+2025-05-24 05:06:35.819    app     info:    [authentication] Generated login URL with state 'cX8idDQK3QfrD5ZhzbqKA80jUDW6rgojdTqBUD7vwdY' for 'tranquility' using clientID 'eveLauncherTQ'
+2025-05-24 05:06:35.821    app     info:    [third-party-authentications] Done checking third party startups
+2025-05-24 05:06:36.076    app     info:    [cache-protocol] Found 0 entries to remove
+2025-05-24 05:06:36.076    app     info:    [cache-protocol] Nothing to clean up.
+2025-05-24 05:06:36.122    app     info:    [customer-information] Agreements have been updated
+2025-05-24 05:06:36.358    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.application.LauncherStarted
+2025-05-24 05:06:36.441    app     info:    [analytics] Application name:    EVE Online
+2025-05-24 05:06:36.441    app     info:    [analytics] Application version:    1.10.0
+2025-05-24 05:06:36.441    app     info:    [analytics] Domain    undefined
+2025-05-24 05:06:36.443    app     info:    [analytics] Working directory    C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0
+2025-05-24 05:06:36.444    app     info:    [analytics] Username contains UTF8?    false
+2025-05-24 05:06:37.674    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.application.PdmLoaded
+2025-05-24 05:06:37.710    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.application.CoreDataLoaded
+2025-05-24 05:06:37.718    app     info:    [analytics] Operating system    { type: 'Windows', name: 'Windows 10 Home', version: '10.0 (19045)' }
+2025-05-24 05:06:37.719    app     info:    [analytics] Encryption available:    true
+2025-05-24 05:06:37.719    app     info:    [analytics] Machine UUID    B7B2A471-C4FE-4353-880B-870CE29AC3D8
+2025-05-24 05:06:37.719    app     info:    [analytics] PDM Version    2.1.4
+2025-05-24 05:06:37.719    app     info:    [analytics] Release channel    release
+2025-05-24 05:06:37.721    app     info:    [initializers] Shared cache directory set to    C:\Games\EVE
+2025-05-24 05:06:37.730    app     info:    [initializers] Shared cache drive free space: 43.90 GiB / 237.84 GiB
+2025-05-24 05:06:37.735    app     info:    [shared-cache] Looking for profiles in 'c_games_eve_tq_tranquility'...
+2025-05-24 05:06:37.735    app     info:    [shared-cache] Looking for profiles in 'c_games_eve_sisi_singularity'...
+2025-05-24 05:06:37.735    app     info:    [shared-cache] Looking for profiles in 'c_games_eve_thunderdome_thunderdome'...
+2025-05-24 05:06:37.735    app     info:    [feature-flags] Initializing feature flag client
+2025-05-24 05:06:37.790    app     info:    [migrations] Running file-system migrations from 202408021525 to 202408021525
+2025-05-24 05:06:37.794    app     info:    [scheduler] Starting scheduler background
+2025-05-24 05:06:37.824    app    error:    (node:6772) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 scheduler/triggered listeners added to [IpcMainImpl]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit    []
+2025-05-24 05:06:37.827    app     info:    [shared-cache] No profiles found on disk
+2025-05-24 05:06:37.895    app     info:    [analytics] Hardware rendering enabled:    true    { disabledViaCommandline: false, disabledViaSettings: true }
+2025-05-24 05:06:37.941    app     info:    [first-run] Application has been run before: 2025-03-14T09:16:58.327Z
+2025-05-24 05:06:38.055    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.LauncherStarted
+2025-05-24 05:06:38.057    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.PdmLoaded
+2025-05-24 05:06:38.060    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.CoreDataLoaded
+2025-05-24 05:06:38.321    app     info:    info: [LaunchDarkly] LaunchDarkly client initialized    []
+2025-05-24 05:06:38.322    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJraW5kIjoibXVsdGkiLCJsYXVuY2hlciI6eyJrZXkiOiJlZjNjMWY1Ny03NWI2LTQzNzItODQzNy1kODQ5MTJjMjgyMWUiLCJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjcwLCJsYW5ndWFnZSI6InJ1IiwiYXBwbGljYXRpb24iOiJldmUtb25saW5lIiwidmVyc2lvbiI6IjEuMTAuMCIsInBsYXRmb3JtIjoid2luZG93cyIsImlzR2VGb3JjZU5vdyI6ZmFsc2UsIm9zVmVyc2lvbkRlcHJlY2F0ZWQiOmZhbHNlLCJ1c2VySWRzIjpbMjM2MjI5MDMsMzEzMjA2NzIsMjM2MjI5MDMsMzEzMjA2NzJdLCJwcm9kdWN0cyI6WyJldmUtb25saW5lIl0sIm9tZWdhQ291bnQiOjAsImFscGhhQ291bnQiOjMsImFjY291bnRDb3VudCI6Mywib2xkZXN0QWNjb3VudEFnZSI6MTU2NSwieW91bmdlc3RBY2NvdW50QWdlIjo2OX0sImpvdXJuZXkiOnsia2V5IjoiYjEyMjhlYTAtMzY5MC00ZDk3LWJjZmUtYmQwMjY0OGNkNTZjIiwiYW5vbnltb3VzIjp0cnVlfX0?withReasons=true    []
+2025-05-24 05:06:38.325    app     info:    [feature-flags] Client ef3c1f57... ready, fetching flags
+2025-05-24 05:06:38.327    app     info:    [self-update] Auto-updating is now enabled
+2025-05-24 05:06:38.327    app     info:    [quasar-manager] Quasar (EPG) feature flag is enabled
+2025-05-24 05:06:38.333    app     info:    [feature-flags] Received 39 flags for client ef3c1f57...
+2025-05-24 05:06:38.333    app     info:    [feature-flags] Client initialized with key ef3c1f57...
+2025-05-24 05:06:38.338    app     info:    [quasar-manager] Quasar (EPG) feature flag is enabled
+2025-05-24 05:06:38.343    app     info:    [self-update] Configuring update feed.
+2025-05-24 05:06:38.343    app     info:    [self-update] Update feed set to: https://launcher.ccpgames.com/eve-online/release/win32/x64/
+2025-05-24 05:06:38.343    app     info:    [self-update] Auto-updating is now enabled
+2025-05-24 05:06:38.700    app     warn:    (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.    []
+2025-05-24 05:06:38.727    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.application.RendererLoaded
+2025-05-24 05:06:38.728    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.RendererLoaded
+2025-05-24 05:06:38.730    app     info:    [scheduler] Starting scheduler foreground
+2025-05-24 05:06:38.755    app     info:    [newsfeed] Fetching news for eve-online in ru
+2025-05-24 05:06:38.787    app     info:    [content-delivery-trace] Fetching CDN trace data from https://binaries.eveonline.com/cdn-cgi/trace
+2025-05-24 05:06:38.818    app     info:    [creatives] Requesting creatives for eve-online
+2025-05-24 05:06:38.822    app    error:    [authentication] Could not refresh token for '23622903' on 'tranquility' Tokens for '23622903' on 'tranquility' are invalid, refresh was skipped    h [InvalidTokenError]: Tokens for '23622903' on 'tranquility' are invalid, refresh was skipped
+    at P (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:1882553)
+    at C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:3028347
+    at C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:2330516
+    at C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:3032114
+2025-05-24 05:06:38.823    app    error:    [AuthenticationMiddleware] Could not update data on active user change Tokens for '23622903' on 'tranquility' are invalid, refresh was skipped    h [InvalidTokenError]: Tokens for '23622903' on 'tranquility' are invalid, refresh was skipped
+    at P (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:1882553)
+    at C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:3028347
+    at C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:2330516
+    at C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:3032114
+2025-05-24 05:06:38.851    app     info:    [window-manager] Main window registered    { windowId: 2 }
+2025-05-24 05:06:38.872    app     info:    [login-window] Creating login window using URI 'https://login.eveonline.com/account/logoff?lang=en&ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3DeveLauncherTQ%26scope%3DeveClientLogin%2Bcisservice.customerRead.v1%2Bcisservice.customerWrite.v1%2Bcisservice.userProfileBasic.v1%2Bvgs.transactionRead.v1%2Bvgs.marketAccess.v1%26redirect_uri%3Dhttps%253A%252F%252Flogin.eveonline.com%252Flauncher%253Fclient_id%253DeveLauncherTQ%26state%3DcX8idDQK3QfrD5ZhzbqKA80jUDW6rgojdTqBUD7vwdY%26code_challenge_method%3DS256%26code_challenge%3DBKTDZ7cMBmSEmHpYuE5woO-jFk7EyS98RHMet6vQYGQ%26steam_ticket%3D14000000c886980e788171c61bd7f11a0100100182533168180000000100000002000000200dd39c7109a3b2c9a0010003000000b200000032000000040000001bd7f11a01001001342100009265e091dd06000a00000000df9a2c685f4a486801002f22020000000000a17104b7eb086aeca537b13a5cb0aeb09401321cacf7cf3244a185febb7ff822e85120242cd5e4e2337c3dcdf43ee90f7401556b2017adc47acb2980f26f03b5d4c5f0d0d649fb7990afe4f5e8d22a5211d495a46aa35cee9a8b2a1463a144ac11205a90fbe8aee35ec3646888eacfd8ee4ca539245cad595acc3e2f97fcd684'
+2025-05-24 05:06:38.912     ui     info:    [i18next] Requesting missing translation ru readnought title title    ccp://launcher/renderer/main_window/index.js    2
+2025-05-24 05:06:39.166    app     info:    [jukebox] Fetched 2 jukebox playlists
+2025-05-24 05:06:39.190    app     info:    [newsfeed] Fetched 20 news items for eve-online in ru
+2025-05-24 05:06:39.974    app     info:    [AuthenticationMiddleware] Refreshed 0 / 0 users for tranquility on eve-online
+2025-05-24 05:06:39.987    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-05-24 05:06:39.994    app     info:    [AuthenticationMiddleware] Successfully restored 0 / 0 users
+2025-05-24 05:06:40.158    app     info:    [server-manager] Previous Tranquility build: 2866918, current build: 2911964
+2025-05-24 05:06:40.167    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientUpdateStarted
+2025-05-24 05:06:40.169    app     info:    [server-manager] Starting download of build 2911964 for Tranquility.
+2025-05-24 05:06:40.185    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientUpdateStarted
+2025-05-24 05:06:40.280    app     info:    [server-manager] Downloading binary chunks in 19 files (198 MB)
+2025-05-24 05:06:40.285    app     info:    [download-from-manifest] Preparing to download 19 files    { cdn: 1, concurrent: 10 }
+2025-05-24 05:06:40.349    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-24 05:06:40.350    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-24 05:06:40.351    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-24 05:06:40.352    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-24 05:06:40.353    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-24 05:06:40.353    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-24 05:06:40.353    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-24 05:06:40.354    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-24 05:06:40.481    app     info:    [new-player-content] Resetting content as language not in response    { locale: 'tx' }
+2025-05-24 05:06:41.243    app     info:    [login-window] Navigation to login completed, receiving code & state (cX8idDQK3QfrD5ZhzbqKA80jUDW6rgojdTqBUD7vwdY)
+2025-05-24 05:06:41.900    app     info:    [server-manager] Downloaded 327.22 kiB/189.18 MiB at 60.00 kiB/s
+2025-05-24 05:06:42.923    app     info:    [server-manager] Downloaded 1.15 MiB/189.18 MiB at 845.80 kiB/s
+2025-05-24 05:06:43.758    app     info:    [self-update] Checking for application updates.
+2025-05-24 05:06:44.352    app     info:    [server-manager] Downloaded 1.97 MiB/189.18 MiB at 1.28 MiB/s
+2025-05-24 05:06:44.367    app     info:    [creatives] Received 2 creatives for eve-online
+2025-05-24 05:06:45.354    app     info:    [server-manager] Downloaded 2.67 MiB/189.18 MiB at 980.69 kiB/s
+2025-05-24 05:06:45.440    app     info:    [time-sync] Failed to sync time with 2 servers
+2025-05-24 05:06:45.440    app     info:    [time-sync] Compared time with 4 servers. 2 successful, 2 failed.
+2025-05-24 05:06:45.441    app     info:    [time-sync] Not showing any warnings because there were errors fetching the time.
+2025-05-24 05:06:46.368    app     info:    [server-manager] Downloaded 3.49 MiB/189.18 MiB at 917.40 kiB/s
+2025-05-24 05:06:47.426    app     info:    [server-manager] Downloaded 4.24 MiB/189.18 MiB at 837.48 kiB/s
+2025-05-24 05:06:48.459    app     info:    [server-manager] Downloaded 4.95 MiB/189.18 MiB at 719.98 kiB/s
+2025-05-24 05:06:49.465    app     info:    [server-manager] Downloaded 5.58 MiB/189.18 MiB at 304.52 kiB/s
+2025-05-24 05:06:50.491    app     info:    [server-manager] Downloaded 6.37 MiB/189.18 MiB at 950.88 kiB/s
+2025-05-24 05:06:51.517    app     info:    [server-manager] Downloaded 7.24 MiB/189.18 MiB at 886.65 kiB/s
+2025-05-24 05:06:52.525    app     info:    [server-manager] Downloaded 7.89 MiB/189.18 MiB at 253.75 kiB/s
+2025-05-24 05:06:52.822    app     warn:    [login-window] Could not exchange code for tokens on request 'cX8idDQK3QfrD5ZhzbqKA80jUDW6rgojdTqBUD7vwdY' Request error when calling 'https://login.eveonline.com'
+getaddrinfo ENOTFOUND login.eveonline.com    f [RequestError]: Request error when calling 'https://login.eveonline.com'
+getaddrinfo ENOTFOUND login.eveonline.com
+    at f.from (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:3162844)
+    at ClientRequest.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:3165693)
+    at ClientRequest.emit (node:events:518:28)
+    at emitErrorEvent (node:_http_client:104:11)
+    at TLSSocket.socketErrorListener (node:_http_client:518:5)
+    at TLSSocket.emit (node:events:518:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'login.eveonline.com'
+}
+2025-05-24 05:06:52.970     ui     info:    Initializing captcha    ccp://launcher/renderer/main_window/index.js    2
+2025-05-24 05:06:53.567    app     info:    [server-manager] Downloaded 8.54 MiB/189.18 MiB at 690.61 kiB/s
+2025-05-24 05:06:54.598    app     info:    [server-manager] Downloaded 9.22 MiB/189.18 MiB at 598.89 kiB/s
+2025-05-24 05:06:55.194    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensReceived
+2025-05-24 05:06:55.220    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensReceived
+2025-05-24 05:06:55.227    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserAuthenticated
+2025-05-24 05:06:55.269    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserAuthenticated
+2025-05-24 05:06:55.277    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.LoginWindowClosed
+2025-05-24 05:06:55.277    app     info:    [login-window] Login window with state 'cX8idDQK3QfrD5ZhzbqKA80jUDW6rgojdTqBUD7vwdY' has been closed
+2025-05-24 05:06:55.277    app    error:    [login-window] Could not load the login page: 'https://login.eveonline.com/account/logoff?lang=en&ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3DeveLauncherTQ%26scope%3DeveClientLogin%2Bcisservice.customerRead.v1%2Bcisservice.customerWrite.v1%2Bcisservice.userProfileBasic.v1%2Bvgs.transactionRead.v1%2Bvgs.marketAccess.v1%26redirect_uri%3Dhttps%253A%252F%252Flogin.eveonline.com%252Flauncher%253Fclient_id%253DeveLauncherTQ%26state%3DcX8idDQK3QfrD5ZhzbqKA80jUDW6rgojdTqBUD7vwdY%26code_challenge_method%3DS256%26code_challenge%3DBKTDZ7cMBmSEmHpYuE5woO-jFk7EyS98RHMet6vQYGQ%26steam_ticket%3D14000000c886980e788171c61bd7f11a0100100182533168180000000100000002000000200dd39c7109a3b2c9a0010003000000b200000032000000040000001bd7f11a01001001342100009265e091dd06000a00000000df9a2c685f4a486801002f22020000000000a17104b7eb086aeca537b13a5cb0aeb09401321cacf7cf3244a185febb7ff822e85120242cd5e4e2337c3dcdf43ee90f7401556b2017adc47acb2980f26f03b5d4c5f0d0d649fb7990afe4f5e8d22a5211d495a46aa35cee9a8b2a1463a144ac11205a90fbe8aee35ec3646888eacfd8ee4ca539245cad595acc3e2f97fcd684' ERR_FAILED (-2) loading 'https://login.eveonline.com/account/logoff?lang=en&ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3DeveLauncherTQ%26scope%3DeveClientLogin%2Bcisservice.customerRead.v1%2Bcisservice.customerWrite.v1%2Bcisservice.userProfileBasic.v1%2Bvgs.transactionRead.v1%2Bvgs.marketAccess.v1%26redirect_uri%3Dhttps%253A%252F%252Flogin.eveonline.com%252Flauncher%253Fclient_id%253DeveLauncherTQ%26state%3DcX8idDQK3QfrD5ZhzbqKA80jUDW6rgojdTqBUD7vwdY%26code_challenge_method%3DS256%26code_challenge%3DBKTDZ7cMBmSEmHpYuE5woO-jFk7EyS98RHMet6vQYGQ%26steam_ticket%3D14000000c886980e788171c61bd7f11a0100100182533168180000000100000002000000200dd39c7109a3b2c9a0010003000000b200000032000000040000001bd7f11a01001001342100009265e091dd06000a00000000df9a2c685f4a486801002f22020000000000a17104b7eb086aeca537b13a5cb0aeb09401321cacf7cf3244a185febb7ff822e85120242cd5e4e2337c3dcdf43ee90f7401556b2017adc47acb2980f26f03b5d4c5f0d0d649fb7990afe4f5e8d22a5211d495a46aa35cee9a8b2a1463a144ac11205a90fbe8aee35ec3646888eacfd8ee4ca539245cad595acc3e2f97fcd684'    Error: ERR_FAILED (-2) loading 'https://login.eveonline.com/account/logoff?lang=en&ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3DeveLauncherTQ%26scope%3DeveClientLogin%2Bcisservice.customerRead.v1%2Bcisservice.customerWrite.v1%2Bcisservice.userProfileBasic.v1%2Bvgs.transactionRead.v1%2Bvgs.marketAccess.v1%26redirect_uri%3Dhttps%253A%252F%252Flogin.eveonline.com%252Flauncher%253Fclient_id%253DeveLauncherTQ%26state%3DcX8idDQK3QfrD5ZhzbqKA80jUDW6rgojdTqBUD7vwdY%26code_challenge_method%3DS256%26code_challenge%3DBKTDZ7cMBmSEmHpYuE5woO-jFk7EyS98RHMet6vQYGQ%26steam_ticket%3D14000000c886980e788171c61bd7f11a0100100182533168180000000100000002000000200dd39c7109a3b2c9a0010003000000b200000032000000040000001bd7f11a01001001342100009265e091dd06000a00000000df9a2c685f4a486801002f22020000000000a17104b7eb086aeca537b13a5cb0aeb09401321cacf7cf3244a185febb7ff822e85120242cd5e4e2337c3dcdf43ee90f7401556b2017adc47acb2980f26f03b5d4c5f0d0d649fb7990afe4f5e8d22a5211d495a46aa35cee9a8b2a1463a144ac11205a90fbe8aee35ec3646888eacfd8ee4ca539245cad595acc3e2f97fcd684'
+    at rejectAndCleanup (node:electron/js2c/browser_init:2:79523)
+    at finishListener (node:electron/js2c/browser_init:2:79685)
+    at WebContents.stopLoadingListener (node:electron/js2c/browser_init:2:80072)
+    at WebContents.emit (node:events:530:35)
+    at e.emit (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:3235798) {
+  errno: -2,
+  code: 'ERR_FAILED',
+  url: 'https://login.eveonline.com/account/logoff?lang=en&ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3DeveLauncherTQ%26scope%3DeveClientLogin%2Bcisservice.customerRead.v1%2Bcisservice.customerWrite.v1%2Bcisservice.userProfileBasic.v1%2Bvgs.transactionRead.v1%2Bvgs.marketAccess.v1%26redirect_uri%3Dhttps%253A%252F%252Flogin.eveonline.com%252Flauncher%253Fclient_id%253DeveLauncherTQ%26state%3DcX8idDQK3QfrD5ZhzbqKA80jUDW6rgojdTqBUD7vwdY%26code_challenge_method%3DS256%26code_challenge%3DBKTDZ7cMBmSEmHpYuE5woO-jFk7EyS98RHMet6vQYGQ%26steam_ticket%3D14000000c886980e788171c61bd7f11a0100100182533168180000000100000002000000200dd39c7109a3b2c9a0010003000000b200000032000000040000001bd7f11a01001001342100009265e091dd06000a00000000df9a2c685f4a486801002f22020000000000a17104b7eb086aeca537b13a5cb0aeb09401321cacf7cf3244a185febb7ff822e85120242cd5e4e2337c3dcdf43ee90f7401556b2017adc47acb2980f26f03b5d4c5f0d0d649fb7990afe4f5e8d22a5211d495a46aa35cee9a8b2a1463a144ac11205a90fbe8aee35ec3646888eacfd8ee4ca539245cad595acc3e2f97fcd684'
+}
+2025-05-24 05:06:55.295    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.LoginWindowClosed
+2025-05-24 05:06:55.648    app     info:    [server-manager] Downloaded 9.91 MiB/189.18 MiB at 512.47 kiB/s
+2025-05-24 05:06:56.688    app     info:    [server-manager] Downloaded 10.59 MiB/189.18 MiB at 584.67 kiB/s
+2025-05-24 05:06:57.709    app     info:    [server-manager] Downloaded 11.22 MiB/189.18 MiB at 687.15 kiB/s
+2025-05-24 05:06:58.741    app     info:    [server-manager] Downloaded 11.91 MiB/189.18 MiB at 690.84 kiB/s
+2025-05-24 05:06:59.748    app     info:    [server-manager] Downloaded 12.56 MiB/189.18 MiB at 767.88 kiB/s
+2025-05-24 05:07:00.774    app     info:    [server-manager] Downloaded 13.19 MiB/189.18 MiB at 729.50 kiB/s
+2025-05-24 05:07:01.813    app     info:    [server-manager] Downloaded 13.91 MiB/189.18 MiB at 703.24 kiB/s
+2025-05-24 05:07:02.215    app     info:    [self-update] No application updates were found.
+2025-05-24 05:07:02.860    app     info:    [server-manager] Downloaded 14.66 MiB/189.18 MiB at 1.07 MiB/s
+2025-05-24 05:07:03.868    app     info:    [server-manager] Downloaded 15.60 MiB/189.18 MiB at 926.15 kiB/s
+2025-05-24 05:07:04.896    app     info:    [server-manager] Downloaded 16.51 MiB/189.18 MiB at 958.08 kiB/s
+2025-05-24 05:07:05.905    app     info:    [server-manager] Downloaded 17.24 MiB/189.18 MiB at 352.00 kiB/s
+2025-05-24 05:07:06.503    app     warn:    The connection to LogLite was refused. A LogLite server may not be running, or be listening to connections.    []
+2025-05-24 05:07:06.934    app     info:    [server-manager] Downloaded 18.12 MiB/189.18 MiB at 813.56 kiB/s
+2025-05-24 05:07:07.959    app     info:    [server-manager] Downloaded 19.08 MiB/189.18 MiB at 1,015.99 kiB/s
+2025-05-24 05:07:08.965    app     info:    [server-manager] Downloaded 19.99 MiB/189.18 MiB at 510.98 kiB/s
+2025-05-24 05:07:09.988    app     info:    [server-manager] Downloaded 20.92 MiB/189.18 MiB at 965.51 kiB/s
+2025-05-24 05:07:11.030    app     info:    [server-manager] Downloaded 21.86 MiB/189.18 MiB at 1,002.20 kiB/s
+2025-05-24 05:07:12.049    app     info:    [server-manager] Downloaded 22.81 MiB/189.18 MiB at 391.00 kiB/s
+2025-05-24 05:07:13.080    app     info:    [server-manager] Downloaded 23.70 MiB/189.18 MiB at 880.02 kiB/s
+2025-05-24 05:07:14.094    app     info:    [server-manager] Downloaded 24.63 MiB/189.18 MiB at 1,002.47 kiB/s
+2025-05-24 05:07:15.112    app     info:    [server-manager] Downloaded 25.56 MiB/189.18 MiB at 408.50 kiB/s
+2025-05-24 05:07:16.118    app     info:    [server-manager] Downloaded 26.48 MiB/189.18 MiB at 766.47 kiB/s
+2025-05-24 05:07:17.155    app     info:    [server-manager] Downloaded 27.14 MiB/189.18 MiB at 691.55 kiB/s
+2025-05-24 05:07:18.172    app     info:    [server-manager] Downloaded 28.08 MiB/189.18 MiB at 892.43 kiB/s
+2025-05-24 05:07:19.184    app     info:    [server-manager] Downloaded 28.96 MiB/189.18 MiB at 470.00 kiB/s
+2025-05-24 05:07:20.195    app     info:    [server-manager] Downloaded 29.88 MiB/189.18 MiB at 442.63 kiB/s
+2025-05-24 05:07:21.212    app     info:    [server-manager] Downloaded 30.82 MiB/189.18 MiB at 899.26 kiB/s
+2025-05-24 05:07:22.213    app     info:    [server-manager] Downloaded 31.68 MiB/189.18 MiB at 576.00 kiB/s
+2025-05-24 05:07:23.252    app     info:    [server-manager] Downloaded 32.63 MiB/189.18 MiB at 1,003.92 kiB/s
+2025-05-24 05:07:24.299    app     info:    [server-manager] Downloaded 33.54 MiB/189.18 MiB at 932.04 kiB/s
+2025-05-24 05:07:25.311    app     info:    [server-manager] Downloaded 34.47 MiB/189.18 MiB at 952.38 kiB/s
+2025-05-24 05:07:26.341    app     info:    [server-manager] Downloaded 35.33 MiB/189.18 MiB at 950.50 kiB/s
+2025-05-24 05:07:27.365    app     info:    [server-manager] Downloaded 36.10 MiB/189.18 MiB at 710.32 kiB/s
+2025-05-24 05:07:28.392    app     info:    [server-manager] Downloaded 37.02 MiB/189.18 MiB at 894.21 kiB/s
+2025-05-24 05:07:29.226    app     info:    [scheduler] Stopped scheduler foreground
+2025-05-24 05:07:29.227    app     info:    [ipc-requests] Handling requests in the background
+2025-05-24 05:07:29.422    app     info:    [server-manager] Downloaded 37.85 MiB/189.18 MiB at 981.90 kiB/s
+2025-05-24 05:07:30.228    app     info:    [ipc-requests] No longer handling requests in the background
+2025-05-24 05:07:30.431    app     info:    [server-manager] Downloaded 38.80 MiB/189.18 MiB at 574.85 kiB/s
+2025-05-24 05:07:31.464    app     info:    [server-manager] Downloaded 39.62 MiB/189.18 MiB at 883.63 kiB/s
+2025-05-24 05:07:32.498    app     info:    [server-manager] Downloaded 40.49 MiB/189.18 MiB at 1.36 MiB/s
+2025-05-24 05:07:33.324    app     info:    [scheduler] Starting scheduler foreground
+2025-05-24 05:07:33.504    app     info:    [server-manager] Downloaded 41.43 MiB/189.18 MiB at 1.06 MiB/s
+2025-05-24 05:07:34.585    app     info:    [server-manager] Downloaded 42.48 MiB/189.18 MiB at 1.08 MiB/s
+2025-05-24 05:07:35.537    app     info:    [scheduler] Stopped scheduler foreground
+2025-05-24 05:07:35.538    app     info:    [ipc-requests] Handling requests in the background
+2025-05-24 05:07:35.740    app     info:    [server-manager] Downloaded 43.37 MiB/189.18 MiB at 924.59 kiB/s
+2025-05-24 05:07:36.539    app     info:    [ipc-requests] No longer handling requests in the background
+2025-05-24 05:07:36.747    app     info:    [server-manager] Downloaded 44.17 MiB/189.18 MiB at 924.30 kiB/s
+2025-05-24 05:07:37.806    app     info:    [server-manager] Downloaded 45.03 MiB/189.18 MiB at 914.29 kiB/s
+2025-05-24 05:07:38.792    app     info:    [scheduler] Starting scheduler foreground
+2025-05-24 05:07:38.832    app     info:    [customer-information] Getting character information for '23622903' on 'tranquility'
+2025-05-24 05:07:38.833    app     info:    [customer-information] Getting Omega status for '23622903' on 'tranquility' (eve-online)
+2025-05-24 05:07:38.833    app     info:    [virtual-goods] Getting Plex status for '23622903' on 'tranquility' (eve-online)
+2025-05-24 05:07:38.864    app     info:    [server-manager] Downloaded 46.06 MiB/189.18 MiB at 1.08 MiB/s
+2025-05-24 05:07:38.992    app     info:    [virtual-goods] Fetched Plex status for '23622903' on 'tranquility' (eve-online) with balance: 0
+2025-05-24 05:07:39.241    app     info:    [customer-information] Agreement status has been fetched for user '23622903'
+2025-05-24 05:07:39.675    app     info:    [esi] Fetching character details for 2118248041, 2121175776
+2025-05-24 05:07:39.860    app     info:    [server-manager] Downloaded 46.92 MiB/189.18 MiB at 608.00 kiB/s
+2025-05-24 05:07:40.873    app     info:    [server-manager] Downloaded 47.85 MiB/189.18 MiB at 922.30 kiB/s
+2025-05-24 05:07:41.145    app     info:    [window-manager-minimize] Main window minimized to tray    { windowId: 2 }
+2025-05-24 05:07:41.197    app     info:    [window-manager-minimize] Sent notification that the application is minimized to tray    { windowId: 2 }
+2025-05-24 05:07:41.199    app     warn:    Retrying request to https://images.evetech.net (1) Request timed out    p [RequestTimeoutError]: Request timed out
+    at ClientRequest.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:3165803)
+    at ClientRequest.emit (node:events:518:28)
+    at TLSSocket.emitRequestTimeout (node:_http_client:863:9)
+    at Object.onceWrapper (node:events:632:28)
+    at TLSSocket.emit (node:events:530:35)
+    at Socket._onTimeout (node:net:609:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2025-05-24 05:07:41.211    app     info:    [scheduler] Stopped scheduler foreground
+2025-05-24 05:07:41.213    app     info:    [ipc-requests] Handling requests in the background
+2025-05-24 05:07:41.928    app     info:    [server-manager] Downloaded 48.76 MiB/189.18 MiB at 912.71 kiB/s
+2025-05-24 05:07:42.212    app     info:    [ipc-requests] No longer handling requests in the background
+2025-05-24 05:07:42.987    app     info:    [server-manager] Downloaded 49.64 MiB/189.18 MiB at 868.91 kiB/s
+2025-05-24 05:07:43.109    app     info:    [esi] Fetched 2 character details for 23622903
+2025-05-24 05:07:43.963    app     info:    [time-sync] Failed to sync time with 2 servers
+2025-05-24 05:07:43.964    app     info:    [time-sync] Compared time with 4 servers. 2 successful, 2 failed.
+2025-05-24 05:07:43.964    app     info:    [time-sync] Not showing any warnings because there were errors fetching the time.
+2025-05-24 05:07:43.994    app     info:    [server-manager] Downloaded 50.58 MiB/189.18 MiB at 1.00 MiB/s
+2025-05-24 05:07:45.022    app     info:    [server-manager] Downloaded 51.50 MiB/189.18 MiB at 692.06 kiB/s
+2025-05-24 05:07:46.029    app     info:    [server-manager] Downloaded 52.38 MiB/189.18 MiB at 584.74 kiB/s
+2025-05-24 05:07:47.086    app     info:    [server-manager] Downloaded 53.09 MiB/189.18 MiB at 687.26 kiB/s
+2025-05-24 05:07:48.095    app     info:    [server-manager] Downloaded 54.13 MiB/189.18 MiB at 510.98 kiB/s
+2025-05-24 05:07:49.143    app     info:    [server-manager] Downloaded 55.07 MiB/189.18 MiB at 912.29 kiB/s
+2025-05-24 05:07:50.155    app     info:    [server-manager] Downloaded 55.89 MiB/189.18 MiB at 447.11 kiB/s
+2025-05-24 05:07:51.165    app     info:    [server-manager] Downloaded 56.74 MiB/189.18 MiB at 868.75 kiB/s
+2025-05-24 05:07:52.185    app     info:    [server-manager] Downloaded 57.65 MiB/189.18 MiB at 787.40 kiB/s
+2025-05-24 05:07:53.208    app     info:    [server-manager] Downloaded 58.56 MiB/189.18 MiB at 883.51 kiB/s
+2025-05-24 05:07:54.218    app     info:    [server-manager] Downloaded 59.44 MiB/189.18 MiB at 352.00 kiB/s
+2025-05-24 05:07:55.243    app     info:    [server-manager] Downloaded 60.13 MiB/189.18 MiB at 695.65 kiB/s
+2025-05-24 05:07:56.314    app     info:    [server-manager] Downloaded 61.09 MiB/189.18 MiB at 864.06 kiB/s
+2025-05-24 05:07:57.335    app     info:    [server-manager] Downloaded 61.94 MiB/189.18 MiB at 482.66 kiB/s
+2025-05-24 05:07:58.342    app     info:    [server-manager] Downloaded 62.93 MiB/189.18 MiB at 431.14 kiB/s
+2025-05-24 05:07:59.401    app     info:    [server-manager] Downloaded 63.83 MiB/189.18 MiB at 838.27 kiB/s
+2025-05-24 05:08:00.437    app     info:    [server-manager] Downloaded 64.75 MiB/189.18 MiB at 906.25 kiB/s
+2025-05-24 05:08:01.443    app     info:    [server-manager] Downloaded 65.67 MiB/189.18 MiB at 894.21 kiB/s
+2025-05-24 05:08:02.471    app     info:    [server-manager] Downloaded 66.59 MiB/189.18 MiB at 887.13 kiB/s
+2025-05-24 05:08:03.489    app     info:    [server-manager] Downloaded 67.46 MiB/189.18 MiB at 1.05 MiB/s
+2025-05-24 05:08:04.500    app     info:    [server-manager] Downloaded 68.34 MiB/189.18 MiB at 865.23 kiB/s
+2025-05-24 05:08:05.532    app     info:    [server-manager] Downloaded 69.06 MiB/189.18 MiB at 1,003.92 kiB/s
+2025-05-24 05:08:06.553    app     info:    [server-manager] Downloaded 70.01 MiB/189.18 MiB at 906.25 kiB/s
+2025-05-24 05:08:07.587    app     info:    [server-manager] Downloaded 70.87 MiB/189.18 MiB at 1.28 MiB/s
+2025-05-24 05:08:08.596    app     info:    [server-manager] Downloaded 71.84 MiB/189.18 MiB at 669.32 kiB/s
+2025-05-24 05:08:09.624    app     info:    [server-manager] Downloaded 72.72 MiB/189.18 MiB at 866.30 kiB/s
+2025-05-24 05:08:10.664    app     info:    [server-manager] Downloaded 73.68 MiB/189.18 MiB at 843.69 kiB/s
+2025-05-24 05:08:11.681    app     info:    [server-manager] Downloaded 74.56 MiB/189.18 MiB at 560.00 kiB/s
+2025-05-24 05:08:12.737    app     info:    [server-manager] Downloaded 75.41 MiB/189.18 MiB at 803.78 kiB/s
+2025-05-24 05:08:13.776    app     info:    [server-manager] Downloaded 76.44 MiB/189.18 MiB at 1.01 MiB/s
+2025-05-24 05:08:14.816    app     info:    [server-manager] Downloaded 77.36 MiB/189.18 MiB at 944.88 kiB/s
+2025-05-24 05:08:15.835    app     info:    [server-manager] Downloaded 78.27 MiB/189.18 MiB at 926.15 kiB/s
+2025-05-24 05:08:16.848    app     info:    [server-manager] Downloaded 79.20 MiB/189.18 MiB at 996.42 kiB/s
+2025-05-24 05:08:17.894    app     info:    [server-manager] Downloaded 79.92 MiB/189.18 MiB at 586.25 kiB/s
+2025-05-24 05:08:18.905    app     info:    [server-manager] Downloaded 80.84 MiB/189.18 MiB at 583.38 kiB/s
+2025-05-24 05:08:19.937    app     info:    [server-manager] Downloaded 81.75 MiB/189.18 MiB at 974.46 kiB/s
+2025-05-24 05:08:20.968    app     info:    [server-manager] Downloaded 82.72 MiB/189.18 MiB at 1.05 MiB/s
+2025-05-24 05:08:22.022    app     info:    [server-manager] Downloaded 83.63 MiB/189.18 MiB at 870.54 kiB/s
+2025-05-24 05:08:23.029    app     info:    [server-manager] Downloaded 84.54 MiB/189.18 MiB at 876.00 kiB/s
+2025-05-24 05:08:24.054    app     info:    [server-manager] Downloaded 85.43 MiB/189.18 MiB at 1.32 MiB/s
+2025-05-24 05:08:25.067    app     info:    [server-manager] Downloaded 86.33 MiB/189.18 MiB at 945.73 kiB/s
+2025-05-24 05:08:26.088    app     info:    [server-manager] Downloaded 87.22 MiB/189.18 MiB at 881.89 kiB/s
+2025-05-24 05:08:27.100    app     info:    [server-manager] Downloaded 88.03 MiB/189.18 MiB at 417.42 kiB/s
+2025-05-24 05:08:28.121    app     info:    [server-manager] Downloaded 88.82 MiB/189.18 MiB at 684.25 kiB/s
+2025-05-24 05:08:29.152    app     info:    [server-manager] Downloaded 89.71 MiB/189.18 MiB at 544.00 kiB/s
+2025-05-24 05:08:30.167    app     info:    [server-manager] Downloaded 90.63 MiB/189.18 MiB at 896.00 kiB/s
+2025-05-24 05:08:31.184    app     info:    [server-manager] Downloaded 91.55 MiB/189.18 MiB at 886.28 kiB/s
+2025-05-24 05:08:32.215    app     info:    [server-manager] Downloaded 92.41 MiB/189.18 MiB at 994.17 kiB/s
+2025-05-24 05:08:33.222    app     info:    [server-manager] Downloaded 93.33 MiB/189.18 MiB at 1.00 MiB/s
+2025-05-24 05:08:34.242    app     info:    [server-manager] Downloaded 94.23 MiB/189.18 MiB at 980.58 kiB/s
+2025-05-24 05:08:35.274    app     info:    [server-manager] Downloaded 95.11 MiB/189.18 MiB at 787.98 kiB/s
+2025-05-24 05:08:36.292    app     info:    [server-manager] Downloaded 95.97 MiB/189.18 MiB at 1.12 MiB/s
+2025-05-24 05:08:37.310    app     info:    [server-manager] Downloaded 96.80 MiB/189.18 MiB at 745.63 kiB/s
+2025-05-24 05:08:38.337    app     info:    [server-manager] Downloaded 97.72 MiB/189.18 MiB at 911.09 kiB/s
+2025-05-24 05:08:39.350    app     info:    [server-manager] Downloaded 98.63 MiB/189.18 MiB at 937.75 kiB/s
+2025-05-24 05:08:40.402    app     info:    [server-manager] Downloaded 99.54 MiB/189.18 MiB at 846.88 kiB/s
+2025-05-24 05:08:41.413    app     info:    [server-manager] Downloaded 100.42 MiB/189.18 MiB at 608.00 kiB/s
+2025-05-24 05:08:42.181    app     warn:    Retrying request to https://images.ctfassets.net (1) Request timed out    p [RequestTimeoutError]: Request timed out
+    at ClientRequest.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:3165803)
+    at ClientRequest.emit (node:events:518:28)
+    at TLSSocket.emitRequestTimeout (node:_http_client:863:9)
+    at Object.onceWrapper (node:events:632:28)
+    at TLSSocket.emit (node:events:530:35)
+    at Socket._onTimeout (node:net:609:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2025-05-24 05:08:42.426    app     info:    [save-as] Retrying download of https://binaries.eveonline.com/bundles/2911964/eveonline_2911964.txt.bundle.7 (attempt 1) Error occurred while saving file to disk 'C:\Games\EVE\ResFiles\bundles\2911964\.eveonline_2911964.txt.bundle.7.tmp'
+Request timed out    k [SaveAsError]: Error occurred while saving file to disk 'C:\Games\EVE\ResFiles\bundles\2911964\.eveonline_2911964.txt.bundle.7.tmp'
+Request timed out
+    at k.from (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:2357899)
+    at v.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:2011614)
+    at v.emit (node:events:518:28)
+    at v.emitError (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:3166710)
+    at ClientRequest.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:3165663)
+    at ClientRequest.emit (node:events:530:35)
+    at emitErrorEvent (node:_http_client:104:11)
+    at TLSSocket.socketErrorListener (node:_http_client:518:5)
+    at TLSSocket.emit (node:events:518:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8) {
+  cause: p [RequestTimeoutError]: Request timed out
+      at ClientRequest.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:3165803)
+      at ClientRequest.emit (node:events:530:35)
+      at TLSSocket.emitRequestTimeout (node:_http_client:863:9)
+      at Object.onceWrapper (node:events:632:28)
+      at TLSSocket.emit (node:events:530:35)
+      at Socket._onTimeout (node:net:609:8)
+      at listOnTimeout (node:internal/timers:594:17)
+      at process.processTimers (node:internal/timers:529:7)
+}
+2025-05-24 05:08:42.446    app     info:    [server-manager] Downloaded 101.37 MiB/189.18 MiB at 970.02 kiB/s
+2025-05-24 05:08:43.465    app     info:    [server-manager] Downloaded 102.15 MiB/189.18 MiB at 523.89 kiB/s
+2025-05-24 05:08:44.531    app     info:    [server-manager] Downloaded 102.95 MiB/189.18 MiB at 698.26 kiB/s
+2025-05-24 05:08:45.565    app     info:    [server-manager] Downloaded 103.79 MiB/189.18 MiB at 779.83 kiB/s
+2025-05-24 05:08:46.588    app     info:    [server-manager] Downloaded 104.46 MiB/189.18 MiB at 658.82 kiB/s
+2025-05-24 05:08:47.623    app     info:    [server-manager] Downloaded 105.19 MiB/189.18 MiB at 766.47 kiB/s
+2025-05-24 05:08:48.680    app     info:    [server-manager] Downloaded 105.92 MiB/189.18 MiB at 715.75 kiB/s
+2025-05-24 05:08:49.742    app     info:    [server-manager] Downloaded 106.76 MiB/189.18 MiB at 819.33 kiB/s
+2025-05-24 05:08:50.760    app     info:    [server-manager] Downloaded 107.72 MiB/189.18 MiB at 909.49 kiB/s
+2025-05-24 05:08:51.776    app     info:    [server-manager] Downloaded 108.49 MiB/189.18 MiB at 768.00 kiB/s
+2025-05-24 05:08:52.789    app     info:    [server-manager] Downloaded 109.40 MiB/189.18 MiB at 972.25 kiB/s
+2025-05-24 05:08:53.831    app     info:    [server-manager] Downloaded 110.32 MiB/189.18 MiB at 1.26 MiB/s
+2025-05-24 05:08:54.841    app     info:    [server-manager] Downloaded 111.26 MiB/189.18 MiB at 458.42 kiB/s
+2025-05-24 05:08:55.872    app     info:    [server-manager] Downloaded 112.17 MiB/189.18 MiB at 869.58 kiB/s
+2025-05-24 05:08:56.896    app     info:    [server-manager] Downloaded 112.89 MiB/189.18 MiB at 715.95 kiB/s
+2025-05-24 05:08:57.906    app     info:    [server-manager] Downloaded 113.82 MiB/189.18 MiB at 940.25 kiB/s
+2025-05-24 05:08:58.914    app     info:    [server-manager] Downloaded 114.74 MiB/189.18 MiB at 926.15 kiB/s
+2025-05-24 05:08:59.926    app     info:    [server-manager] Downloaded 115.66 MiB/189.18 MiB at 608.00 kiB/s
+2025-05-24 05:09:00.934    app     info:    [server-manager] Downloaded 116.58 MiB/189.18 MiB at 958.08 kiB/s
+2025-05-24 05:09:01.962    app     info:    [server-manager] Downloaded 117.44 MiB/189.18 MiB at 735.80 kiB/s
+2025-05-24 05:09:02.996    app     info:    [server-manager] Downloaded 118.35 MiB/189.18 MiB at 935.94 kiB/s
+2025-05-24 05:09:04.006    app     info:    [server-manager] Downloaded 119.29 MiB/189.18 MiB at 990.02 kiB/s
+2025-05-24 05:09:05.019    app     info:    [server-manager] Downloaded 120.25 MiB/189.18 MiB at 1,016.77 kiB/s
+2025-05-24 05:09:06.032    app     info:    [server-manager] Downloaded 121.12 MiB/189.18 MiB at 448.00 kiB/s
+2025-05-24 05:09:07.054    app     info:    [server-manager] Downloaded 121.85 MiB/189.18 MiB at 724.55 kiB/s
+2025-05-24 05:09:08.063    app     info:    [server-manager] Downloaded 122.83 MiB/189.18 MiB at 974.50 kiB/s
+2025-05-24 05:09:09.094    app     info:    [server-manager] Downloaded 123.77 MiB/189.18 MiB at 936.39 kiB/s
+2025-05-24 05:09:10.117    app     info:    [server-manager] Downloaded 124.69 MiB/189.18 MiB at 888.89 kiB/s
+2025-05-24 05:09:11.146    app     info:    [server-manager] Downloaded 125.58 MiB/189.18 MiB at 921.56 kiB/s
+2025-05-24 05:09:12.156    app     info:    [server-manager] Downloaded 126.43 MiB/189.18 MiB at 864.00 kiB/s
+2025-05-24 05:09:13.179    app     info:    [server-manager] Downloaded 127.40 MiB/189.18 MiB at 998.05 kiB/s
+2025-05-24 05:09:14.211    app     info:    [server-manager] Downloaded 128.32 MiB/189.18 MiB at 848.01 kiB/s
+2025-05-24 05:09:15.241    app     info:    [server-manager] Downloaded 129.25 MiB/189.18 MiB at 1.37 MiB/s
+2025-05-24 05:09:16.250    app     info:    [server-manager] Downloaded 130.19 MiB/189.18 MiB at 862.28 kiB/s
+2025-05-24 05:09:17.273    app     info:    [server-manager] Downloaded 131.00 MiB/189.18 MiB at 828.69 kiB/s
+2025-05-24 05:09:18.304    app     info:    [server-manager] Downloaded 131.82 MiB/189.18 MiB at 796.93 kiB/s
+2025-05-24 05:09:19.311    app     info:    [server-manager] Downloaded 132.76 MiB/189.18 MiB at 926.15 kiB/s
+2025-05-24 05:09:20.334    app     info:    [server-manager] Downloaded 133.63 MiB/189.18 MiB at 918.24 kiB/s
+2025-05-24 05:09:21.076    app     info:    [save-as] Retrying download of https://binaries.eveonline.com/bundles/2911964/eveonline_2911964.txt.bundle.1 (attempt 1) Error occurred while saving file to disk 'C:\Games\EVE\ResFiles\bundles\2911964\.eveonline_2911964.txt.bundle.1.tmp'
+Request timed out    k [SaveAsError]: Error occurred while saving file to disk 'C:\Games\EVE\ResFiles\bundles\2911964\.eveonline_2911964.txt.bundle.1.tmp'
+Request timed out
+    at k.from (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:2357899)
+    at v.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:2011614)
+    at v.emit (node:events:518:28)
+    at v.emitError (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:3166710)
+    at ClientRequest.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:3165663)
+    at ClientRequest.emit (node:events:530:35)
+    at emitErrorEvent (node:_http_client:104:11)
+    at TLSSocket.socketErrorListener (node:_http_client:518:5)
+    at TLSSocket.emit (node:events:518:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8) {
+  cause: p [RequestTimeoutError]: Request timed out
+      at ClientRequest.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:3165803)
+      at ClientRequest.emit (node:events:530:35)
+      at TLSSocket.emitRequestTimeout (node:_http_client:863:9)
+      at Object.onceWrapper (node:events:632:28)
+      at TLSSocket.emit (node:events:530:35)
+      at Socket._onTimeout (node:net:609:8)
+      at listOnTimeout (node:internal/timers:594:17)
+      at process.processTimers (node:internal/timers:529:7)
+}
+2025-05-24 05:09:21.372    app     info:    [server-manager] Downloaded 131.59 MiB/189.18 MiB at 1,005.89 kiB/s
+2025-05-24 05:09:21.442    app     info:    [window-manager-minimize] Main window minimized to tray    { windowId: 2 }
+2025-05-24 05:09:22.399    app     info:    [server-manager] Downloaded 132.42 MiB/189.18 MiB at 1.25 MiB/s
+2025-05-24 05:09:23.407    app     info:    [server-manager] Downloaded 133.40 MiB/189.18 MiB at 960.44 kiB/s
+2025-05-24 05:09:24.429    app     info:    [server-manager] Downloaded 134.30 MiB/189.18 MiB at 986.08 kiB/s
+2025-05-24 05:09:25.456    app     info:    [server-manager] Downloaded 135.25 MiB/189.18 MiB at 992.58 kiB/s

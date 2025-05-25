@@ -1,0 +1,135 @@
+{
+	"state": {
+		"settings": {
+			"sharedCacheDirectory": "C:\\CCP\\EVE",
+			"hasSharedCacheDirectoryBeenConfirmed": false,
+			"location": "ua",
+			"ratingSystem": "pegi"
+		},
+		"clientBuilds": {
+			"eve-online": {
+				"tranquility": {
+					"build": "2866918"
+				}
+			}
+		},
+		"clientManagement": {
+			"processes": {
+				"eve-online": {
+					"tranquility": []
+				}
+			},
+			"temporaryProcesses": {}
+		},
+		"v2/application": {
+			"name": "EVE Online",
+			"window": {
+				"isMinimized": false,
+				"isMaximized": false,
+				"isVisible": false
+			},
+			"session": {
+				"isFirstRun": false,
+				"isAppRestartPending": false,
+				"isDevelopment": false,
+				"isQaEnabled": false,
+				"isQuitting": false,
+				"isGeforceNow": false,
+				"shenanigans": {
+					"isApplicationUpsideDown": false,
+					"hasDismissedOmegaProMaxIntro": false
+				},
+				"isVanguardCountdownActive": false,
+				"notificationTracker": {
+					"ids": [],
+					"entities": {}
+				},
+				"overlays": {
+					"isGameInstallConfirmationOpen": false
+				}
+			},
+			"updates": {
+				"hasDismissedAvailableUpdate": false,
+				"isUpdateAvailable": false,
+				"wasRecentlyUpdated": false,
+				"releaseChannel": "release",
+				"autoUpdateState": "idle",
+				"currentVersion": "1.10.0"
+			}
+		},
+		"v2/settings": {
+			"eve-launcher": {
+				"shouldMinimizeToTray": true,
+				"isHardwareRenderingDisabled": true,
+				"isHighDpiEnabled": false,
+				"showAcademyContent": false,
+				"actionToActivateMethod": "hold",
+				"actionToActivateSpeed": "normal",
+				"hasCompletedNewUserExperience": true,
+				"selectedLanguage": "ru"
+			},
+			"eve-online": {
+				"clientDirectXVersion": "dx11",
+				"clientStartupDelay": 2,
+				"willRunLogLiteBeforeGameClient": false,
+				"autoSelectCharacter": false,
+				"downloadFullClient": false
+			},
+			"eve-vanguard": {}
+		},
+		"shared-cache": {
+			"eve-online": {
+				"location": {
+					"path": "C:\\Games\\EVE",
+					"isConfirmed": true
+				},
+				"moving": {
+					"path": "",
+					"totalFiles": 0,
+					"filesMoved": 0,
+					"isConfirmed": false
+				},
+				"progress": {
+					"tranquility": {
+						"progress": 0,
+						"isBestExperiencePlayable": false,
+						"isNewPlayerExperiencePlayable": false,
+						"status": "idle"
+					}
+				},
+				"cleanedAt": 1747807264355,
+				"canInstall": true
+			},
+			"eve-launcher": {
+				"location": {
+					"isConfirmed": false
+				},
+				"moving": {
+					"path": "",
+					"totalFiles": 0,
+					"filesMoved": 0,
+					"isConfirmed": false
+				},
+				"progress": {},
+				"cleanedAt": 0,
+				"canInstall": false
+			},
+			"eve-vanguard": {
+				"location": {
+					"isConfirmed": false
+				},
+				"moving": {
+					"path": "",
+					"totalFiles": 0,
+					"filesMoved": 0,
+					"isConfirmed": false
+				},
+				"progress": {},
+				"cleanedAt": 0,
+				"canInstall": false
+			}
+		}
+	},
+	"version": 202403271440,
+	"file-migration": 202408021525
+}

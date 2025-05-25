@@ -1,0 +1,15 @@
+Network
+Network/
+Network/*
+
+Cache
+Cache/
+Cache/*
+
+*Cache
+*Cache/
+*Cache/*
+
+Cache*
+Cache*/
+Cache*/*
