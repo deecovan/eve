@@ -444,7 +444,7 @@
 						"url": "https://www.eveonline.com/frontlines"
 					}
 				],
-				"updatedAt": 1748181108199
+				"updatedAt": 1748251940668
 			},
 			"playArea": {
 				"content": {
@@ -522,7 +522,7 @@
 						"url": "https://www.eveonline.com/de/frontlines"
 					}
 				],
-				"updatedAt": 1748181108129
+				"updatedAt": 1748251940588
 			},
 			"playArea": {
 				"content": {
@@ -600,7 +600,7 @@
 						"url": "https://www.eveonline.com/fr/frontlines"
 					}
 				],
-				"updatedAt": 1748181108215
+				"updatedAt": 1748251940690
 			},
 			"playArea": {
 				"content": {
@@ -678,7 +678,7 @@
 						"url": "https://www.eveonline.com/ja/frontlines"
 					}
 				],
-				"updatedAt": 1748181108181
+				"updatedAt": 1748251940649
 			},
 			"playArea": {
 				"content": {
@@ -756,7 +756,7 @@
 						"url": "https://www.eveonline.com/ko/frontlines"
 					}
 				],
-				"updatedAt": 1748181108164
+				"updatedAt": 1748251940630
 			},
 			"playArea": {
 				"content": {
@@ -784,29 +784,29 @@
 					{
 						"id": "427111965",
 						"campaignId": "686848438",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ4MTgxMTEzLCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiNjg2ODQ4NDM4IiwiY3JJRCI6IjQyNzExMTk2NSIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiZTVlYjZjMmEiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6ODY1MDYxOTU3fQ..-40491107&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS9uZXdzL3ZpZXcvdXAtdG8tMjAtb2ZmLW9tZWdhLWluLW5lcz91dG1fc291cmNlPWxhdW5jaGVyJnV0bV9tZWRpdW09YXBwJnV0bV9jYW1wYWlnbj1jbjp3d19sZzpydV9tZzo0X3BkOjJfY2Q6MjVfMDVfb21lZ2FfbmVzX2N0OmxhdW5jaGVyLWJhbm5lcl90ZzpuZXM=",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ4MjUxOTQ3LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiNjg2ODQ4NDM4IiwiY3JJRCI6IjQyNzExMTk2NSIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiMWJhMWE2OGIiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6ODM4OTg2ODM5fQ..-d0d2f45e&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS9uZXdzL3ZpZXcvdXAtdG8tMjAtb2ZmLW9tZWdhLWluLW5lcz91dG1fc291cmNlPWxhdW5jaGVyJnV0bV9tZWRpdW09YXBwJnV0bV9jYW1wYWlnbj1jbjp3d19sZzpydV9tZzo0X3BkOjJfY2Q6MjVfMDVfb21lZ2FfbmVzX2N0OmxhdW5jaGVyLWJhbm5lcl90ZzpuZXM=",
 						"landing_url": "https://www.eveonline.com/news/view/up-to-20-off-omega-in-nes?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:ru_mg:4_pd:2_cd:25_05_omega_nes_ct:launcher-banner_tg:nes",
-						"image": "cache+https://creatives2.extccp.com/tb9ffac83/img/szszg_yrpuwa_7fc7cb72.png",
+						"image": "cache+https://creatives2.extccp.com/t8b3c0138/img/szszg_yrpuwa_7fc7cb72.png",
 						"weight": "60"
 					},
 					{
-						"id": "165895127",
-						"campaignId": "814856875",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ4MTgxMTEzLCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiODE0ODU2ODc1IiwiY3JJRCI6IjE2NTg5NTEyNyIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiZTVlYjZjMmEiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6MTgwNDk2MDI0fQ..-cf60c13d&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly9zdG9yZS5ldmVvbmxpbmUuY29tL3Byb2R1Y3QvMy0wMDAtcGxleC0zLXBvbGljZS1za2lucy92ZXJtLTc4NTc/dXRtX3NvdXJjZT1sYXVuY2hlciZ1dG1fbWVkaXVtPWFwcCZ1dG1fY2FtcGFpZ249Y246d3dfbGc6cnVfbWc6NF9wZDoyX2NkOjI1XzA1X3BsZXhfcG9saWNlX2N0OmxhdW5jaGVyLWJhbm5lcl90ZzpzZWN1cmU=",
-						"landing_url": "https://store.eveonline.com/product/3-000-plex-3-police-skins/verm-7857?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:ru_mg:4_pd:2_cd:25_05_plex_police_ct:launcher-banner_tg:secure",
-						"image": "cache+https://creatives2.extccp.com/tb9ffac83/img/szszg_mz8ua6_41d2427b.png",
+						"id": "215639147",
+						"campaignId": "872134025",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ4MjUxOTQ3LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiODcyMTM0MDI1IiwiY3JJRCI6IjIxNTYzOTE0NyIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiMWJhMWE2OGIiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6NjkzODk0MTE1fQ..-53ed7edd&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly9zdG9yZS5ldmVvbmxpbmUuY29tL3Byb2R1Y3QvMy0wMDAtcGxleC0zLXBvbGljZS1za2lucy92ZXJtLTc4NTc/dXRtX3NvdXJjZT1sYXVuY2hlciZ1dG1fbWVkaXVtPWFwcCZ1dG1fY2FtcGFpZ249Y246d3dfbGc6cnVfbWc6NF9wZDoyX2NkOjI1XzA1X3BsZXhfcG9saWNlLWVzX2N0OmxhdW5jaGVyLWJhbm5lcl90ZzpzZWN1cmU=",
+						"landing_url": "https://store.eveonline.com/product/3-000-plex-3-police-skins/verm-7857?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:ru_mg:4_pd:2_cd:25_05_plex_police-es_ct:launcher-banner_tg:secure",
+						"image": "cache+https://creatives2.extccp.com/t8b3c0138/img/szszg_dxgecb_c6790f97.png",
 						"weight": "60"
 					},
 					{
-						"id": "678428872",
-						"campaignId": "185652700",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ4MTgxMTEzLCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiMTg1NjUyNzAwIiwiY3JJRCI6IjY3ODQyODg3MiIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiZTVlYjZjMmEiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6MjA5NDM3NjgwfQ..-3f0a4100&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS9uZXdzL3ZpZXcvbGVnaW9uLWluLWZvY3VzLz91dG1fc291cmNlPWxhdW5jaGVyJnV0bV9tZWRpdW09YXBwJnV0bV9jYW1wYWlnbj1jbjp3d19sZzpydV9tZzozX3BkOjJfY2Q6MjVfMDVfbGVnaW9uX2luX2ZvY3VzX2N0OmxhdW5jaGVyLWJhbm5lcl90ZzpuZXdz",
-						"landing_url": "https://www.eveonline.com/news/view/legion-in-focus/?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:ru_mg:3_pd:2_cd:25_05_legion_in_focus_ct:launcher-banner_tg:news",
-						"image": "cache+https://creatives2.extccp.com/tb9ffac83/img/szszg_tzvfrs_f9a6fc51.png",
+						"id": "972508393",
+						"campaignId": "176746530",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ4MjUxOTQ3LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiMTc2NzQ2NTMwIiwiY3JJRCI6Ijk3MjUwODM5MyIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiMWJhMWE2OGIiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6OTY2NDc3NzkzfQ..-a70615ca&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS9uZXdzL3ZpZXcvbGVnaW9uLWV4cGFuc2lvbi1sYXVuY2hlcy1vbi0yNy1tYXk/dXRtX3NvdXJjZT1sYXVuY2hlciZ1dG1fbWVkaXVtPWFwcCZ1dG1fY2FtcGFpZ249Y246d3dfbGc6ZGVfbWc6NV9wZDoyX2NkOjI1XzA1X2xlZ2lvbl9jc19jdDpsYXVuY2hlci1iYW5uZXJfdGc6bmV3cw==",
+						"landing_url": "https://www.eveonline.com/news/view/legion-expansion-launches-on-27-may?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:de_mg:5_pd:2_cd:25_05_legion_cs_ct:launcher-banner_tg:news",
+						"image": "cache+https://creatives2.extccp.com/t8b3c0138/img/szszg_kbwc8d_4ed0b398.png",
 						"weight": "60"
 					}
 				],
-				"updatedAt": 1748181109019
+				"updatedAt": 1748251944274
 			},
 			"imageGallery": {
 				"items": []
@@ -859,7 +859,7 @@
 						"url": "https://www.eveonline.com/ru/frontlines"
 					}
 				],
-				"updatedAt": 1748181108148
+				"updatedAt": 1748251940610
 			},
 			"playArea": {
 				"content": {
@@ -1783,7 +1783,7 @@
 						"url": "https://www.eveonline.com/es/frontlines"
 					}
 				],
-				"updatedAt": 1748181108231
+				"updatedAt": 1748251940710
 			},
 			"playArea": {
 				"content": {
@@ -1861,7 +1861,7 @@
 						"url": "https://www.eveonline.com/zh/frontlines"
 					}
 				],
-				"updatedAt": 1748181108246
+				"updatedAt": 1748251940730
 			},
 			"playArea": {
 				"content": {
