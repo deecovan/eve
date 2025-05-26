@@ -4,6 +4,7 @@
 - Try other EG
   - dmytro.cheva@gmail.com Login failed.
 - !!!Found deemandiman (deeman.diman@gmail.com) since 04.26 2025
+  - deemandiman has no capsuleers started
 
 ## 05.25
 - Tried to relink Epic Games accounts
