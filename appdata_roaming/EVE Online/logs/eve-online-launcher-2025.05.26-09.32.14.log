@@ -217,3 +217,201 @@
 2025-05-26 09:33:21.371    app     info:    [server-manager] Downloaded 47.81 MiB/4.72 GiB at 890.66 kiB/s
 2025-05-26 09:33:22.401    app     info:    [server-manager] Downloaded 48.76 MiB/4.72 GiB at 956.18 kiB/s
 2025-05-26 09:33:23.409    app     info:    [server-manager] Downloaded 49.68 MiB/4.72 GiB at 860.56 kiB/s
+2025-05-26 09:33:24.415    app     info:    [server-manager] Downloaded 50.62 MiB/4.72 GiB at 542.91 kiB/s
+2025-05-26 09:33:24.864    app     info:    [time-sync] Failed to sync time with 1 servers
+2025-05-26 09:33:24.864    app     info:    [time-sync] Compared time with 4 servers. 3 successful, 1 failed.
+2025-05-26 09:33:24.864    app     info:    [time-sync] Not showing any warnings because there were errors fetching the time.
+2025-05-26 09:33:25.437    app     info:    [server-manager] Downloaded 51.58 MiB/4.72 GiB at 939.73 kiB/s
+2025-05-26 09:33:26.470    app     info:    [server-manager] Downloaded 52.46 MiB/4.72 GiB at 820.51 kiB/s
+2025-05-26 09:33:27.484    app     info:    [server-manager] Downloaded 53.39 MiB/4.72 GiB at 1,011.86 kiB/s
+2025-05-26 09:33:28.492    app     info:    [server-manager] Downloaded 54.35 MiB/4.72 GiB at 495.14 kiB/s
+2025-05-26 09:33:29.524    app     info:    [server-manager] Downloaded 55.27 MiB/4.72 GiB at 888.89 kiB/s
+2025-05-26 09:33:30.556    app     info:    [server-manager] Downloaded 56.19 MiB/4.72 GiB at 1.28 MiB/s
+2025-05-26 09:33:31.564    app     info:    [server-manager] Downloaded 57.16 MiB/4.72 GiB at 913.39 kiB/s
+2025-05-26 09:33:32.572    app     info:    [server-manager] Downloaded 58.05 MiB/4.72 GiB at 407.68 kiB/s
+2025-05-26 09:33:33.584    app     info:    [server-manager] Downloaded 58.91 MiB/4.72 GiB at 384.00 kiB/s
+2025-05-26 09:33:34.593    app     info:    [server-manager] Downloaded 59.78 MiB/4.72 GiB at 1.03 MiB/s
+2025-05-26 09:33:35.639    app     info:    [server-manager] Downloaded 60.71 MiB/4.72 GiB at 892.42 kiB/s
+2025-05-26 09:33:36.645    app     info:    [server-manager] Downloaded 61.72 MiB/4.72 GiB at 600.50 kiB/s
+2025-05-26 09:33:37.687    app     info:    [server-manager] Downloaded 62.61 MiB/4.72 GiB at 940.25 kiB/s
+2025-05-26 09:33:38.713    app     info:    [server-manager] Downloaded 63.60 MiB/4.72 GiB at 1.00 MiB/s
+2025-05-26 09:33:39.743    app     info:    [server-manager] Downloaded 64.60 MiB/4.72 GiB at 315.98 kiB/s
+2025-05-26 09:33:40.868    app     info:    [server-manager] Downloaded 65.51 MiB/4.72 GiB at 901.41 kiB/s
+2025-05-26 09:33:42.004    app     info:    [server-manager] Downloaded 66.57 MiB/4.72 GiB at 987.34 kiB/s
+2025-05-26 09:33:42.589    app     warn:    Retrying request to https://creatives2.extccp.com (1) Request timed out    p [RequestTimeoutError]: Request timed out
+    at ClientRequest.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.0\resources\app.asar\.webpack\main\index.js:8:3165803)
+    at ClientRequest.emit (node:events:518:28)
+    at TLSSocket.emitRequestTimeout (node:_http_client:863:9)
+    at Object.onceWrapper (node:events:632:28)
+    at TLSSocket.emit (node:events:530:35)
+    at Socket._onTimeout (node:net:609:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2025-05-26 09:33:42.973    app     info:    [scheduler] Stopped scheduler foreground
+2025-05-26 09:33:42.974    app     info:    [ipc-requests] Handling requests in the background
+2025-05-26 09:33:43.031    app     info:    [server-manager] Downloaded 67.37 MiB/4.72 GiB at 774.64 kiB/s
+2025-05-26 09:33:43.975    app     info:    [ipc-requests] No longer handling requests in the background
+2025-05-26 09:33:44.059    app     info:    [server-manager] Downloaded 68.28 MiB/4.72 GiB at 1,004.25 kiB/s
+2025-05-26 09:33:45.070    app     info:    [server-manager] Downloaded 69.03 MiB/4.72 GiB at 351.30 kiB/s
+2025-05-26 09:33:45.199    app     info:    [scheduler] Starting scheduler foreground
+2025-05-26 09:33:46.103    app     info:    [server-manager] Downloaded 69.66 MiB/4.72 GiB at 563.60 kiB/s
+2025-05-26 09:33:46.667    app     info:    [scheduler] Stopped scheduler foreground
+2025-05-26 09:33:46.668    app     info:    [ipc-requests] Handling requests in the background
+2025-05-26 09:33:47.116    app     info:    [server-manager] Downloaded 70.36 MiB/4.72 GiB at 728.50 kiB/s
+2025-05-26 09:33:47.669    app     info:    [ipc-requests] No longer handling requests in the background
+2025-05-26 09:33:48.184    app     info:    [server-manager] Downloaded 71.14 MiB/4.72 GiB at 942.97 kiB/s
+2025-05-26 09:33:49.215    app     info:    [server-manager] Downloaded 72.04 MiB/4.72 GiB at 908.87 kiB/s
+2025-05-26 09:33:50.244    app     info:    [server-manager] Downloaded 72.86 MiB/4.72 GiB at 908.77 kiB/s
+2025-05-26 09:33:51.251    app     info:    [server-manager] Downloaded 73.42 MiB/4.72 GiB at 448.00 kiB/s
+2025-05-26 09:33:52.279    app     info:    [server-manager] Downloaded 74.20 MiB/4.72 GiB at 760.40 kiB/s
+2025-05-26 09:33:53.309    app     info:    [server-manager] Downloaded 75.07 MiB/4.72 GiB at 875.37 kiB/s
+2025-05-26 09:33:54.337    app     info:    [server-manager] Downloaded 76.00 MiB/4.72 GiB at 937.74 kiB/s
+2025-05-26 09:33:55.368    app     info:    [server-manager] Downloaded 76.92 MiB/4.72 GiB at 288.00 kiB/s
+2025-05-26 09:33:56.379    app     info:    [server-manager] Downloaded 77.79 MiB/4.72 GiB at 716.82 kiB/s
+2025-05-26 09:33:57.410    app     info:    [server-manager] Downloaded 78.60 MiB/4.72 GiB at 852.07 kiB/s
+2025-05-26 09:33:58.436    app     info:    [server-manager] Downloaded 79.51 MiB/4.72 GiB at 899.55 kiB/s
+2025-05-26 09:33:59.460    app     info:    [server-manager] Downloaded 80.36 MiB/4.72 GiB at 448.00 kiB/s
+2025-05-26 09:34:00.493    app     info:    [server-manager] Downloaded 81.25 MiB/4.72 GiB at 818.80 kiB/s
+2025-05-26 09:34:01.528    app     info:    [server-manager] Downloaded 82.08 MiB/4.72 GiB at 799.35 kiB/s
+2025-05-26 09:34:02.558    app     info:    [server-manager] Downloaded 82.96 MiB/4.72 GiB at 789.48 kiB/s
+2025-05-26 09:34:03.587    app     info:    [server-manager] Downloaded 83.85 MiB/4.72 GiB at 1.26 MiB/s
+2025-05-26 09:34:04.599    app     info:    [server-manager] Downloaded 84.80 MiB/4.72 GiB at 960.00 kiB/s
+2025-05-26 09:34:05.604    app     info:    [server-manager] Downloaded 85.60 MiB/4.72 GiB at 795.78 kiB/s
+2025-05-26 09:34:06.648    app     info:    [server-manager] Downloaded 86.55 MiB/4.72 GiB at 1.00 MiB/s
+2025-05-26 09:34:07.684    app     info:    [server-manager] Downloaded 87.51 MiB/4.72 GiB at 913.93 kiB/s
+2025-05-26 09:34:08.693    app     info:    [server-manager] Downloaded 88.41 MiB/4.72 GiB at 430.50 kiB/s
+2025-05-26 09:34:09.716    app     info:    [server-manager] Downloaded 89.30 MiB/4.72 GiB at 810.93 kiB/s
+2025-05-26 09:34:10.743    app     info:    [server-manager] Downloaded 90.20 MiB/4.72 GiB at 953.85 kiB/s
+2025-05-26 09:34:11.750    app     info:    [server-manager] Downloaded 91.14 MiB/4.72 GiB at 448.00 kiB/s
+2025-05-26 09:34:12.778    app     info:    [server-manager] Downloaded 92.09 MiB/4.72 GiB at 920.63 kiB/s
+2025-05-26 09:34:13.785    app     info:    [server-manager] Downloaded 93.00 MiB/4.72 GiB at 465.00 kiB/s
+2025-05-26 09:34:14.793    app     info:    [server-manager] Downloaded 93.90 MiB/4.72 GiB at 415.17 kiB/s
+2025-05-26 09:34:15.343    app     info:    [scheduler] Starting scheduler foreground
+2025-05-26 09:34:15.805    app     info:    [server-manager] Downloaded 94.84 MiB/4.72 GiB at 1.19 MiB/s
+2025-05-26 09:34:16.867    app     info:    [server-manager] Downloaded 95.73 MiB/4.72 GiB at 1.33 MiB/s
+2025-05-26 09:34:17.873    app     info:    [server-manager] Downloaded 96.56 MiB/4.72 GiB at 352.00 kiB/s
+2025-05-26 09:34:18.881    app     info:    [server-manager] Downloaded 97.32 MiB/4.72 GiB at 928.00 kiB/s
+2025-05-26 09:34:18.887    app     info:    [login-window] Navigation to login completed, receiving code & state (Qgt6MjaE69w5bzblwnQpA9n_H5IGfQ-QMySMSzKuAZ0)
+2025-05-26 09:34:19.716    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensReceived
+2025-05-26 09:34:19.748    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensReceived
+2025-05-26 09:34:19.750    app     warn:    [ipc-requests] Shared cache is already in use by eve-online on tranquility (updating)
+2025-05-26 09:34:19.750    app     warn:    [ipc-requests] Server manager cannot start for tranquility because required resources are not available
+2025-05-26 09:34:19.755    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserAuthenticated
+2025-05-26 09:34:19.777    app     info:    [customer-information] Getting character information for '31367691' on 'tranquility'
+2025-05-26 09:34:19.778    app     info:    [customer-information] Getting Omega status for '31367691' on 'tranquility' (eve-online)
+2025-05-26 09:34:19.778    app     info:    [virtual-goods] Getting Plex status for '31367691' on 'tranquility' (eve-online)
+2025-05-26 09:34:19.798    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserAuthenticated
+2025-05-26 09:34:19.825    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.LoginWindowClosed
+2025-05-26 09:34:19.825    app     info:    [login-window] Login window with state 'Qgt6MjaE69w5bzblwnQpA9n_H5IGfQ-QMySMSzKuAZ0' has been closed
+2025-05-26 09:34:19.830    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.LoginWindowClosed
+2025-05-26 09:34:19.915    app     info:    [server-manager] Downloaded 98.22 MiB/4.72 GiB at 1.04 MiB/s
+2025-05-26 09:34:20.113    app     info:    [virtual-goods] Fetched Plex status for '31367691' on 'tranquility' (eve-online) with balance: 0
+2025-05-26 09:34:20.409    app     info:    info: [LaunchDarkly] Closing stream connection    []
+2025-05-26 09:34:20.410    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJraW5kIjoibXVsdGkiLCJsYXVuY2hlciI6eyJrZXkiOiJlZjNjMWY1Ny03NWI2LTQzNzItODQzNy1kODQ5MTJjMjgyMWUiLCJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjczLCJsYW5ndWFnZSI6InJ1IiwiYXBwbGljYXRpb24iOiJldmUtb25saW5lIiwidmVyc2lvbiI6IjEuMTAuMCIsInBsYXRmb3JtIjoid2luZG93cyIsImlzR2VGb3JjZU5vdyI6ZmFsc2UsIm9zVmVyc2lvbkRlcHJlY2F0ZWQiOmZhbHNlLCJ1c2VySWRzIjpbMjM2MjI5MDMsMzEzNjc2OTEsMjM2MjI5MDMsMzEzMjA2NzJdLCJwcm9kdWN0cyI6WyJldmUtb25saW5lIl0sIm9tZWdhQ291bnQiOjAsImFscGhhQ291bnQiOjUsImFjY291bnRDb3VudCI6NSwib2xkZXN0QWNjb3VudEFnZSI6MTU2NywieW91bmdlc3RBY2NvdW50QWdlIjo3MX0sImpvdXJuZXkiOnsia2V5IjoiYjEyMjhlYTAtMzY5MC00ZDk3LWJjZmUtYmQwMjY0OGNkNTZjIiwiYW5vbnltb3VzIjp0cnVlfX0?withReasons=true    []
+2025-05-26 09:34:20.417    app     info:    [shared-content] Shared content fetching has been enabled
+2025-05-26 09:34:20.932    app     info:    [server-manager] Downloaded 99.03 MiB/4.72 GiB at 436.65 kiB/s
+2025-05-26 09:34:21.962    app     info:    [server-manager] Downloaded 99.94 MiB/4.72 GiB at 912.28 kiB/s
+2025-05-26 09:34:22.089    app     info:    [customer-information] Agreement status has been fetched for user '31367691'
+2025-05-26 09:34:22.121    app     info:    [customer-information] Agreement status has been fetched for user '31367691'
+2025-05-26 09:34:22.394    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-26 09:34:22.394    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-26 09:34:22.394    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-26 09:34:22.394    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-26 09:34:22.395    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-26 09:34:22.395    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-26 09:34:22.395    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-26 09:34:22.395    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-26 09:34:22.677    app     info:    [new-player-content] Resetting content as language not in response    { locale: 'tx' }
+2025-05-26 09:34:22.975    app     info:    [server-manager] Downloaded 100.71 MiB/4.72 GiB at 885.25 kiB/s
+2025-05-26 09:34:24.052    app     info:    [server-manager] Downloaded 101.74 MiB/4.72 GiB at 1.18 MiB/s
+2025-05-26 09:34:24.593    app     info:    [customer-information] Agreement marked as agreed for '31367691'
+2025-05-26 09:34:24.600    app     info:    [AuthenticationMiddleware] Updated agreements for 1 users.    { success: 1, failed: [] }
+2025-05-26 09:34:24.863    app     info:    info: [LaunchDarkly] Closing stream connection    []
+2025-05-26 09:34:24.864    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJraW5kIjoibXVsdGkiLCJsYXVuY2hlciI6eyJrZXkiOiJlZjNjMWY1Ny03NWI2LTQzNzItODQzNy1kODQ5MTJjMjgyMWUiLCJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjczLCJsYW5ndWFnZSI6InJ1IiwiYXBwbGljYXRpb24iOiJldmUtb25saW5lIiwidmVyc2lvbiI6IjEuMTAuMCIsInBsYXRmb3JtIjoid2luZG93cyIsImlzR2VGb3JjZU5vdyI6ZmFsc2UsIm9zVmVyc2lvbkRlcHJlY2F0ZWQiOmZhbHNlLCJ1c2VySWRzIjpbMjM2MjI5MDMsMzEzNjc2OTEsMjM2MjI5MDMsMzEzNjc2OTFdLCJwcm9kdWN0cyI6WyJldmUtb25saW5lIl0sIm9tZWdhQ291bnQiOjAsImFscGhhQ291bnQiOjUsImFjY291bnRDb3VudCI6NSwib2xkZXN0QWNjb3VudEFnZSI6MTU2NywieW91bmdlc3RBY2NvdW50QWdlIjo2MX0sImpvdXJuZXkiOnsia2V5IjoiYjEyMjhlYTAtMzY5MC00ZDk3LWJjZmUtYmQwMjY0OGNkNTZjIiwiYW5vbnltb3VzIjp0cnVlfX0?withReasons=true    []
+2025-05-26 09:34:24.871    app     info:    [shared-content] Shared content fetching has been enabled
+2025-05-26 09:34:24.891    app     info:    [time-sync] Failed to sync time with 2 servers
+2025-05-26 09:34:24.892    app     info:    [time-sync] Compared time with 4 servers. 2 successful, 2 failed.
+2025-05-26 09:34:24.892    app     info:    [time-sync] Not showing any warnings because there were errors fetching the time.
+2025-05-26 09:34:25.107    app     info:    [server-manager] Downloaded 102.66 MiB/4.72 GiB at 1,017.34 kiB/s
+2025-05-26 09:34:25.112    app     info:    [AuthenticationMiddleware] User information updated
+2025-05-26 09:34:25.401    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-26 09:34:25.401    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-26 09:34:25.402    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-26 09:34:25.402    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-26 09:34:25.402    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-26 09:34:25.402    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-26 09:34:25.402    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-26 09:34:25.402    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-05-26 09:34:26.149    app     info:    [server-manager] Downloaded 103.52 MiB/4.72 GiB at 898.58 kiB/s
+2025-05-26 09:34:27.182    app     info:    [server-manager] Downloaded 104.38 MiB/4.72 GiB at 818.01 kiB/s
+2025-05-26 09:34:28.191    app     info:    [server-manager] Downloaded 105.22 MiB/4.72 GiB at 864.00 kiB/s
+2025-05-26 09:34:28.738    app     info:    [new-player-content] Resetting content as language not in response    { locale: 'tx' }
+2025-05-26 09:34:29.228    app     info:    [server-manager] Downloaded 106.15 MiB/4.72 GiB at 932.04 kiB/s
+2025-05-26 09:34:30.243    app     info:    [server-manager] Downloaded 106.92 MiB/4.72 GiB at 852.07 kiB/s
+2025-05-26 09:34:31.242    app     info:    [server-manager] Downloaded 107.84 MiB/4.72 GiB at 510.98 kiB/s
+2025-05-26 09:34:31.406    app     info:    [scheduler] Stopped scheduler foreground
+2025-05-26 09:34:31.406    app     info:    [ipc-requests] Handling requests in the background
+2025-05-26 09:34:31.871    app     info:    [scheduler] Starting scheduler foreground
+2025-05-26 09:34:32.253    app     info:    [server-manager] Downloaded 108.77 MiB/4.72 GiB at 956.18 kiB/s
+2025-05-26 09:34:32.408    app     info:    [ipc-requests] No longer handling requests in the background
+2025-05-26 09:34:32.468    app     info:    [scheduler] Stopped scheduler foreground
+2025-05-26 09:34:32.469    app     info:    [ipc-requests] Handling requests in the background
+2025-05-26 09:34:33.278    app     info:    [server-manager] Downloaded 109.69 MiB/4.72 GiB at 892.43 kiB/s
+2025-05-26 09:34:33.469    app     info:    [ipc-requests] No longer handling requests in the background
+2025-05-26 09:34:34.285    app     info:    [server-manager] Downloaded 110.52 MiB/4.72 GiB at 1.26 MiB/s
+2025-05-26 09:34:35.293    app     info:    [server-manager] Downloaded 111.40 MiB/4.72 GiB at 415.17 kiB/s
+2025-05-26 09:34:36.307    app     info:    [server-manager] Downloaded 112.27 MiB/4.72 GiB at 782.00 kiB/s
+2025-05-26 09:34:37.374    app     info:    [server-manager] Downloaded 113.09 MiB/4.72 GiB at 905.63 kiB/s
+2025-05-26 09:34:38.400    app     info:    [server-manager] Downloaded 114.11 MiB/4.72 GiB at 926.49 kiB/s
+2025-05-26 09:34:39.430    app     info:    [server-manager] Downloaded 115.04 MiB/4.72 GiB at 254.98 kiB/s
+2025-05-26 09:34:40.453    app     info:    [server-manager] Downloaded 115.84 MiB/4.72 GiB at 773.69 kiB/s
+2025-05-26 09:34:41.463    app     info:    [server-manager] Downloaded 116.76 MiB/4.72 GiB at 896.00 kiB/s
+2025-05-26 09:34:42.470    app     info:    [server-manager] Downloaded 117.71 MiB/4.72 GiB at 978.59 kiB/s
+2025-05-26 09:34:43.506    app     info:    [server-manager] Downloaded 118.66 MiB/4.72 GiB at 906.25 kiB/s
+2025-05-26 09:34:44.525    app     info:    [server-manager] Downloaded 119.54 MiB/4.72 GiB at 1.04 MiB/s
+2025-05-26 09:34:45.565    app     info:    [server-manager] Downloaded 120.48 MiB/4.72 GiB at 1.01 MiB/s
+2025-05-26 09:34:46.588    app     info:    [server-manager] Downloaded 121.34 MiB/4.72 GiB at 856.24 kiB/s
+2025-05-26 09:34:47.618    app     info:    [server-manager] Downloaded 122.21 MiB/4.72 GiB at 1.42 MiB/s
+2025-05-26 09:34:48.617    app     info:    [server-manager] Downloaded 123.19 MiB/4.72 GiB at 480.00 kiB/s
+2025-05-26 09:34:49.622    app     info:    [server-manager] Downloaded 124.09 MiB/4.72 GiB at 523.20 kiB/s
+2025-05-26 09:34:50.646    app     info:    [server-manager] Downloaded 125.04 MiB/4.72 GiB at 945.00 kiB/s
+2025-05-26 09:34:51.652    app     info:    [server-manager] Downloaded 125.94 MiB/4.72 GiB at 938.00 kiB/s
+2025-05-26 09:34:52.665    app     info:    [server-manager] Downloaded 126.86 MiB/4.72 GiB at 1,005.89 kiB/s
+2025-05-26 09:34:53.686    app     info:    [server-manager] Downloaded 127.82 MiB/4.72 GiB at 1,007.87 kiB/s
+2025-05-26 09:34:54.710    app     info:    [server-manager] Downloaded 128.73 MiB/4.72 GiB at 852.38 kiB/s
+2025-05-26 09:34:55.741    app     info:    [server-manager] Downloaded 129.64 MiB/4.72 GiB at 484.75 kiB/s
+2025-05-26 09:34:56.747    app     info:    [server-manager] Downloaded 130.61 MiB/4.72 GiB at 960.00 kiB/s
+2025-05-26 09:34:57.804    app     info:    [server-manager] Downloaded 131.53 MiB/4.72 GiB at 808.76 kiB/s
+2025-05-26 09:34:58.868    app     info:    [server-manager] Downloaded 132.54 MiB/4.72 GiB at 905.11 kiB/s
+2025-05-26 09:34:59.929    app     info:    [server-manager] Downloaded 133.47 MiB/4.72 GiB at 843.16 kiB/s
+2025-05-26 09:35:00.934    app     info:    [server-manager] Downloaded 134.40 MiB/4.72 GiB at 467.38 kiB/s
+2025-05-26 09:35:01.942    app     info:    [server-manager] Downloaded 135.34 MiB/4.72 GiB at 823.76 kiB/s
+2025-05-26 09:35:02.995    app     info:    [server-manager] Downloaded 136.25 MiB/4.72 GiB at 919.54 kiB/s
+2025-05-26 09:35:04.025    app     info:    [server-manager] Downloaded 137.23 MiB/4.72 GiB at 929.49 kiB/s
+2025-05-26 09:35:04.480    app     info:    [scheduler] Starting scheduler foreground
+2025-05-26 09:35:05.014    app     info:    [scheduler] Stopped scheduler foreground
+2025-05-26 09:35:05.015    app     info:    [ipc-requests] Handling requests in the background
+2025-05-26 09:35:05.036    app     info:    [server-manager] Downloaded 138.09 MiB/4.72 GiB at 966.45 kiB/s
+2025-05-26 09:35:05.781    app     info:    [scheduler] Starting scheduler foreground
+2025-05-26 09:35:06.017    app     info:    [ipc-requests] No longer handling requests in the background
+2025-05-26 09:35:06.088    app     info:    [server-manager] Downloaded 139.07 MiB/4.72 GiB at 1,021.27 kiB/s
+2025-05-26 09:35:07.093    app     info:    [server-manager] Downloaded 140.00 MiB/4.72 GiB at 926.15 kiB/s
+2025-05-26 09:35:08.156    app     info:    [server-manager] Downloaded 140.91 MiB/4.72 GiB at 854.54 kiB/s
+2025-05-26 09:35:09.161    app     info:    [server-manager] Downloaded 141.85 MiB/4.72 GiB at 928.00 kiB/s
+2025-05-26 09:35:10.182    app     info:    [server-manager] Downloaded 142.76 MiB/4.72 GiB at 839.95 kiB/s
+2025-05-26 09:35:11.189    app     info:    [server-manager] Downloaded 143.71 MiB/4.72 GiB at 988.05 kiB/s
+2025-05-26 09:35:11.246    app     info:    [tray] Quitting application from tray
+2025-05-26 09:35:11.251    app     info:    Application quitting. Cleanup needed: true
+2025-05-26 09:35:11.257    app     info:    [quasar-elg-events] Queueing shutdown event    eve_launcher.electron.application.LauncherShutdown
+2025-05-26 09:35:11.264    app     info:    app.quit called, but we are still sending ELG events.
+2025-05-26 09:35:11.266    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.LauncherShutdown
+2025-05-26 09:35:11.516    app     info:    [quasar-elg-events] Shutdown event timeout passed
+2025-05-26 09:35:11.516    app     info:    ELG stream closed, quitting
+2025-05-26 09:35:11.517    app     info:    [window-manager] Stopped forwarding events to window manager, as the window closed    { windowId: 2 }
+2025-05-26 09:35:11.518    app     info:    [window-manager-minimize] Main window is closing    { windowId: 2 }
+2025-05-26 09:35:11.518    app     info:    [quasar-elg-events] gRPC connection aborted
+2025-05-26 09:35:11.519    app     info:    ELG stream closed, quitting
+2025-05-26 09:35:11.533    app     info:    [scheduler] Stopped scheduler foreground
+2025-05-26 09:35:11.533    app     info:    [ipc-requests] Handling requests in the background
+2025-05-26 09:35:11.594    app     info:    [window-manager] Main window closed    { windowId: 2 }
+2025-05-26 09:35:11.595    app     info:    Application closed    0
