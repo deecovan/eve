@@ -1,5 +1,9 @@
 # eve GitHub repo 
 
+## 05.28
+- Start new deemandiman 
+  - Meta ???
+
 ## 05.26
 - Try other EG
   - dmytro.cheva@gmail.com Login failed.
