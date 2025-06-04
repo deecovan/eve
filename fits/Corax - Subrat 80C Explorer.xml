@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<fittings count="1">
+	<fitting name="Subrat 80C Explorer">
+		<description value=""/>
+		<shipType value="Corax"/>
+		<hardware type="Ballistic Control System I" slot="low slot 0"/>
+		<hardware type="Ballistic Control System I" slot="low slot 1"/>
+		<hardware type="5MN Y-T8 Compact Microwarpdrive" slot="med slot 0"/>
+		<hardware type="Missile Guidance Computer I" slot="med slot 1"/>
+		<hardware type="F-90 Compact Sensor Booster" slot="med slot 2"/>
+		<hardware type="F-90 Compact Sensor Booster" slot="med slot 3"/>
+		<hardware type="Arbalest Compact Light Missile Launcher" slot="hi slot 0"/>
+		<hardware type="Arbalest Compact Light Missile Launcher" slot="hi slot 1"/>
+		<hardware type="Arbalest Compact Light Missile Launcher" slot="hi slot 2"/>
+		<hardware type="Arbalest Compact Light Missile Launcher" slot="hi slot 3"/>
+		<hardware type="Arbalest Compact Light Missile Launcher" slot="hi slot 4"/>
+		<hardware type="Arbalest Compact Light Missile Launcher" slot="hi slot 5"/>
+		<hardware type="Core Probe Launcher I" slot="hi slot 6"/>
+		<hardware type="Small Rocket Fuel Cache Partition I" slot="rig slot 0"/>
+		<hardware type="Small Hydraulic Bay Thrusters I" slot="rig slot 1"/>
+		<hardware type="Small Hydraulic Bay Thrusters I" slot="rig slot 2"/>
+		<hardware qty="3" slot="cargo" type="Missile Range Script"/>
+		<hardware qty="3" slot="cargo" type="Targeting Range Script"/>
+		<hardware qty="1000" slot="cargo" type="Guristas Mjolnir Light Missile"/>
+		<hardware qty="12808" slot="cargo" type="Scourge Light Missile"/>
+		<hardware qty="100" slot="cargo" type="Inferno Light Missile"/>
+		<hardware qty="3684" slot="cargo" type="Mjolnir Light Missile"/>
+		<hardware qty="100" slot="cargo" type="Nova Light Missile"/>
+		<hardware qty="480" slot="cargo" type="Caldari Navy Inferno Light Missile"/>
+		<hardware qty="240" slot="cargo" type="Caldari Navy Mjolnir Light Missile"/>
+		<hardware qty="3" slot="cargo" type="Scan Resolution Script"/>
+		<hardware qty="8" slot="cargo" type="Core Scanner Probe I"/>
+	</fitting>
+</fittings>

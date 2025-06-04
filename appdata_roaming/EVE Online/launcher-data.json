@@ -9,7 +9,7 @@
 		"clientBuilds": {
 			"eve-online": {
 				"tranquility": {
-					"build": "2866918"
+					"build": "2929428"
 				}
 			}
 		},
@@ -24,9 +24,9 @@
 		"v2/application": {
 			"name": "EVE Online",
 			"window": {
-				"isMinimized": true,
+				"isMinimized": false,
 				"isMaximized": false,
-				"isVisible": false
+				"isVisible": true
 			},
 			"session": {
 				"isFirstRun": false,
@@ -92,8 +92,8 @@
 				"progress": {
 					"tranquility": {
 						"progress": 0,
-						"isBestExperiencePlayable": false,
-						"isNewPlayerExperiencePlayable": false,
+						"isBestExperiencePlayable": true,
+						"isNewPlayerExperiencePlayable": true,
 						"status": "idle"
 					}
 				},
