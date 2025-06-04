@@ -1,0 +1,160 @@
+Mikle — 27.12.2023 14:34
+
+[Corax, "Слабоумный" убийца Skybreaker T0Abyss]
+Ballistic Control System I
+Ballistic Control System I
+
+Small Shield Extender I
+Compact EM Shield Amplifier
+Fleeting Compact Stasis Webifier
+Small Clarity Ward Enduring Shield Booster
+
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+
+Small Core Defense Field Extender I
+Small EM Shield Reinforcer I
+Small Bay Loading Accelerator I
+
+Mikle — 15.12.2023 15:48
+
+[Corax, "Слабоумный" убийца Skybreaker T0Abyss]
+Ballistic Control System I
+Ballistic Control System I
+
+Small Shield Extender I
+Compact EM Shield Amplifier
+Fleeting Compact Stasis Webifier
+Small Clarity Ward Enduring Shield Booster
+
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+
+Small Core Defense Field Extender I
+Small EM Shield Reinforcer I
+Small Bay Loading Accelerator I
+
+
+
+
+Inferno Light Missile x958
+Tranquil Firestorm Filament x2 
+Mikle — 09.12.2023 17:09
+[Corax, Subrat 70T1 Explorer]
+Ballistic Control System I
+Ballistic Control System I
+
+5MN Y-T8 Compact Microwarpdrive
+Missile Guidance Computer I
+Sensor Booster I
+Sensor Booster I
+
+Light Missile Launcher I
+Light Missile Launcher I
+Light Missile Launcher I
+Light Missile Launcher I
+Light Missile Launcher I
+Light Missile Launcher I
+Core Probe Launcher I
+
+Small Rocket Fuel Cache Partition I
+Small Hydraulic Bay Thrusters I
+Small Processor Overclocking Unit I
+
+
+
+
+Scourge Light Missile x12808
+Inferno Light Missile x100
+Mjolnir Light Missile x3924
+Nova Light Missile x100
+Caldari Navy Inferno Light Missile x240
+Guristas Mjolnir Light Missile x1000
+Caldari Navy Mjolnir Light Missile x240
+Targeting Range Script x3
+Scan Resolution Script x3
+Core Scanner Probe I x8
+Missile Range Script x3
+
+Те же 4М. Ключевой модуль 5MN Y-T8 Compact Microwarpdrive и Small Processor Overclocking Unit I, основная идея что это всё Т1 Можно просто строить из миников. DPS крайне мал 69
+
+По идее, тоже самое можно сделать с Кормой.
+
+Mikle — 09.12.2023 17:06
+[Corax, Subrat 80C Explorer]
+Ballistic Control System I
+Ballistic Control System I
+
+5MN Y-T8 Compact Microwarpdrive
+Missile Guidance Computer I
+F-90 Compact Sensor Booster
+F-90 Compact Sensor Booster
+
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Core Probe Launcher I
+
+Small Rocket Fuel Cache Partition I
+Small Hydraulic Bay Thrusters I
+Small Hydraulic Bay Thrusters I
+
+
+
+
+Scourge Light Missile x12808
+Inferno Light Missile x100
+Mjolnir Light Missile x3684
+Nova Light Missile x100
+Caldari Navy Inferno Light Missile x480
+Guristas Mjolnir Light Missile x1000
+Caldari Navy Mjolnir Light Missile x240
+Targeting Range Script x3
+Scan Resolution Script x3
+Core Scanner Probe I x8
+Missile Range Script x3
+
+4M При желании лезут T2 Балконы. Ключевой модуль Arbalest Compact Light Missile Launcher
+
+Mikle — 08.12.2023 21:43
+Гляди собрал крысы 70км
+
+[Corax, Subrat 70 Explorer MWD]
+Ballistic Control System II
+Ballistic Control System II
+
+5MN Y-T8 Compact Microwarpdrive
+Astro-Inertial Compact Missile Guidance Computer
+F-90 Compact Sensor Booster
+F-90 Compact Sensor Booster
+
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Core Probe Launcher I
+
+Small Rocket Fuel Cache Partition I
+Small Rocket Fuel Cache Partition I
+
+
+Caldari Navy Inferno Light Missile x240
+Guristas Mjolnir Light Missile x1000
+Targeting Range Script x1
+Scan Resolution Script x1
+Missile Range Script x1

@@ -1,0 +1,54 @@
+2025-06-04 11:56:27.121    app     info:    [migrations] Running state migrations from 202403271440 to 202403271440
+2025-06-04 11:56:27.273    app     info:    [self-update] Configuring update feed.
+2025-06-04 11:56:27.273    app     info:    [self-update] Update feed set to: https://launcher.ccpgames.com/eve-online/release/win32/x64/
+2025-06-04 11:56:27.289    app     info:    Startup arguments    []
+2025-06-04 11:56:27.400    app     info:    [self-update] Auto-updating is now enabled
+2025-06-04 11:56:27.403    app     info:    [migrations] Running state migrations from 202403271440 to 202403271440
+2025-06-04 11:56:27.409    app    error:    (node:9344) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+(Use `eve-online --trace-deprecation ...` to show where the warning was created)    []
+2025-06-04 11:56:27.411    app     info:    [third-party-authentications] Checking for Steam startup
+2025-06-04 11:56:27.849    app     info:    [migrations] Running secured-state migrations from 202406060001 to 202406060001
+2025-06-04 11:56:27.948    app     info:    [i18next] Changed language    ru
+2025-06-04 11:56:27.985    app     info:    [steam-auth] Steam startup detected
+2025-06-04 11:56:28.004    app     info:    [authentication] Generated login URL with state '_donKbZl68hnyUel0z5Sj5rFbNHWnkyL17xO0mrExBQ' for 'tranquility' using clientID 'eveLauncherTQ'
+2025-06-04 11:56:28.005    app     info:    [third-party-authentications] Done checking third party startups
+2025-06-04 11:56:28.042    app     info:    [cache-protocol] Found 0 entries to remove
+2025-06-04 11:56:28.043    app     info:    [cache-protocol] Nothing to clean up.
+2025-06-04 11:56:28.102    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.application.LauncherStarted
+2025-06-04 11:56:28.172    app     info:    [analytics] Application name:    EVE Online
+2025-06-04 11:56:28.172    app     info:    [analytics] Application version:    1.10.1
+2025-06-04 11:56:28.172    app     info:    [analytics] Domain    undefined
+2025-06-04 11:56:28.174    app     info:    [analytics] Working directory    C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1
+2025-06-04 11:56:28.175    app     info:    [analytics] Username contains UTF8?    false
+2025-06-04 11:56:29.128    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.application.PdmLoaded
+2025-06-04 11:56:29.144    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.application.CoreDataLoaded
+2025-06-04 11:56:29.148    app     info:    [analytics] Operating system    { type: 'Windows', name: 'Windows 10 Home', version: '10.0 (19045)' }
+2025-06-04 11:56:29.148    app     info:    [analytics] Encryption available:    true
+2025-06-04 11:56:29.148    app     info:    [analytics] Machine UUID    B7B2A471-C4FE-4353-880B-870CE29AC3D8
+2025-06-04 11:56:29.148    app     info:    [analytics] PDM Version    2.1.4
+2025-06-04 11:56:29.148    app     info:    [analytics] Release channel    release
+2025-06-04 11:56:29.148    app     info:    [initializers] Shared cache directory set to    C:\Games\EVE
+2025-06-04 11:56:29.153    app     info:    [initializers] Shared cache drive free space: 57.89 GiB / 237.84 GiB
+2025-06-04 11:56:29.155    app     info:    [feature-flags] Initializing feature flag client
+2025-06-04 11:56:29.192    app     info:    [migrations] Running file-system migrations from 202408021525 to 202408021525
+2025-06-04 11:56:29.198    app     info:    [scheduler] Starting scheduler background
+2025-06-04 11:56:29.221    app    error:    (node:9344) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 scheduler/triggered listeners added to [IpcMainImpl]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit    []
+2025-06-04 11:56:29.229    app     info:    [shared-cache] Looking for eve-online profiles in 'c_games_eve_tq_tranquility'...
+2025-06-04 11:56:29.242    app     info:    [customer-information] Agreements have been updated
+2025-06-04 11:56:29.253    app     info:    [shared-cache] No profiles found on disk
+2025-06-04 11:56:29.274    app     info:    [analytics] Hardware rendering enabled:    true    { disabledViaCommandline: false, disabledViaSettings: true }
+2025-06-04 11:56:29.301    app     info:    [first-run] Application has been run before: 2025-03-14T09:16:58.327Z
+2025-06-04 11:56:29.458    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.LauncherStarted
+2025-06-04 11:56:29.460    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.PdmLoaded
+2025-06-04 11:56:29.462    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.CoreDataLoaded
+2025-06-04 11:56:29.537    app     info:    info: [LaunchDarkly] LaunchDarkly client initialized    []
+2025-06-04 11:56:29.539    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJraW5kIjoibXVsdGkiLCJsYXVuY2hlciI6eyJrZXkiOiJlZjNjMWY1Ny03NWI2LTQzNzItODQzNy1kODQ5MTJjMjgyMWUiLCJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjgyLCJsYW5ndWFnZSI6InJ1IiwiYXBwbGljYXRpb24iOiJldmUtb25saW5lIiwidmVyc2lvbiI6IjEuMTAuMSIsInBsYXRmb3JtIjoid2luZG93cyIsImlzR2VGb3JjZU5vdyI6ZmFsc2UsIm9zVmVyc2lvbkRlcHJlY2F0ZWQiOmZhbHNlLCJ1c2VySWRzIjpbMjM2MjI5MDMsMzEzNjc2OTEsMjM2MjI5MDMsMzEzNjc2OTFdLCJwcm9kdWN0cyI6WyJldmUtb25saW5lIl0sIm9tZWdhQ291bnQiOjAsImFscGhhQ291bnQiOjUsImFjY291bnRDb3VudCI6NSwib2xkZXN0QWNjb3VudEFnZSI6MTU3NiwieW91bmdlc3RBY2NvdW50QWdlIjo3MH0sImpvdXJuZXkiOnsia2V5IjoiYjEyMjhlYTAtMzY5MC00ZDk3LWJjZmUtYmQwMjY0OGNkNTZjIiwiYW5vbnltb3VzIjp0cnVlfX0?withReasons=true    []
+2025-06-04 11:56:29.542    app     info:    [feature-flags] Client ef3c1f57... ready, fetching flags
+2025-06-04 11:56:29.544    app     info:    [self-update] Auto-updating is now enabled
+2025-06-04 11:56:29.544    app     info:    [quasar-manager] Quasar (EPG) feature flag is enabled
+2025-06-04 11:56:29.550    app     info:    [feature-flags] Received 40 flags for client ef3c1f57...
+2025-06-04 11:56:29.550    app     info:    [feature-flags] Client initialized with key ef3c1f57...
+2025-06-04 11:56:29.556    app     info:    [quasar-manager] Quasar (EPG) feature flag is enabled
+2025-06-04 11:56:29.560    app     info:    [self-update] Configuring update feed.
+2025-06-04 11:56:29.560    app     info:    [self-update] Update feed set to: https://launcher.ccpgames.com/eve-online/release/win32/x64/
+2025-06-04 11:56:29.561    app     info:    [self-update] Auto-updating is now enabled
