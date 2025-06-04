@@ -16,7 +16,16 @@
 		"clientManagement": {
 			"processes": {
 				"eve-online": {
-					"tranquility": []
+					"tranquility": [],
+					"unknown": [
+						{
+							"processId": 6432,
+							"username": "",
+							"foundDate": 1749069893858,
+							"profile": "Default",
+							"lastSeen": 1749069905647
+						}
+					]
 				}
 			},
 			"temporaryProcesses": {}
@@ -26,7 +35,7 @@
 			"window": {
 				"isMinimized": false,
 				"isMaximized": false,
-				"isVisible": true
+				"isVisible": false
 			},
 			"session": {
 				"isFirstRun": false,
