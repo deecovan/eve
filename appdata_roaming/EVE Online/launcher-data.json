@@ -24,7 +24,7 @@
 		"v2/application": {
 			"name": "EVE Online",
 			"window": {
-				"isMinimized": false,
+				"isMinimized": true,
 				"isMaximized": false,
 				"isVisible": false
 			},
@@ -64,7 +64,7 @@
 				"isHighDpiEnabled": false,
 				"showAcademyContent": false,
 				"actionToActivateMethod": "hold",
-				"actionToActivateSpeed": "normal",
+				"actionToActivateSpeed": "slow",
 				"hasCompletedNewUserExperience": true,
 				"selectedLanguage": "ru"
 			},

@@ -1,6 +1,6 @@
 Mikle — 27.12.2023 14:34
 
-[Corax, "Слабоумный" убийца Skybreaker T0Abyss]
+[Corax, "Слабоумный I" убийца Skybreaker T0Abyss]
 Ballistic Control System I
 Ballistic Control System I
 
@@ -23,7 +23,7 @@ Small Bay Loading Accelerator I
 
 Mikle — 15.12.2023 15:48
 
-[Corax, "Слабоумный" убийца Skybreaker T0Abyss]
+[Corax, "Слабоумный II" убийца Skybreaker T0Abyss]
 Ballistic Control System I
 Ballistic Control System I
 
@@ -49,7 +49,9 @@ Small Bay Loading Accelerator I
 
 Inferno Light Missile x958
 Tranquil Firestorm Filament x2 
+
 Mikle — 09.12.2023 17:09
+
 [Corax, Subrat 70T1 Explorer]
 Ballistic Control System I
 Ballistic Control System I
@@ -91,6 +93,7 @@ Missile Range Script x3
 По идее, тоже самое можно сделать с Кормой.
 
 Mikle — 09.12.2023 17:06
+
 [Corax, Subrat 80C Explorer]
 Ballistic Control System I
 Ballistic Control System I
