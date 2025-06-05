@@ -444,7 +444,7 @@
 						"url": "https://www.eveonline.com/frontlines"
 					}
 				],
-				"updatedAt": 1749112836702
+				"updatedAt": 1749125212201
 			},
 			"playArea": {
 				"content": {
@@ -522,7 +522,7 @@
 						"url": "https://www.eveonline.com/de/frontlines"
 					}
 				],
-				"updatedAt": 1749112836637
+				"updatedAt": 1749125212121
 			},
 			"playArea": {
 				"content": {
@@ -600,7 +600,7 @@
 						"url": "https://www.eveonline.com/fr/frontlines"
 					}
 				],
-				"updatedAt": 1749112836717
+				"updatedAt": 1749125212220
 			},
 			"playArea": {
 				"content": {
@@ -678,7 +678,7 @@
 						"url": "https://www.eveonline.com/ja/frontlines"
 					}
 				],
-				"updatedAt": 1749112836686
+				"updatedAt": 1749125212171
 			},
 			"playArea": {
 				"content": {
@@ -756,7 +756,7 @@
 						"url": "https://www.eveonline.com/ko/frontlines"
 					}
 				],
-				"updatedAt": 1749112836670
+				"updatedAt": 1749125212153
 			},
 			"playArea": {
 				"content": {
@@ -782,39 +782,39 @@
 			"creatives": {
 				"creatives": [
 					{
+						"id": "732971935",
+						"campaignId": "662611227",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5MTI1MjEzLCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiNjYyNjExMjI3IiwiY3JJRCI6IjczMjk3MTkzNSIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiY2I5MTFmNGYiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6NjAxMzkwMjMwfQ..-4cff7bc4&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly9zdG9yZS5ldmVvbmxpbmUuY29tL3Byb2R1Y3QvbWFzdGVyLWJ1bmRsZS0yZjEvdmVybS03ODk4P3V0bV9zb3VyY2U9bGF1bmNoZXImdXRtX21lZGl1bT1hcHAmdXRtX2NhbXBhaWduPWNuOnd3X2xnOnJ1X21nOjRfcGQ6Ml9jZDoyNV8wNl8yZjFfYmJfY3Q6bGF1bmNoZXItYmFubmVyX3RnOnNlY3VyZQ==",
+						"landing_url": "https://store.eveonline.com/product/master-bundle-2f1/verm-7898?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:ru_mg:4_pd:2_cd:25_06_2f1_bb_ct:launcher-banner_tg:secure",
+						"image": "cache+https://creatives2.extccp.com/t3ba6aa12/img/szszg_sdzu4k_b437fac3.png",
+						"weight": "60"
+					},
+					{
 						"id": "157765213",
 						"campaignId": "384515519",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5MTExOTM1LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiMzg0NTE1NTE5IiwiY3JJRCI6IjE1Nzc2NTIxMyIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiZTVlYjZjMmEiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6MjgyMDE3NTIyfQ..-3300ca7b&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS90d2l0Y2g/dXRtX3NvdXJjZT1sYXVuY2hlciZ1dG1fbWVkaXVtPWFwcCZ1dG1fY2FtcGFpZ249Y246d3dfbGc6cnVfbWc6M19wZDoyX2NkOnR3aXRjaC1kcm9wc19jdDpsYXVuY2hlci1iYW5uZXJfdGc6dHdpdGNo",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5MTI1MjEzLCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiMzg0NTE1NTE5IiwiY3JJRCI6IjE1Nzc2NTIxMyIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiY2I5MTFmNGYiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6OTc3MDM2MzA2fQ..-0c66ac34&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS90d2l0Y2g/dXRtX3NvdXJjZT1sYXVuY2hlciZ1dG1fbWVkaXVtPWFwcCZ1dG1fY2FtcGFpZ249Y246d3dfbGc6cnVfbWc6M19wZDoyX2NkOnR3aXRjaC1kcm9wc19jdDpsYXVuY2hlci1iYW5uZXJfdGc6dHdpdGNo",
 						"landing_url": "https://www.eveonline.com/twitch?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:ru_mg:3_pd:2_cd:twitch-drops_ct:launcher-banner_tg:twitch",
-						"image": "cache+https://creatives2.extccp.com/tb9ffac83/img/szszg_epz7sb_89e424d2.png",
+						"image": "cache+https://creatives2.extccp.com/t3ba6aa12/img/szszg_epz7sb_89e424d2.png",
 						"weight": "60"
 					},
 					{
 						"id": "182801465",
 						"campaignId": "394925935",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5MTExOTM1LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiMzk0OTI1OTM1IiwiY3JJRCI6IjE4MjgwMTQ2NSIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiZTVlYjZjMmEiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6NTMxMTU2OTAzfQ..-17495f7a&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly9zdG9yZS5ldmVvbmxpbmUuY29tL3Byb2R1Y3QvaW5pdGlhdGUtYXNjZW5zaW9uLXBhY2svdmVybS03ODg2P3V0bV9zb3VyY2U9bGF1bmNoZXImdXRtX21lZGl1bT1hcHAmdXRtX2NhbXBhaWduPWNuOnd3X2xnOmRlX21nOjRfcGQ6Ml9jZDoyNV8wNV9sZWdpb25fcGFja3NfY3Q6bGF1bmNoZXItYmFubmVyX3RnOnNlY3VyZQ==",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5MTI1MjEzLCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiMzk0OTI1OTM1IiwiY3JJRCI6IjE4MjgwMTQ2NSIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiY2I5MTFmNGYiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6MjM5Mzg3NjE2fQ..-0024a462&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly9zdG9yZS5ldmVvbmxpbmUuY29tL3Byb2R1Y3QvaW5pdGlhdGUtYXNjZW5zaW9uLXBhY2svdmVybS03ODg2P3V0bV9zb3VyY2U9bGF1bmNoZXImdXRtX21lZGl1bT1hcHAmdXRtX2NhbXBhaWduPWNuOnd3X2xnOmRlX21nOjRfcGQ6Ml9jZDoyNV8wNV9sZWdpb25fcGFja3NfY3Q6bGF1bmNoZXItYmFubmVyX3RnOnNlY3VyZQ==",
 						"landing_url": "https://store.eveonline.com/product/initiate-ascension-pack/verm-7886?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:de_mg:4_pd:2_cd:25_05_legion_packs_ct:launcher-banner_tg:secure",
-						"image": "cache+https://creatives2.extccp.com/tb9ffac83/img/szszg_cw6anu_6ac6818e.png",
-						"weight": "60"
-					},
-					{
-						"id": "690597257",
-						"campaignId": "743617534",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5MTExOTM1LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiNzQzNjE3NTM0IiwiY3JJRCI6IjY5MDU5NzI1NyIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiZTVlYjZjMmEiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6ODA5NDU0MjQyfQ..-c9c24c95&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS9uZXdzL2xlZ2lvbi1pcy1oZXJlP3V0bV9zb3VyY2U9bGF1bmNoZXImdXRtX21lZGl1bT1hcHAmdXRtX2NhbXBhaWduPWNuOnd3X2xnOnJ1X21nOjRfcGQ6Ml9jZDoyNV8wNV9sZWdpb25fbGl2ZV9ub3dfY3Q6bGF1bmNoZXItYmFubmVyX3RnOm5ld3M=",
-						"landing_url": "https://www.eveonline.com/news/legion-is-here?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:ru_mg:4_pd:2_cd:25_05_legion_live_now_ct:launcher-banner_tg:news",
-						"image": "cache+https://creatives2.extccp.com/tb9ffac83/img/szszg_wre9mb_8ececd34.png",
+						"image": "cache+https://creatives2.extccp.com/t3ba6aa12/img/szszg_cw6anu_6ac6818e.png",
 						"weight": "60"
 					},
 					{
 						"id": "295934048",
 						"campaignId": "874575904",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5MTExOTM1LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiODc0NTc1OTA0IiwiY3JJRCI6IjI5NTkzNDA0OCIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiZTVlYjZjMmEiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6NTc5OTU2Mjg3fQ..-7606fc81&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS9ydS9vbWVnYT91dG1fc291cmNlPWxhdW5jaGVyJnV0bV9tZWRpdW09YXBwJnV0bV9jYW1wYWlnbj1jbjp3d19sZzpydV9tZzo0X3BkOjJfY2Q6ZnJlZV9za2lsbF9wb2ludHNfbmVzX2N0OmxhdW5jaGVyLWJhbm5lcl90ZzpuZXdz",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5MTI1MjEzLCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiODc0NTc1OTA0IiwiY3JJRCI6IjI5NTkzNDA0OCIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiY2I5MTFmNGYiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6MjE4OTEwNzcxfQ..-39a02691&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS9ydS9vbWVnYT91dG1fc291cmNlPWxhdW5jaGVyJnV0bV9tZWRpdW09YXBwJnV0bV9jYW1wYWlnbj1jbjp3d19sZzpydV9tZzo0X3BkOjJfY2Q6ZnJlZV9za2lsbF9wb2ludHNfbmVzX2N0OmxhdW5jaGVyLWJhbm5lcl90ZzpuZXdz",
 						"landing_url": "https://www.eveonline.com/ru/omega?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:ru_mg:4_pd:2_cd:free_skill_points_nes_ct:launcher-banner_tg:news",
-						"image": "cache+https://creatives2.extccp.com/tb9ffac83/img/szszg_kz8ayd_37e54e48.png",
+						"image": "cache+https://creatives2.extccp.com/t3ba6aa12/img/szszg_kz8ayd_37e54e48.png",
 						"weight": "60"
 					}
 				],
-				"updatedAt": 1749111935674
+				"updatedAt": 1749125212923
 			},
 			"imageGallery": {
 				"items": []
@@ -867,7 +867,7 @@
 						"url": "https://www.eveonline.com/ru/frontlines"
 					}
 				],
-				"updatedAt": 1749112836654
+				"updatedAt": 1749125212137
 			},
 			"playArea": {
 				"content": {
@@ -1421,8 +1421,9 @@
 			},
 			"newsContent": {
 				"ids": [
-					"1UtZdo1mfy6fEdDl0vqfxd",
 					"4eEM0jBNQf3kOtSVYkNpyt",
+					"5LESjIWFWP59YSRBzWJA0v",
+					"1UtZdo1mfy6fEdDl0vqfxd",
 					"6M5KWWBifBFwtGsQZx6fN5",
 					"5TndXj7GXQoSxncbLMW7KX",
 					"6QEU6heiVFrxYTXTDhiz6L",
@@ -1439,10 +1440,37 @@
 					"1K4Aza0aisnNaecRw6VQOv",
 					"3e4sEempp1ZOERyRsQfsGA",
 					"1qapq3OxBr0v6x0nbLrkQe",
-					"4jcGFbQI3p9VQMUATOM1dV",
-					"11E4iNs7s7YBWogLfAjMlj"
+					"4jcGFbQI3p9VQMUATOM1dV"
 				],
 				"entities": {
+					"4eEM0jBNQf3kOtSVYkNpyt": {
+						"id": "4eEM0jBNQf3kOtSVYkNpyt",
+						"title": "Список изменений. Версия 23.01",
+						"slug": "patch-notes-version-23-01",
+						"tags": [
+							"patch-notes"
+						],
+						"category": "patch-notes",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-06-05",
+						"metaDescription": "Список изменений от 5 июня доступен для ознакомления!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/Sy7cCu9kc6QY0fMR1xwNu/1623d24c0a6fbd16ab87070214dad5c5/Sarathiel_Sun.png?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/patch-notes-version-23-01"
+					},
+					"5LESjIWFWP59YSRBzWJA0v": {
+						"id": "5LESjIWFWP59YSRBzWJA0v",
+						"title": "Get 2 Boost Bundles for the Price of 1",
+						"slug": "get-2-boost-bundles-for-the-price-of-1",
+						"tags": [
+							"offers"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-06-05",
+						"metaDescription": "Skyrocket your training in EVE Online and save big.",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/78VpPTNKQgP8fGi1gHHk09/b24309fc7d722b6d9711ed647b88265f/1080NoCopy.png?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/get-2-boost-bundles-for-the-price-of-1"
+					},
 					"1UtZdo1mfy6fEdDl0vqfxd": {
 						"id": "1UtZdo1mfy6fEdDl0vqfxd",
 						"title": "Monthly Economic Report - May 2025",
@@ -1456,20 +1484,6 @@
 						"metaDescription": "The Monthly Economic Report for May 2025 is now available!",
 						"src": "https://images.ctfassets.net/7lhcm73ukv5p/m54ICjNKxKm7gj7yFGpr2/ba663f183816036cde718b7f3593e6eb/EVE_News_RU_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
 						"url": "https://www.eveonline.com/ru/news/view/monthly-economic-report-may-2025"
-					},
-					"4eEM0jBNQf3kOtSVYkNpyt": {
-						"id": "4eEM0jBNQf3kOtSVYkNpyt",
-						"title": "Список изменений. Версия 23.01",
-						"slug": "patch-notes-version-23-01",
-						"tags": [
-							"patch-notes"
-						],
-						"category": "patch-notes",
-						"author": "EVE Online Team",
-						"publishingDate": "2025-06-04",
-						"metaDescription": "Список изменений от 4 июня доступен для ознакомления!",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/Sy7cCu9kc6QY0fMR1xwNu/1623d24c0a6fbd16ab87070214dad5c5/Sarathiel_Sun.png?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/patch-notes-version-23-01"
 					},
 					"6M5KWWBifBFwtGsQZx6fN5": {
 						"id": "6M5KWWBifBFwtGsQZx6fN5",
@@ -1717,19 +1731,6 @@
 						"metaDescription": "Celebrate Capsuleer Day & Fanfest with discounted Omega and exclusive SKINs. ",
 						"src": "https://images.ctfassets.net/7lhcm73ukv5p/3Dy5shubxea3xizsgOT1Ab/31182e32573a80f475ab65442dd264f3/Screenshot_NoCopy_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
 						"url": "https://www.eveonline.com/ru/news/view/save-up-to-25-on-omega-police-skins"
-					},
-					"11E4iNs7s7YBWogLfAjMlj": {
-						"id": "11E4iNs7s7YBWogLfAjMlj",
-						"title": "Drifter Battles Turn Around as Deathless Threaten Warden Connections",
-						"slug": "drifter-battles-turn-around-as-deathless-threaten-warden-connections",
-						"tags": [
-							"universe"
-						],
-						"category": "New Eden News",
-						"publishingDate": "2025-04-26",
-						"metaDescription": "Drifter Wormhole Occupiers Resurgent Inside Drifter Wormholes, occupying factions have taken advantage of new research insights to unlock greater influence. This influence allows them to establish further control over the Drifter wormhole systems. Thanks to these insights, all five factions (Amarr Empire, Caldari State, EDENCOM, Minmatar Republic, Triglavian Collective) have experienced greater gains from their activities within Drifter space. Despite incredible efforts by capsuleers, the early [...]",
-						"src": "https://images.ctfassets.net/1gqwxa4vbed9/4lH7dTP38r4sZZg1lcWPWS/a98df60a6246aaf6479bbeb655f39f4e/drifterDred.png?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://universe.eveonline.com/new-eden-news/drifter-battles-turn-around-as-deathless-threaten-warden-connections"
 					}
 				}
 			}
@@ -1796,7 +1797,7 @@
 						"url": "https://www.eveonline.com/es/frontlines"
 					}
 				],
-				"updatedAt": 1749112836732
+				"updatedAt": 1749125212237
 			},
 			"playArea": {
 				"content": {
@@ -1874,7 +1875,7 @@
 						"url": "https://www.eveonline.com/zh/frontlines"
 					}
 				],
-				"updatedAt": 1749112836746
+				"updatedAt": 1749125212266
 			},
 			"playArea": {
 				"content": {
