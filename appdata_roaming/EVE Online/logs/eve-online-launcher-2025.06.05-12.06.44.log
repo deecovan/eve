@@ -1,0 +1,942 @@
+2025-06-05 12:06:45.368    app     info:    [migrations] Running state migrations from 202403271440 to 202403271440
+2025-06-05 12:06:45.595    app     info:    [self-update] Configuring update feed.
+2025-06-05 12:06:45.596    app     info:    [self-update] Update feed set to: https://launcher.ccpgames.com/eve-online/release/win32/x64/
+2025-06-05 12:06:45.791    app     info:    Startup arguments    []
+2025-06-05 12:06:45.963    app     info:    [self-update] Auto-updating is now enabled
+2025-06-05 12:06:45.967    app     info:    [migrations] Running state migrations from 202403271440 to 202403271440
+2025-06-05 12:06:46.006    app    error:    (node:3068) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+(Use `eve-online --trace-deprecation ...` to show where the warning was created)    []
+2025-06-05 12:06:46.008    app     info:    [third-party-authentications] Checking for Steam startup
+2025-06-05 12:06:46.937    app     info:    [migrations] Running secured-state migrations from 202406060001 to 202406060001
+2025-06-05 12:06:47.087    app     info:    [i18next] Changed language    ru
+2025-06-05 12:06:47.101    app     info:    [steam-auth] Steam startup detected
+2025-06-05 12:06:47.121    app     info:    [authentication] Generated login URL with state 'zfL_3IZ7SetgBjZ48N3clSZk1hBH6ennYi7sEniZ2oY' for 'tranquility' using clientID 'eveLauncherTQ'
+2025-06-05 12:06:47.122    app     info:    [third-party-authentications] Done checking third party startups
+2025-06-05 12:06:47.375    app     info:    [customer-information] Agreements have been updated
+2025-06-05 12:06:47.399    app     info:    [cache-protocol] Found 0 entries to remove
+2025-06-05 12:06:47.400    app     info:    [cache-protocol] Nothing to clean up.
+2025-06-05 12:06:47.564    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.application.LauncherStarted
+2025-06-05 12:06:47.660    app     info:    [analytics] Application name:    EVE Online
+2025-06-05 12:06:47.660    app     info:    [analytics] Application version:    1.10.1
+2025-06-05 12:06:47.660    app     info:    [analytics] Domain    undefined
+2025-06-05 12:06:47.662    app     info:    [analytics] Working directory    C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1
+2025-06-05 12:06:47.663    app     info:    [analytics] Username contains UTF8?    false
+2025-06-05 12:06:48.990    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.application.PdmLoaded
+2025-06-05 12:06:49.010    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.application.CoreDataLoaded
+2025-06-05 12:06:49.018    app     info:    [analytics] Operating system    { type: 'Windows', name: 'Windows 10 Home', version: '10.0 (19045)' }
+2025-06-05 12:06:49.018    app     info:    [analytics] Encryption available:    true
+2025-06-05 12:06:49.019    app     info:    [analytics] Machine UUID    B7B2A471-C4FE-4353-880B-870CE29AC3D8
+2025-06-05 12:06:49.019    app     info:    [analytics] PDM Version    2.1.4
+2025-06-05 12:06:49.019    app     info:    [analytics] Release channel    release
+2025-06-05 12:06:49.020    app     info:    [initializers] Shared cache directory set to    C:\Games\EVE
+2025-06-05 12:06:49.030    app     info:    [initializers] Shared cache drive free space: 43.91 GiB / 237.84 GiB
+2025-06-05 12:06:49.033    app     info:    [feature-flags] Initializing feature flag client
+2025-06-05 12:06:49.084    app     info:    [migrations] Running file-system migrations from 202408021525 to 202408021525
+2025-06-05 12:06:49.088    app     info:    [scheduler] Starting scheduler background
+2025-06-05 12:06:49.122    app    error:    (node:3068) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 scheduler/triggered listeners added to [IpcMainImpl]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit    []
+2025-06-05 12:06:49.131    app     info:    [shared-cache] Looking for eve-online profiles in 'c_games_eve_tq_tranquility'...
+2025-06-05 12:06:49.145    app     info:    [shared-cache] No profiles found on disk
+2025-06-05 12:06:49.172    app     info:    [analytics] Hardware rendering enabled:    true    { disabledViaCommandline: false, disabledViaSettings: true }
+2025-06-05 12:06:49.215    app     info:    [first-run] Application has been run before: 2025-03-14T09:16:58.327Z
+2025-06-05 12:06:49.408    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.LauncherStarted
+2025-06-05 12:06:49.411    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.PdmLoaded
+2025-06-05 12:06:49.412    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.CoreDataLoaded
+2025-06-05 12:06:49.418    app     info:    info: [LaunchDarkly] LaunchDarkly client initialized    []
+2025-06-05 12:06:49.420    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJraW5kIjoibXVsdGkiLCJsYXVuY2hlciI6eyJrZXkiOiJlZjNjMWY1Ny03NWI2LTQzNzItODQzNy1kODQ5MTJjMjgyMWUiLCJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjgzLCJsYW5ndWFnZSI6InJ1IiwiYXBwbGljYXRpb24iOiJldmUtb25saW5lIiwidmVyc2lvbiI6IjEuMTAuMSIsInBsYXRmb3JtIjoid2luZG93cyIsImlzR2VGb3JjZU5vdyI6ZmFsc2UsIm9zVmVyc2lvbkRlcHJlY2F0ZWQiOmZhbHNlLCJ1c2VySWRzIjpbMjM2MjI5MDMsMzEzNjc2OTEsMTY0OTIzNzcsMzEzNjc2OTFdLCJwcm9kdWN0cyI6WyJldmUtb25saW5lIl0sIm9tZWdhQ291bnQiOjAsImFscGhhQ291bnQiOjcsImFjY291bnRDb3VudCI6Nywib2xkZXN0QWNjb3VudEFnZSI6MjY0OCwieW91bmdlc3RBY2NvdW50QWdlIjo3MX0sImpvdXJuZXkiOnsia2V5IjoiYjEyMjhlYTAtMzY5MC00ZDk3LWJjZmUtYmQwMjY0OGNkNTZjIiwiYW5vbnltb3VzIjp0cnVlfX0?withReasons=true    []
+2025-06-05 12:06:49.422    app     info:    [feature-flags] Client ef3c1f57... ready, fetching flags
+2025-06-05 12:06:49.424    app     info:    [self-update] Auto-updating is now enabled
+2025-06-05 12:06:49.425    app     info:    [quasar-manager] Quasar (EPG) feature flag is enabled
+2025-06-05 12:06:49.430    app     info:    [feature-flags] Received 40 flags for client ef3c1f57...
+2025-06-05 12:06:49.431    app     info:    [feature-flags] Client initialized with key ef3c1f57...
+2025-06-05 12:06:49.437    app     info:    [quasar-manager] Quasar (EPG) feature flag is enabled
+2025-06-05 12:06:49.441    app     info:    [self-update] Configuring update feed.
+2025-06-05 12:06:49.442    app     info:    [self-update] Update feed set to: https://launcher.ccpgames.com/eve-online/release/win32/x64/
+2025-06-05 12:06:49.442    app     info:    [self-update] Auto-updating is now enabled
+2025-06-05 12:06:49.448    app     info:    [client-manager] No clients running anymore on 'tranquility'
+2025-06-05 12:06:49.464    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientClosedSinceLastSession
+2025-06-05 12:06:49.465    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientClosedSinceLastSession
+2025-06-05 12:06:49.949    app     warn:    (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.    []
+2025-06-05 12:06:49.968    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.application.RendererLoaded
+2025-06-05 12:06:49.969    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.RendererLoaded
+2025-06-05 12:06:49.970    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 12:06:49.997    app     info:    [newsfeed] Fetching news for eve-online in ru
+2025-06-05 12:06:50.022    app     info:    [content-delivery-trace] Fetching CDN trace data from https://binaries.eveonline.com/cdn-cgi/trace
+2025-06-05 12:06:50.056    app     info:    [creatives] Requesting creatives for eve-online
+2025-06-05 12:06:50.059    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2025-06-05 12:06:50.061    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2025-06-05 12:06:50.085    app     info:    [window-manager] Main window registered    { windowId: 2 }
+2025-06-05 12:06:50.104    app     info:    [login-window] Creating login window using URI 'https://login.eveonline.com/account/logoff?lang=en&ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3DeveLauncherTQ%26scope%3DeveClientLogin%2Bcisservice.customerRead.v1%2Bcisservice.customerWrite.v1%2Bcisservice.userProfileBasic.v1%2Bvgs.transactionRead.v1%2Bvgs.marketAccess.v1%26redirect_uri%3Dhttps%253A%252F%252Flogin.eveonline.com%252Flauncher%253Fclient_id%253DeveLauncherTQ%26state%3DzfL_3IZ7SetgBjZ48N3clSZk1hBH6ennYi7sEniZ2oY%26code_challenge_method%3DS256%26code_challenge%3DNkhKg_kR_7y7sV8J9fLcBDBNPM2L0lmkoJSxiarTrz4%26steam_ticket%3D140000007d84a71dab52154a1bd7f11a0100100146884168180000000100000002000000920ed2565225c04f267f000001000000b200000032000000040000001bd7f11a0100100134210000cc82a42edd06000a000000000c3140688ce05b6801002f22020000000000cc00b2a9c485eaed298a68b68cb4fdcd5d920993bb259c655ee343fb2c256ebdbfb6a93aaeba88f9235f249fc229e3bf5c3230ddbce77bfe22d226bc3b40cbd3a28d293e1ee0514e2bd0bfafc959be51c554e56a9f896b0b75f085844f1c11872911ce3bd7785d3fd1a35b3c8a1988d8f79d3429392c34b5755b67223f9a430e'
+2025-06-05 12:06:50.140     ui     info:    [i18next] Requesting missing translation ru readnought title title    ccp://launcher/renderer/main_window/index.js    2
+2025-06-05 12:06:50.195    app     info:    [jukebox] Fetched 2 jukebox playlists
+2025-06-05 12:06:50.694    app     info:    [newsfeed] Fetched 20 news items for eve-online in ru
+2025-06-05 12:06:50.727    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:06:50.728    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:06:50.728    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:06:50.729    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:06:50.729    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:06:50.730    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:06:50.730    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:06:50.730    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:06:51.319    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2025-06-05 12:06:51.319    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2025-06-05 12:06:51.320    app     info:    [authentication] Token for '23622903' on 'tranquility' is expired, refresh is required
+2025-06-05 12:06:51.320    app     info:    [authentication] Refreshing token for '23622903' on 'tranquility'
+2025-06-05 12:06:51.321    app     info:    [authentication] Token for '26239201' on 'tranquility' is expired, refresh is required
+2025-06-05 12:06:51.321    app     info:    [authentication] Refreshing token for '26239201' on 'tranquility'
+2025-06-05 12:06:51.321    app     info:    [authentication] Token for '29280260' on 'tranquility' is expired, refresh is required
+2025-06-05 12:06:51.322    app     info:    [authentication] Refreshing token for '29280260' on 'tranquility'
+2025-06-05 12:06:51.322    app     info:    [authentication] Token for '29795975' on 'tranquility' is expired, refresh is required
+2025-06-05 12:06:51.322    app     info:    [authentication] Refreshing token for '29795975' on 'tranquility'
+2025-06-05 12:06:51.323    app     info:    [authentication] Token for '31320672' on 'tranquility' is expired, refresh is required
+2025-06-05 12:06:51.323    app     info:    [authentication] Refreshing token for '31320672' on 'tranquility'
+2025-06-05 12:06:51.323    app     info:    [authentication] Token for '31367691' on 'tranquility' is expired, refresh is required
+2025-06-05 12:06:51.323    app     info:    [authentication] Refreshing token for '31367691' on 'tranquility'
+2025-06-05 12:06:51.324    app     info:    [AuthenticationMiddleware] Refreshed 7 / 7 users for tranquility on eve-online
+2025-06-05 12:06:51.334    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 12:06:51.854    app     info:    [server-manager] Previous Tranquility build: 2929428, current build: 2931110
+2025-06-05 12:06:51.860    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientUpdateStarted
+2025-06-05 12:06:51.861    app     info:    [server-manager] Starting download of build 2931110 for Tranquility.
+2025-06-05 12:06:51.881    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientUpdateStarted
+2025-06-05 12:06:52.040     ui     info:    Initializing captcha    ccp://launcher/renderer/main_window/index.js    2
+2025-06-05 12:06:52.117    app     info:    [new-player-content] Resetting content as language not in response    { locale: 'tx' }
+2025-06-05 12:06:52.480    app     info:    [login-window] Navigation to login completed, receiving code & state (zfL_3IZ7SetgBjZ48N3clSZk1hBH6ennYi7sEniZ2oY)
+2025-06-05 12:06:52.919    app     info:    [creatives] Received 4 creatives for eve-online
+2025-06-05 12:06:52.959    app     info:    [manifest] Excluded 43 files from the manifest, leaving 183 entries
+2025-06-05 12:06:52.959    app     info:    [server-manager] Downloading 183 binary files (175 MB)
+2025-06-05 12:06:52.962    app     info:    [download-from-manifest] Preparing to download 183 files    { cdn: 1, concurrent: 10 }
+2025-06-05 12:06:53.342    app     info:    [authentication] Token for '26239201' on 'tranquility' has been successfully refreshed
+2025-06-05 12:06:53.348    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:06:53.367    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:06:53.377    app     info:    [authentication] Token for '29280260' on 'tranquility' has been successfully refreshed
+2025-06-05 12:06:53.383    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:06:53.392    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:06:53.393    app     info:    [authentication] Token for '23622903' on 'tranquility' has been successfully refreshed
+2025-06-05 12:06:53.399    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:06:53.409    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2025-06-05 12:06:53.416    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:06:53.427    app     info:    [customer-information] Getting character information for '16492377' on 'tranquility'
+2025-06-05 12:06:53.427    app     info:    [customer-information] Getting Omega status for '16492377' on 'tranquility' (eve-online)
+2025-06-05 12:06:53.428    app     info:    [virtual-goods] Getting Plex status for '16492377' on 'tranquility' (eve-online)
+2025-06-05 12:06:53.435    app     info:    [authentication] Token for '31367691' on 'tranquility' has been successfully refreshed
+2025-06-05 12:06:53.441    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:06:53.452    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2025-06-05 12:06:53.460    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:06:53.478    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensReceived
+2025-06-05 12:06:53.495    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserAuthenticated
+2025-06-05 12:06:53.544    app     info:    [authentication] Token for '29795975' on 'tranquility' has been successfully refreshed
+2025-06-05 12:06:53.550    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:06:53.565    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:06:53.575    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.LoginWindowClosed
+2025-06-05 12:06:53.575    app     info:    [login-window] Login window with state 'zfL_3IZ7SetgBjZ48N3clSZk1hBH6ennYi7sEniZ2oY' has been closed
+2025-06-05 12:06:53.575    app    error:    [login-window] Could not load the login page: 'https://login.eveonline.com/account/logoff?lang=en&ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3DeveLauncherTQ%26scope%3DeveClientLogin%2Bcisservice.customerRead.v1%2Bcisservice.customerWrite.v1%2Bcisservice.userProfileBasic.v1%2Bvgs.transactionRead.v1%2Bvgs.marketAccess.v1%26redirect_uri%3Dhttps%253A%252F%252Flogin.eveonline.com%252Flauncher%253Fclient_id%253DeveLauncherTQ%26state%3DzfL_3IZ7SetgBjZ48N3clSZk1hBH6ennYi7sEniZ2oY%26code_challenge_method%3DS256%26code_challenge%3DNkhKg_kR_7y7sV8J9fLcBDBNPM2L0lmkoJSxiarTrz4%26steam_ticket%3D140000007d84a71dab52154a1bd7f11a0100100146884168180000000100000002000000920ed2565225c04f267f000001000000b200000032000000040000001bd7f11a0100100134210000cc82a42edd06000a000000000c3140688ce05b6801002f22020000000000cc00b2a9c485eaed298a68b68cb4fdcd5d920993bb259c655ee343fb2c256ebdbfb6a93aaeba88f9235f249fc229e3bf5c3230ddbce77bfe22d226bc3b40cbd3a28d293e1ee0514e2bd0bfafc959be51c554e56a9f896b0b75f085844f1c11872911ce3bd7785d3fd1a35b3c8a1988d8f79d3429392c34b5755b67223f9a430e' ERR_FAILED (-2) loading 'https://login.eveonline.com/account/logoff?lang=en&ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3DeveLauncherTQ%26scope%3DeveClientLogin%2Bcisservice.customerRead.v1%2Bcisservice.customerWrite.v1%2Bcisservice.userProfileBasic.v1%2Bvgs.transactionRead.v1%2Bvgs.marketAccess.v1%26redirect_uri%3Dhttps%253A%252F%252Flogin.eveonline.com%252Flauncher%253Fclient_id%253DeveLauncherTQ%26state%3DzfL_3IZ7SetgBjZ48N3clSZk1hBH6ennYi7sEniZ2oY%26code_challenge_method%3DS256%26code_challenge%3DNkhKg_kR_7y7sV8J9fLcBDBNPM2L0lmkoJSxiarTrz4%26steam_ticket%3D140000007d84a71dab52154a1bd7f11a0100100146884168180000000100000002000000920ed2565225c04f267f000001000000b200000032000000040000001bd7f11a0100100134210000cc82a42edd06000a000000000c3140688ce05b6801002f22020000000000cc00b2a9c485eaed298a68b68cb4fdcd5d920993bb259c655ee343fb2c256ebdbfb6a93aaeba88f9235f249fc229e3bf5c3230ddbce77bfe22d226bc3b40cbd3a28d293e1ee0514e2bd0bfafc959be51c554e56a9f896b0b75f085844f1c11872911ce3bd7785d3fd1a35b3c8a1988d8f79d3429392c34b5755b67223f9a430e'    Error: ERR_FAILED (-2) loading 'https://login.eveonline.com/account/logoff?lang=en&ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3DeveLauncherTQ%26scope%3DeveClientLogin%2Bcisservice.customerRead.v1%2Bcisservice.customerWrite.v1%2Bcisservice.userProfileBasic.v1%2Bvgs.transactionRead.v1%2Bvgs.marketAccess.v1%26redirect_uri%3Dhttps%253A%252F%252Flogin.eveonline.com%252Flauncher%253Fclient_id%253DeveLauncherTQ%26state%3DzfL_3IZ7SetgBjZ48N3clSZk1hBH6ennYi7sEniZ2oY%26code_challenge_method%3DS256%26code_challenge%3DNkhKg_kR_7y7sV8J9fLcBDBNPM2L0lmkoJSxiarTrz4%26steam_ticket%3D140000007d84a71dab52154a1bd7f11a0100100146884168180000000100000002000000920ed2565225c04f267f000001000000b200000032000000040000001bd7f11a0100100134210000cc82a42edd06000a000000000c3140688ce05b6801002f22020000000000cc00b2a9c485eaed298a68b68cb4fdcd5d920993bb259c655ee343fb2c256ebdbfb6a93aaeba88f9235f249fc229e3bf5c3230ddbce77bfe22d226bc3b40cbd3a28d293e1ee0514e2bd0bfafc959be51c554e56a9f896b0b75f085844f1c11872911ce3bd7785d3fd1a35b3c8a1988d8f79d3429392c34b5755b67223f9a430e'
+    at rejectAndCleanup (node:electron/js2c/browser_init:2:79523)
+    at finishListener (node:electron/js2c/browser_init:2:79685)
+    at WebContents.stopLoadingListener (node:electron/js2c/browser_init:2:80072)
+    at WebContents.emit (node:events:530:35)
+    at e.emit (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:2737360) {
+  errno: -2,
+  code: 'ERR_FAILED',
+  url: 'https://login.eveonline.com/account/logoff?lang=en&ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3DeveLauncherTQ%26scope%3DeveClientLogin%2Bcisservice.customerRead.v1%2Bcisservice.customerWrite.v1%2Bcisservice.userProfileBasic.v1%2Bvgs.transactionRead.v1%2Bvgs.marketAccess.v1%26redirect_uri%3Dhttps%253A%252F%252Flogin.eveonline.com%252Flauncher%253Fclient_id%253DeveLauncherTQ%26state%3DzfL_3IZ7SetgBjZ48N3clSZk1hBH6ennYi7sEniZ2oY%26code_challenge_method%3DS256%26code_challenge%3DNkhKg_kR_7y7sV8J9fLcBDBNPM2L0lmkoJSxiarTrz4%26steam_ticket%3D140000007d84a71dab52154a1bd7f11a0100100146884168180000000100000002000000920ed2565225c04f267f000001000000b200000032000000040000001bd7f11a0100100134210000cc82a42edd06000a000000000c3140688ce05b6801002f22020000000000cc00b2a9c485eaed298a68b68cb4fdcd5d920993bb259c655ee343fb2c256ebdbfb6a93aaeba88f9235f249fc229e3bf5c3230ddbce77bfe22d226bc3b40cbd3a28d293e1ee0514e2bd0bfafc959be51c554e56a9f896b0b75f085844f1c11872911ce3bd7785d3fd1a35b3c8a1988d8f79d3429392c34b5755b67223f9a430e'
+}
+2025-06-05 12:06:53.586    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:06:53.592    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:06:53.593    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:06:53.594    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensReceived
+2025-06-05 12:06:53.595    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserAuthenticated
+2025-06-05 12:06:53.596    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:06:53.597    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.LoginWindowClosed
+2025-06-05 12:06:53.934    app     info:    [esi] Fetching character details for 2113875139, 2121174871
+2025-06-05 12:06:54.054    app     info:    [server-manager] Downloaded 421.12 kiB/166.83 MiB at 285.92 kiB/s
+2025-06-05 12:06:54.555    app     info:    [authentication] Token for '31320672' on 'tranquility' has been successfully refreshed
+2025-06-05 12:06:54.561    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:06:54.571    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:06:54.571    app     info:    [AuthenticationMiddleware] Successfully restored 7 / 7 users
+2025-06-05 12:06:55.017    app     info:    [self-update] Checking for application updates.
+2025-06-05 12:06:55.551    app     info:    [server-manager] Downloaded 1.01 MiB/166.83 MiB at 535.28 kiB/s
+2025-06-05 12:06:56.552    app     info:    [server-manager] Downloaded 2.14 MiB/166.83 MiB at 1.36 MiB/s
+2025-06-05 12:06:56.732    app     info:    [time-sync] Failed to sync time with 3 servers
+2025-06-05 12:06:56.733    app     info:    [time-sync] Compared time with 4 servers. 1 successful, 3 failed.
+2025-06-05 12:06:56.733    app     info:    [time-sync] Not showing any warnings because there were errors fetching the time.
+2025-06-05 12:06:56.750    app     info:    [esi] Fetched 2 character details for 16492377
+2025-06-05 12:06:57.560    app     info:    [server-manager] Downloaded 2.92 MiB/166.83 MiB at 939.47 kiB/s
+2025-06-05 12:06:58.433    app    error:    [quasar-manager-helper] Failed to perform Quasar request RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-16492377-null' in 5001ms (0: )    c [EpgError]: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-16492377-null' in 5001ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  innerError: undefined,
+  statusCode: 0,
+  statusMessage: ''
+}
+2025-06-05 12:06:58.434    app     warn:    [virtual-goods] Can't fetch Plex status for '16492377' on 'tranquility' (eve-online), error: EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-16492377-null' in 5001ms (0: )
+2025-06-05 12:06:58.597    app     info:    [server-manager] Downloaded 3.73 MiB/166.83 MiB at 671.99 kiB/s
+2025-06-05 12:06:58.912    app     info:    [self-update] No application updates were found.
+2025-06-05 12:06:59.622    app     info:    [server-manager] Downloaded 4.45 MiB/166.83 MiB at 846.82 kiB/s
+2025-06-05 12:07:00.655    app     info:    [server-manager] Downloaded 5.53 MiB/166.83 MiB at 1.14 MiB/s
+2025-06-05 12:07:01.694    app     info:    [server-manager] Downloaded 6.34 MiB/166.83 MiB at 774.70 kiB/s
+2025-06-05 12:07:02.718    app     info:    [server-manager] Downloaded 7.17 MiB/166.83 MiB at 806.23 kiB/s
+2025-06-05 12:07:03.734    app     info:    [server-manager] Downloaded 8.05 MiB/166.83 MiB at 822.30 kiB/s
+2025-06-05 12:07:03.939    app    error:    [AuthenticationMiddleware] RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-16492377-null' in 5001ms (0: )    EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-16492377-null' in 5001ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2025-06-05 12:07:04.777    app     info:    [server-manager] Downloaded 8.87 MiB/166.83 MiB at 867.24 kiB/s
+2025-06-05 12:07:05.785    app     info:    [server-manager] Downloaded 9.61 MiB/166.83 MiB at 395.34 kiB/s
+2025-06-05 12:07:06.811    app     info:    [server-manager] Downloaded 10.52 MiB/166.83 MiB at 822.19 kiB/s
+2025-06-05 12:07:07.819    app     info:    [server-manager] Downloaded 11.29 MiB/166.83 MiB at 357.70 kiB/s
+2025-06-05 12:07:08.846    app     info:    [server-manager] Downloaded 12.09 MiB/166.83 MiB at 835.36 kiB/s
+2025-06-05 12:07:09.855    app     info:    [server-manager] Downloaded 12.86 MiB/166.83 MiB at 415.06 kiB/s
+2025-06-05 12:07:10.907    app     info:    [server-manager] Downloaded 13.67 MiB/166.83 MiB at 752.12 kiB/s
+2025-06-05 12:07:11.938    app     info:    [server-manager] Downloaded 14.49 MiB/166.83 MiB at 853.77 kiB/s
+2025-06-05 12:07:12.968    app     info:    [server-manager] Downloaded 15.37 MiB/166.83 MiB at 1.25 MiB/s
+2025-06-05 12:07:13.980    app     info:    [server-manager] Downloaded 16.28 MiB/166.83 MiB at 949.61 kiB/s
+2025-06-05 12:07:14.580    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 12:07:14.581    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 12:07:15.032    app     info:    [server-manager] Downloaded 16.92 MiB/166.83 MiB at 790.59 kiB/s
+2025-06-05 12:07:15.850    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 12:07:15.947    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 12:07:16.063    app     info:    [server-manager] Downloaded 17.39 MiB/166.83 MiB at 576.32 kiB/s
+2025-06-05 12:07:17.106    app     info:    [server-manager] Downloaded 18.30 MiB/166.83 MiB at 923.19 kiB/s
+2025-06-05 12:07:17.776    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 12:07:17.777    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 12:07:17.855    app     warn:    The connection to LogLite was refused. A LogLite server may not be running, or be listening to connections.    []
+2025-06-05 12:07:18.171    app     info:    [server-manager] Downloaded 18.95 MiB/166.83 MiB at 658.05 kiB/s
+2025-06-05 12:07:18.777    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 12:07:19.179    app     info:    [server-manager] Downloaded 19.83 MiB/166.83 MiB at 869.16 kiB/s
+2025-06-05 12:07:19.409    app     info:    [save-as] Retrying download of https://binaries.eveonline.com/2e/2e7ea5278ef43fd2_23f2ee900b74b2984f2c986d534dff12 (attempt 1) Error occurred while saving file to disk 'C:\Games\EVE\ResFiles\2e\.2e7ea5278ef43fd2_23f2ee900b74b2984f2c986d534dff12.tmp'
+Request error when calling 'https://binaries.eveonline.com'
+socket hang up    S [SaveAsError]: Error occurred while saving file to disk 'C:\Games\EVE\ResFiles\2e\.2e7ea5278ef43fd2_23f2ee900b74b2984f2c986d534dff12.tmp'
+Request error when calling 'https://binaries.eveonline.com'
+socket hang up
+    at S.from (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:2344035)
+    at v.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1871836)
+    at v.emit (node:events:518:28)
+    at v.emitError (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:2668272)
+    at ClientRequest.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:2667243)
+    at ClientRequest.emit (node:events:530:35)
+    ... 3 lines matching cause stack trace ...
+    at endReadableNT (node:internal/streams/readable:1698:12) {
+  cause: h [RequestError]: Request error when calling 'https://binaries.eveonline.com'
+  socket hang up
+      at h.from (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:2664406)
+      at ClientRequest.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:2667255)
+      at ClientRequest.emit (node:events:530:35)
+      at emitErrorEvent (node:_http_client:104:11)
+      at TLSSocket.socketOnEnd (node:_http_client:542:5)
+      at TLSSocket.emit (node:events:530:35)
+      at endReadableNT (node:internal/streams/readable:1698:12)
+      at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+    code: 'ECONNRESET'
+  },
+  code: 'ECONNRESET'
+}
+2025-06-05 12:07:20.218    app     info:    [server-manager] Downloaded 20.52 MiB/166.83 MiB at 662.69 kiB/s
+2025-06-05 12:07:21.228    app     info:    [server-manager] Downloaded 21.30 MiB/166.83 MiB at 783.48 kiB/s
+2025-06-05 12:07:22.250    app     info:    [server-manager] Downloaded 22.06 MiB/166.83 MiB at 900.96 kiB/s
+2025-06-05 12:07:23.258    app     info:    [server-manager] Downloaded 22.85 MiB/166.83 MiB at 773.57 kiB/s
+2025-06-05 12:07:24.290    app     info:    [server-manager] Downloaded 23.52 MiB/166.83 MiB at 285.23 kiB/s
+2025-06-05 12:07:25.299    app     info:    [server-manager] Downloaded 24.16 MiB/166.83 MiB at 674.94 kiB/s
+2025-06-05 12:07:26.347    app     info:    [server-manager] Downloaded 24.82 MiB/166.83 MiB at 629.77 kiB/s
+2025-06-05 12:07:27.374    app     info:    [server-manager] Downloaded 25.53 MiB/166.83 MiB at 1.07 MiB/s
+2025-06-05 12:07:28.384    app     info:    [server-manager] Downloaded 26.29 MiB/166.83 MiB at 716.15 kiB/s
+2025-06-05 12:07:29.442    app     info:    [server-manager] Downloaded 26.95 MiB/166.83 MiB at 634.09 kiB/s
+2025-06-05 12:07:30.468    app     info:    [server-manager] Downloaded 27.59 MiB/166.83 MiB at 511.85 kiB/s
+2025-06-05 12:07:31.501    app     info:    [server-manager] Downloaded 28.14 MiB/166.83 MiB at 494.81 kiB/s
+2025-06-05 12:07:32.534    app     info:    [server-manager] Downloaded 28.84 MiB/166.83 MiB at 752.70 kiB/s
+2025-06-05 12:07:33.545    app     info:    [server-manager] Downloaded 29.45 MiB/166.83 MiB at 504.82 kiB/s
+2025-06-05 12:07:34.564    app     info:    [server-manager] Downloaded 30.16 MiB/166.83 MiB at 663.58 kiB/s
+2025-06-05 12:07:35.597    app     info:    [server-manager] Downloaded 30.78 MiB/166.83 MiB at 469.61 kiB/s
+2025-06-05 12:07:35.927    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 12:07:36.615    app     info:    [server-manager] Downloaded 31.52 MiB/166.83 MiB at 602.01 kiB/s
+2025-06-05 12:07:37.657    app     info:    [server-manager] Downloaded 32.21 MiB/166.83 MiB at 693.22 kiB/s
+2025-06-05 12:07:38.734    app     info:    [server-manager] Downloaded 32.91 MiB/166.83 MiB at 661.93 kiB/s
+2025-06-05 12:07:39.751    app     info:    [server-manager] Downloaded 33.60 MiB/166.83 MiB at 293.85 kiB/s
+2025-06-05 12:07:40.757    app     info:    [server-manager] Downloaded 34.23 MiB/166.83 MiB at 641.36 kiB/s
+2025-06-05 12:07:41.785    app     info:    [server-manager] Downloaded 34.85 MiB/166.83 MiB at 613.61 kiB/s
+2025-06-05 12:07:42.794    app     info:    [server-manager] Downloaded 35.54 MiB/166.83 MiB at 614.57 kiB/s
+2025-06-05 12:07:43.875    app     info:    [server-manager] Downloaded 36.17 MiB/166.83 MiB at 615.18 kiB/s
+2025-06-05 12:07:44.896    app     info:    [server-manager] Downloaded 36.81 MiB/166.83 MiB at 623.39 kiB/s
+2025-06-05 12:07:45.907    app     info:    [server-manager] Downloaded 37.39 MiB/166.83 MiB at 612.02 kiB/s
+2025-06-05 12:07:46.934    app     info:    [server-manager] Downloaded 38.05 MiB/166.83 MiB at 714.40 kiB/s
+2025-06-05 12:07:47.967    app     info:    [server-manager] Downloaded 38.76 MiB/166.83 MiB at 694.16 kiB/s
+2025-06-05 12:07:49.016    app     info:    [server-manager] Downloaded 39.50 MiB/166.83 MiB at 678.24 kiB/s
+2025-06-05 12:07:49.993    app     info:    [customer-information] Getting character information for '16492377' on 'tranquility'
+2025-06-05 12:07:49.993    app     info:    [virtual-goods] Getting Plex status for '16492377' on 'tranquility' (eve-online)
+2025-06-05 12:07:50.071    app     info:    [server-manager] Downloaded 40.18 MiB/166.83 MiB at 701.97 kiB/s
+2025-06-05 12:07:50.241    app     info:    [esi] Fetching character details for 2113875139, 2121174871
+2025-06-05 12:07:51.093    app     info:    [server-manager] Downloaded 40.80 MiB/166.83 MiB at 569.53 kiB/s
+2025-06-05 12:07:51.929    app     info:    [esi] Fetched 2 character details for 16492377
+2025-06-05 12:07:52.126    app     info:    [server-manager] Downloaded 41.36 MiB/166.83 MiB at 457.72 kiB/s
+2025-06-05 12:07:52.597    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 12:07:52.598    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 12:07:53.162    app     info:    [server-manager] Downloaded 42.02 MiB/166.83 MiB at 731.21 kiB/s
+2025-06-05 12:07:53.598    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 12:07:54.193    app     info:    [server-manager] Downloaded 42.74 MiB/166.83 MiB at 985.02 kiB/s
+2025-06-05 12:07:54.996    app    error:    [quasar-manager-helper] Failed to perform Quasar request RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-16492377-null' in 5001ms (0: )    c [EpgError]: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-16492377-null' in 5001ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  innerError: undefined,
+  statusCode: 0,
+  statusMessage: ''
+}
+2025-06-05 12:07:54.997    app     warn:    [virtual-goods] Can't fetch Plex status for '16492377' on 'tranquility' (eve-online), error: EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-16492377-null' in 5001ms (0: )
+2025-06-05 12:07:55.010    app    error:    [AuthenticationMiddleware] RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-16492377-null' in 5001ms (0: )    EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-16492377-null' in 5001ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2025-06-05 12:07:55.242    app     info:    [server-manager] Downloaded 43.43 MiB/166.83 MiB at 597.06 kiB/s
+2025-06-05 12:07:56.295    app     info:    [server-manager] Downloaded 43.86 MiB/166.83 MiB at 428.16 kiB/s
+2025-06-05 12:07:57.327    app     info:    [server-manager] Downloaded 44.40 MiB/166.83 MiB at 522.78 kiB/s
+2025-06-05 12:07:58.392    app     info:    [server-manager] Downloaded 44.76 MiB/166.83 MiB at 255.78 kiB/s
+2025-06-05 12:07:59.440    app     info:    [server-manager] Downloaded 45.42 MiB/166.83 MiB at 745.82 kiB/s
+2025-06-05 12:08:00.505    app     info:    [server-manager] Downloaded 46.12 MiB/166.83 MiB at 993.66 kiB/s
+2025-06-05 12:08:01.548    app     info:    [server-manager] Downloaded 46.90 MiB/166.83 MiB at 825.12 kiB/s
+2025-06-05 12:08:02.555    app     info:    [server-manager] Downloaded 47.65 MiB/166.83 MiB at 601.34 kiB/s
+2025-06-05 12:08:03.589    app     info:    [server-manager] Downloaded 48.31 MiB/166.83 MiB at 577.18 kiB/s
+2025-06-05 12:08:04.630    app     info:    [server-manager] Downloaded 49.12 MiB/166.83 MiB at 700.96 kiB/s
+2025-06-05 12:08:05.636    app     info:    [server-manager] Downloaded 49.82 MiB/166.83 MiB at 595.81 kiB/s
+2025-06-05 12:08:06.663    app     info:    [server-manager] Downloaded 50.50 MiB/166.83 MiB at 723.04 kiB/s
+2025-06-05 12:08:07.686    app     info:    [server-manager] Downloaded 50.87 MiB/166.83 MiB at 361.00 kiB/s
+2025-06-05 12:08:08.694    app     info:    [server-manager] Downloaded 51.55 MiB/166.83 MiB at 656.09 kiB/s
+2025-06-05 12:08:08.712    app     info:    [save-as] Retrying download of https://binaries.eveonline.com/f3/f3acce5090245333_a065cabdba5d432bc041a1213a55e967 (attempt 1) Error occurred while saving file to disk 'C:\Games\EVE\ResFiles\f3\.f3acce5090245333_a065cabdba5d432bc041a1213a55e967.tmp'
+Request timed out    S [SaveAsError]: Error occurred while saving file to disk 'C:\Games\EVE\ResFiles\f3\.f3acce5090245333_a065cabdba5d432bc041a1213a55e967.tmp'
+Request timed out
+    at S.from (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:2344035)
+    at v.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1871836)
+    at v.emit (node:events:518:28)
+    at v.emitError (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:2668272)
+    at ClientRequest.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:2667225)
+    at ClientRequest.emit (node:events:530:35)
+    at emitErrorEvent (node:_http_client:104:11)
+    at TLSSocket.socketErrorListener (node:_http_client:518:5)
+    at TLSSocket.emit (node:events:518:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8) {
+  cause: p [RequestTimeoutError]: Request timed out
+      at ClientRequest.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:2667365)
+      at ClientRequest.emit (node:events:530:35)
+      at TLSSocket.emitRequestTimeout (node:_http_client:863:9)
+      at Object.onceWrapper (node:events:632:28)
+      at TLSSocket.emit (node:events:530:35)
+      at Socket._onTimeout (node:net:609:8)
+      at listOnTimeout (node:internal/timers:594:17)
+      at process.processTimers (node:internal/timers:529:7)
+}
+2025-06-05 12:08:09.780    app     info:    [server-manager] Downloaded 52.23 MiB/166.83 MiB at 562.76 kiB/s
+2025-06-05 12:08:10.817    app     info:    [server-manager] Downloaded 53.01 MiB/166.83 MiB at 748.47 kiB/s
+2025-06-05 12:08:11.829    app     info:    [server-manager] Downloaded 53.74 MiB/166.83 MiB at 1.12 MiB/s
+2025-06-05 12:08:12.846    app     info:    [server-manager] Downloaded 54.54 MiB/166.83 MiB at 783.69 kiB/s
+2025-06-05 12:08:13.923    app     info:    [server-manager] Downloaded 55.28 MiB/166.83 MiB at 780.46 kiB/s
+2025-06-05 12:08:14.940    app     info:    [server-manager] Downloaded 55.85 MiB/166.83 MiB at 571.16 kiB/s
+2025-06-05 12:08:16.004    app     info:    [server-manager] Downloaded 56.68 MiB/166.83 MiB at 731.65 kiB/s
+2025-06-05 12:08:17.021    app     info:    [server-manager] Downloaded 57.44 MiB/166.83 MiB at 746.25 kiB/s
+2025-06-05 12:08:18.047    app     info:    [server-manager] Downloaded 58.32 MiB/166.83 MiB at 1.36 MiB/s
+2025-06-05 12:08:19.067    app     info:    [server-manager] Downloaded 59.21 MiB/166.83 MiB at 825.33 kiB/s
+2025-06-05 12:08:20.098    app     info:    [server-manager] Downloaded 60.03 MiB/166.83 MiB at 748.57 kiB/s
+2025-06-05 12:08:21.125    app     info:    [server-manager] Downloaded 60.70 MiB/166.83 MiB at 642.84 kiB/s
+2025-06-05 12:08:22.135    app     info:    [server-manager] Downloaded 61.53 MiB/166.83 MiB at 878.27 kiB/s
+2025-06-05 12:08:23.137    app     info:    [server-manager] Downloaded 62.24 MiB/166.83 MiB at 594.71 kiB/s
+2025-06-05 12:08:24.166    app     info:    [server-manager] Downloaded 62.93 MiB/166.83 MiB at 763.35 kiB/s
+2025-06-05 12:08:25.190    app     info:    [server-manager] Downloaded 64.07 MiB/166.83 MiB at 1,011.66 kiB/s
+2025-06-05 12:08:26.207    app     info:    [server-manager] Downloaded 64.79 MiB/166.83 MiB at 759.86 kiB/s
+2025-06-05 12:08:27.221    app     info:    [server-manager] Downloaded 65.67 MiB/166.83 MiB at 1.02 MiB/s
+2025-06-05 12:08:28.287    app     info:    [server-manager] Downloaded 66.29 MiB/166.83 MiB at 685.46 kiB/s
+2025-06-05 12:08:29.319    app     info:    [server-manager] Downloaded 67.20 MiB/166.83 MiB at 932.13 kiB/s
+2025-06-05 12:08:30.385    app     info:    [server-manager] Downloaded 68.15 MiB/166.83 MiB at 959.75 kiB/s
+2025-06-05 12:08:31.384    app     info:    [server-manager] Downloaded 69.05 MiB/166.83 MiB at 1.12 MiB/s
+2025-06-05 12:08:32.407    app     info:    [server-manager] Downloaded 70.06 MiB/166.83 MiB at 1.13 MiB/s
+2025-06-05 12:08:33.441    app     info:    [server-manager] Downloaded 70.98 MiB/166.83 MiB at 918.71 kiB/s
+2025-06-05 12:08:34.472    app     info:    [server-manager] Downloaded 71.76 MiB/166.83 MiB at 1.27 MiB/s
+2025-06-05 12:08:35.480    app     info:    [server-manager] Downloaded 72.42 MiB/166.83 MiB at 742.32 kiB/s
+2025-06-05 12:08:36.501    app     info:    [server-manager] Downloaded 73.37 MiB/166.83 MiB at 925.89 kiB/s
+2025-06-05 12:08:37.510    app     info:    [server-manager] Downloaded 74.22 MiB/166.83 MiB at 718.92 kiB/s
+2025-06-05 12:08:38.519    app     info:    [server-manager] Downloaded 75.07 MiB/166.83 MiB at 874.28 kiB/s
+2025-06-05 12:08:39.564    app     info:    [server-manager] Downloaded 76.04 MiB/166.83 MiB at 913.23 kiB/s
+2025-06-05 12:08:40.571    app     info:    [server-manager] Downloaded 76.90 MiB/166.83 MiB at 1.03 MiB/s
+2025-06-05 12:08:41.595    app     info:    [server-manager] Downloaded 77.66 MiB/166.83 MiB at 593.57 kiB/s
+2025-06-05 12:08:42.606    app     info:    [server-manager] Downloaded 78.62 MiB/166.83 MiB at 783.36 kiB/s
+2025-06-05 12:08:43.619    app     info:    [server-manager] Downloaded 79.29 MiB/166.83 MiB at 531.09 kiB/s
+2025-06-05 12:08:44.729    app     info:    [server-manager] Downloaded 80.15 MiB/166.83 MiB at 856.87 kiB/s
+2025-06-05 12:08:45.752    app     info:    [server-manager] Downloaded 81.05 MiB/166.83 MiB at 904.25 kiB/s
+2025-06-05 12:08:46.762    app     info:    [server-manager] Downloaded 81.80 MiB/166.83 MiB at 577.62 kiB/s
+2025-06-05 12:08:47.822    app     info:    [server-manager] Downloaded 82.67 MiB/166.83 MiB at 934.37 kiB/s
+2025-06-05 12:08:48.831    app     info:    [server-manager] Downloaded 83.59 MiB/166.83 MiB at 1.31 MiB/s
+2025-06-05 12:08:49.842    app     info:    [server-manager] Downloaded 84.53 MiB/166.83 MiB at 906.40 kiB/s
+2025-06-05 12:08:50.880    app     info:    [server-manager] Downloaded 85.50 MiB/166.83 MiB at 976.47 kiB/s
+2025-06-05 12:08:51.907    app     info:    [server-manager] Downloaded 86.40 MiB/166.83 MiB at 955.20 kiB/s
+2025-06-05 12:08:52.917    app     info:    [server-manager] Downloaded 87.31 MiB/166.83 MiB at 888.65 kiB/s
+2025-06-05 12:08:53.923    app     info:    [server-manager] Downloaded 88.00 MiB/166.83 MiB at 652.24 kiB/s
+2025-06-05 12:08:54.953    app     info:    [server-manager] Downloaded 88.85 MiB/166.83 MiB at 796.13 kiB/s
+2025-06-05 12:08:55.969    app     info:    [server-manager] Downloaded 89.70 MiB/166.83 MiB at 925.01 kiB/s
+2025-06-05 12:08:56.987    app     info:    [server-manager] Downloaded 90.57 MiB/166.83 MiB at 913.40 kiB/s
+2025-06-05 12:08:58.032    app     info:    [server-manager] Downloaded 91.37 MiB/166.83 MiB at 864.33 kiB/s
+2025-06-05 12:08:59.093    app     info:    [server-manager] Downloaded 92.22 MiB/166.83 MiB at 864.44 kiB/s
+2025-06-05 12:09:00.124    app     info:    [server-manager] Downloaded 93.07 MiB/166.83 MiB at 947.70 kiB/s
+2025-06-05 12:09:01.138    app     info:    [server-manager] Downloaded 94.03 MiB/166.83 MiB at 1.03 MiB/s
+2025-06-05 12:09:02.144    app     info:    [server-manager] Downloaded 94.98 MiB/166.83 MiB at 1,008.87 kiB/s
+2025-06-05 12:09:03.189    app     info:    [server-manager] Downloaded 95.90 MiB/166.83 MiB at 895.63 kiB/s
+2025-06-05 12:09:04.200    app     info:    [server-manager] Downloaded 96.81 MiB/166.83 MiB at 972.28 kiB/s
+2025-06-05 12:09:05.216    app     info:    [server-manager] Downloaded 97.41 MiB/166.83 MiB at 1.09 MiB/s
+2025-06-05 12:09:06.224    app     info:    [server-manager] Downloaded 98.34 MiB/166.83 MiB at 778.48 kiB/s
+2025-06-05 12:09:07.235    app     info:    [server-manager] Downloaded 99.29 MiB/166.83 MiB at 1,015.09 kiB/s
+2025-06-05 12:09:08.289    app     info:    [server-manager] Downloaded 100.22 MiB/166.83 MiB at 845.18 kiB/s
+2025-06-05 12:09:09.322    app     info:    [server-manager] Downloaded 100.91 MiB/166.83 MiB at 495.04 kiB/s
+2025-06-05 12:09:10.352    app     info:    [server-manager] Downloaded 101.84 MiB/166.83 MiB at 1.27 MiB/s
+2025-06-05 12:09:11.380    app     info:    [server-manager] Downloaded 102.76 MiB/166.83 MiB at 957.82 kiB/s
+2025-06-05 12:09:12.415    app     info:    [server-manager] Downloaded 103.67 MiB/166.83 MiB at 915.76 kiB/s
+2025-06-05 12:09:13.444    app     info:    [server-manager] Downloaded 104.54 MiB/166.83 MiB at 1.18 MiB/s
+2025-06-05 12:09:14.459    app     info:    [server-manager] Downloaded 105.53 MiB/166.83 MiB at 804.99 kiB/s
+2025-06-05 12:09:15.485    app     info:    [server-manager] Downloaded 106.44 MiB/166.83 MiB at 802.23 kiB/s
+2025-06-05 12:09:16.534    app     info:    [server-manager] Downloaded 107.12 MiB/166.83 MiB at 774.82 kiB/s
+2025-06-05 12:09:17.565    app     info:    [server-manager] Downloaded 108.07 MiB/166.83 MiB at 1.04 MiB/s
+2025-06-05 12:09:18.574    app     info:    [server-manager] Downloaded 108.99 MiB/166.83 MiB at 974.06 kiB/s
+2025-06-05 12:09:19.580    app     info:    [server-manager] Downloaded 109.79 MiB/166.83 MiB at 757.18 kiB/s
+2025-06-05 12:09:20.598    app     info:    [server-manager] Downloaded 110.59 MiB/166.83 MiB at 784.91 kiB/s
+2025-06-05 12:09:21.625    app     info:    [server-manager] Downloaded 111.37 MiB/166.83 MiB at 798.11 kiB/s
+2025-06-05 12:09:22.662    app     info:    [server-manager] Downloaded 112.26 MiB/166.83 MiB at 878.18 kiB/s
+2025-06-05 12:09:23.671    app     info:    [server-manager] Downloaded 113.07 MiB/166.83 MiB at 817.04 kiB/s
+2025-06-05 12:09:24.690    app     info:    [server-manager] Downloaded 113.99 MiB/166.83 MiB at 1.31 MiB/s
+2025-06-05 12:09:25.697    app     info:    [server-manager] Downloaded 114.85 MiB/166.83 MiB at 1.04 MiB/s
+2025-06-05 12:09:26.704    app     info:    [server-manager] Downloaded 115.56 MiB/166.83 MiB at 665.44 kiB/s
+2025-06-05 12:09:27.725    app     info:    [server-manager] Downloaded 116.30 MiB/166.83 MiB at 731.69 kiB/s
+2025-06-05 12:09:28.751    app     info:    [server-manager] Downloaded 117.07 MiB/166.83 MiB at 798.71 kiB/s
+2025-06-05 12:09:29.757    app     info:    [server-manager] Downloaded 117.92 MiB/166.83 MiB at 969.16 kiB/s
+2025-06-05 12:09:30.781    app     info:    [server-manager] Downloaded 118.71 MiB/166.83 MiB at 716.04 kiB/s
+2025-06-05 12:09:31.787    app     info:    [server-manager] Downloaded 119.60 MiB/166.83 MiB at 972.85 kiB/s
+2025-06-05 12:09:32.815    app     info:    [server-manager] Downloaded 120.48 MiB/166.83 MiB at 959.71 kiB/s
+2025-06-05 12:09:33.822    app     info:    [server-manager] Downloaded 121.29 MiB/166.83 MiB at 845.17 kiB/s
+2025-06-05 12:09:34.845    app     info:    [server-manager] Downloaded 122.15 MiB/166.83 MiB at 1.22 MiB/s
+2025-06-05 12:09:35.845    app     info:    [server-manager] Downloaded 123.00 MiB/166.83 MiB at 1.07 MiB/s
+2025-06-05 12:09:36.886    app     info:    [server-manager] Downloaded 123.95 MiB/166.83 MiB at 807.24 kiB/s
+2025-06-05 12:09:37.934    app     info:    [server-manager] Downloaded 124.84 MiB/166.83 MiB at 1.34 MiB/s
+2025-06-05 12:09:38.944    app     info:    [server-manager] Downloaded 125.70 MiB/166.83 MiB at 867.00 kiB/s
+2025-06-05 12:09:39.973    app     info:    [server-manager] Downloaded 126.61 MiB/166.83 MiB at 1,023.76 kiB/s
+2025-06-05 12:09:40.997    app     info:    [server-manager] Downloaded 127.39 MiB/166.83 MiB at 771.48 kiB/s
+2025-06-05 12:09:42.007    app     info:    [server-manager] Downloaded 128.31 MiB/166.83 MiB at 944.60 kiB/s
+2025-06-05 12:09:43.013    app     info:    [server-manager] Downloaded 129.24 MiB/166.83 MiB at 1,007.05 kiB/s
+2025-06-05 12:09:44.059    app     info:    [server-manager] Downloaded 129.96 MiB/166.83 MiB at 687.57 kiB/s
+2025-06-05 12:09:45.078    app     info:    [server-manager] Downloaded 130.81 MiB/166.83 MiB at 1.23 MiB/s
+2025-06-05 12:09:46.122    app     info:    [server-manager] Downloaded 131.65 MiB/166.83 MiB at 319.93 kiB/s
+2025-06-05 12:09:47.133    app     info:    [server-manager] Downloaded 132.54 MiB/166.83 MiB at 797.59 kiB/s
+2025-06-05 12:09:48.153    app     info:    [server-manager] Downloaded 133.52 MiB/166.83 MiB at 966.78 kiB/s
+2025-06-05 12:09:49.187    app     info:    [server-manager] Downloaded 134.36 MiB/166.83 MiB at 831.80 kiB/s
+2025-06-05 12:09:50.189    app     info:    [server-manager] Downloaded 135.23 MiB/166.83 MiB at 808.80 kiB/s
+2025-06-05 12:09:51.217    app     info:    [server-manager] Downloaded 136.16 MiB/166.83 MiB at 837.41 kiB/s
+2025-06-05 12:09:52.245    app     info:    [server-manager] Downloaded 137.10 MiB/166.83 MiB at 1.06 MiB/s
+2025-06-05 12:09:53.256    app     info:    [server-manager] Downloaded 138.04 MiB/166.83 MiB at 831.77 kiB/s
+2025-06-05 12:09:54.261    app     info:    [server-manager] Downloaded 138.93 MiB/166.83 MiB at 1.04 MiB/s
+2025-06-05 12:09:55.278    app     info:    [server-manager] Downloaded 139.70 MiB/166.83 MiB at 806.48 kiB/s
+2025-06-05 12:09:56.294    app     info:    [server-manager] Downloaded 140.61 MiB/166.83 MiB at 914.07 kiB/s
+2025-06-05 12:09:57.304    app     info:    [server-manager] Downloaded 141.41 MiB/166.83 MiB at 796.64 kiB/s
+2025-06-05 12:09:58.310    app     info:    [server-manager] Downloaded 142.23 MiB/166.83 MiB at 877.38 kiB/s
+2025-06-05 12:09:59.320    app     info:    [server-manager] Downloaded 142.70 MiB/166.83 MiB at 398.22 kiB/s
+2025-06-05 12:10:00.354    app     info:    [server-manager] Downloaded 143.21 MiB/166.83 MiB at 486.60 kiB/s
+2025-06-05 12:10:01.372    app     info:    [server-manager] Downloaded 144.04 MiB/166.83 MiB at 985.80 kiB/s
+2025-06-05 12:10:02.379    app     info:    [server-manager] Downloaded 145.00 MiB/166.83 MiB at 886.87 kiB/s
+2025-06-05 12:10:03.407    app     info:    [server-manager] Downloaded 145.89 MiB/166.83 MiB at 925.89 kiB/s
+2025-06-05 12:10:04.442    app     info:    [server-manager] Downloaded 146.80 MiB/166.83 MiB at 958.75 kiB/s
+2025-06-05 12:10:05.469    app     info:    [server-manager] Downloaded 147.66 MiB/166.83 MiB at 766.24 kiB/s
+2025-06-05 12:10:06.498    app     info:    [server-manager] Downloaded 148.33 MiB/166.83 MiB at 421.19 kiB/s
+2025-06-05 12:10:07.553    app     info:    [server-manager] Downloaded 149.22 MiB/166.83 MiB at 1.09 MiB/s
+2025-06-05 12:10:08.591    app     info:    [server-manager] Downloaded 150.11 MiB/166.83 MiB at 890.29 kiB/s
+2025-06-05 12:10:09.654    app     info:    [server-manager] Downloaded 151.03 MiB/166.83 MiB at 812.26 kiB/s
+2025-06-05 12:10:10.660    app     info:    [server-manager] Downloaded 151.72 MiB/166.83 MiB at 413.41 kiB/s
+2025-06-05 12:10:11.724    app     info:    [server-manager] Downloaded 152.32 MiB/166.83 MiB at 842.42 kiB/s
+2025-06-05 12:10:12.846    app     info:    [server-manager] Downloaded 153.19 MiB/166.83 MiB at 823.53 kiB/s
+2025-06-05 12:10:13.853    app     info:    [server-manager] Downloaded 154.09 MiB/166.83 MiB at 914.94 kiB/s
+2025-06-05 12:10:14.873    app     info:    [server-manager] Downloaded 154.95 MiB/166.83 MiB at 447.89 kiB/s
+2025-06-05 12:10:15.907    app     info:    [server-manager] Downloaded 155.79 MiB/166.83 MiB at 823.94 kiB/s
+2025-06-05 12:10:16.965    app     info:    [server-manager] Downloaded 156.64 MiB/166.83 MiB at 991.71 kiB/s
+2025-06-05 12:10:17.987    app     info:    [server-manager] Downloaded 157.45 MiB/166.83 MiB at 831.78 kiB/s
+2025-06-05 12:10:18.995    app     info:    [server-manager] Downloaded 158.33 MiB/166.83 MiB at 820.27 kiB/s
+2025-06-05 12:10:20.016    app     info:    [server-manager] Downloaded 159.01 MiB/166.83 MiB at 592.86 kiB/s
+2025-06-05 12:10:21.061    app     info:    [server-manager] Downloaded 159.79 MiB/166.83 MiB at 852.07 kiB/s
+2025-06-05 12:10:22.096    app     info:    [server-manager] Downloaded 160.49 MiB/166.83 MiB at 610.53 kiB/s
+2025-06-05 12:10:23.131    app     info:    [server-manager] Downloaded 160.99 MiB/166.83 MiB at 599.44 kiB/s
+2025-06-05 12:10:24.188    app     info:    [server-manager] Downloaded 161.51 MiB/166.83 MiB at 581.15 kiB/s
+2025-06-05 12:10:25.211    app     info:    [server-manager] Downloaded 161.89 MiB/166.83 MiB at 439.97 kiB/s
+2025-06-05 12:10:26.216    app     info:    [server-manager] Downloaded 162.39 MiB/166.83 MiB at 638.55 kiB/s
+2025-06-05 12:10:27.250    app     info:    [server-manager] Downloaded 163.28 MiB/166.83 MiB at 851.85 kiB/s
+2025-06-05 12:10:28.315    app     info:    [server-manager] Downloaded 164.17 MiB/166.83 MiB at 875.25 kiB/s
+2025-06-05 12:10:29.347    app     info:    [server-manager] Downloaded 165.04 MiB/166.83 MiB at 862.21 kiB/s
+2025-06-05 12:10:30.355    app     info:    [server-manager] Downloaded 165.98 MiB/166.83 MiB at 914.88 kiB/s
+2025-06-05 12:10:31.438    app     info:    [server-manager] Downloaded 166.62 MiB/166.83 MiB at 734.33 kiB/s
+2025-06-05 12:10:31.492    app     info:    [download-from-manifest] Downloaded 183 files (166.62 MiB) in 3 minutes, 38.530 seconds
+2025-06-05 12:10:31.492    app     info:    [download-from-manifest] Average download speed: 780.74 kiB/s
+2025-06-05 12:10:31.504    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2025-06-05 12:10:31.505    app     info:    [binary-copier] Copying 226 files (378 MB) to 'C:\Games\EVE\tq'
+2025-06-05 12:10:31.507    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesStarted
+2025-06-05 12:10:31.576    app     info:    [binary-copier] Removing old binaries
+2025-06-05 12:10:31.609    app     info:    [binary-copier] Copying binaries from ResFiles
+2025-06-05 12:10:32.197    app     info:    [binary-copier] Finished copying 226 files to 'C:\Games\EVE\tq' in 0.700 seconds
+2025-06-05 12:10:32.212    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2025-06-05 12:10:32.212    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesFinished
+2025-06-05 12:10:32.587    app     info:    [server-manager] Copying executables 226/226
+2025-06-05 12:10:37.473    app     info:    [manifest] Excluded 51480 files from the manifest, leaving 4 entries
+2025-06-05 12:10:37.473    app     info:    [server-manager] Downloading 4 prefetch files (46.2 MB)
+2025-06-05 12:10:37.475    app     info:    [download-from-manifest] Preparing to download 4 files    { cdn: 2, concurrent: 10 }
+2025-06-05 12:10:37.577    app     info:    [server-manager] Copying executables 226/226
+2025-06-05 12:10:38.575    app     info:    [server-manager] Downloaded 634.14 kiB/44.10 MiB at 348.34 kiB/s
+2025-06-05 12:10:39.595    app     info:    [server-manager] Downloaded 1.55 MiB/44.10 MiB at 981.29 kiB/s
+2025-06-05 12:10:40.590    app     info:    [server-manager] Downloaded 2.41 MiB/44.10 MiB at 763.08 kiB/s
+2025-06-05 12:10:41.605    app     info:    [server-manager] Downloaded 3.07 MiB/44.10 MiB at 1,016.73 kiB/s
+2025-06-05 12:10:42.630    app     info:    [server-manager] Downloaded 3.46 MiB/44.10 MiB at 222.16 kiB/s
+2025-06-05 12:10:43.851    app     info:    [server-manager] Downloaded 4.36 MiB/44.10 MiB at 869.78 kiB/s
+2025-06-05 12:10:44.861    app     info:    [server-manager] Downloaded 5.33 MiB/44.10 MiB at 886.51 kiB/s
+2025-06-05 12:10:45.910    app     info:    [server-manager] Downloaded 6.22 MiB/44.10 MiB at 513.86 kiB/s
+2025-06-05 12:10:46.917    app     info:    [server-manager] Downloaded 6.78 MiB/44.10 MiB at 541.69 kiB/s
+2025-06-05 12:10:47.987    app     info:    [server-manager] Downloaded 7.39 MiB/44.10 MiB at 523.51 kiB/s
+2025-06-05 12:10:48.999    app     info:    [server-manager] Downloaded 8.20 MiB/44.10 MiB at 669.16 kiB/s
+2025-06-05 12:10:50.010    app     info:    [server-manager] Downloaded 9.13 MiB/44.10 MiB at 502.24 kiB/s
+2025-06-05 12:10:51.032    app     info:    [server-manager] Downloaded 9.56 MiB/44.10 MiB at 351.91 kiB/s
+2025-06-05 12:10:52.096    app     info:    [server-manager] Downloaded 10.53 MiB/44.10 MiB at 995.07 kiB/s
+2025-06-05 12:10:53.127    app     info:    [server-manager] Downloaded 11.45 MiB/44.10 MiB at 824.19 kiB/s
+2025-06-05 12:10:54.188    app     info:    [server-manager] Downloaded 12.41 MiB/44.10 MiB at 999.68 kiB/s
+2025-06-05 12:10:55.199    app     info:    [server-manager] Downloaded 13.28 MiB/44.10 MiB at 820.56 kiB/s
+2025-06-05 12:10:56.204    app     info:    [server-manager] Downloaded 14.17 MiB/44.10 MiB at 925.86 kiB/s
+2025-06-05 12:10:57.213    app     info:    [server-manager] Downloaded 15.04 MiB/44.10 MiB at 815.13 kiB/s
+2025-06-05 12:10:58.219    app     info:    [server-manager] Downloaded 15.66 MiB/44.10 MiB at 351.91 kiB/s
+2025-06-05 12:10:59.280    app     info:    [server-manager] Downloaded 16.30 MiB/44.10 MiB at 570.71 kiB/s
+2025-06-05 12:11:00.302    app     info:    [server-manager] Downloaded 17.18 MiB/44.10 MiB at 841.13 kiB/s
+2025-06-05 12:11:01.345    app     info:    [server-manager] Downloaded 18.00 MiB/44.10 MiB at 880.24 kiB/s
+2025-06-05 12:11:02.380    app     info:    [server-manager] Downloaded 18.81 MiB/44.10 MiB at 680.84 kiB/s
+2025-06-05 12:11:03.407    app     info:    [server-manager] Downloaded 19.72 MiB/44.10 MiB at 947.50 kiB/s
+2025-06-05 12:11:04.437    app     info:    [server-manager] Downloaded 20.39 MiB/44.10 MiB at 989.75 kiB/s
+2025-06-05 12:11:05.457    app     info:    [server-manager] Downloaded 21.33 MiB/44.10 MiB at 909.58 kiB/s
+2025-06-05 12:11:06.468    app     info:    [server-manager] Downloaded 22.12 MiB/44.10 MiB at 556.06 kiB/s
+2025-06-05 12:11:07.490    app     info:    [server-manager] Downloaded 22.79 MiB/44.10 MiB at 778.02 kiB/s
+2025-06-05 12:11:08.576    app     info:    [server-manager] Downloaded 23.67 MiB/44.10 MiB at 781.66 kiB/s
+2025-06-05 12:11:09.592    app     info:    [server-manager] Downloaded 24.51 MiB/44.10 MiB at 1.29 MiB/s
+2025-06-05 12:11:10.605    app     info:    [server-manager] Downloaded 25.42 MiB/44.10 MiB at 886.90 kiB/s
+2025-06-05 12:11:11.623    app     info:    [server-manager] Downloaded 26.34 MiB/44.10 MiB at 927.77 kiB/s
+2025-06-05 12:11:12.657    app     info:    [server-manager] Downloaded 27.25 MiB/44.10 MiB at 930.01 kiB/s
+2025-06-05 12:11:13.686    app     info:    [server-manager] Downloaded 28.19 MiB/44.10 MiB at 921.98 kiB/s
+2025-06-05 12:11:14.720    app     info:    [server-manager] Downloaded 28.90 MiB/44.10 MiB at 935.41 kiB/s
+2025-06-05 12:11:15.750    app     info:    [server-manager] Downloaded 29.35 MiB/44.10 MiB at 374.89 kiB/s
+2025-06-05 12:11:16.756    app     info:    [server-manager] Downloaded 29.98 MiB/44.10 MiB at 479.84 kiB/s
+2025-06-05 12:11:17.774    app     info:    [server-manager] Downloaded 30.89 MiB/44.10 MiB at 862.02 kiB/s
+2025-06-05 12:11:18.814    app     info:    [server-manager] Downloaded 31.81 MiB/44.10 MiB at 883.54 kiB/s
+2025-06-05 12:11:19.846    app     info:    [server-manager] Downloaded 32.36 MiB/44.10 MiB at 642.29 kiB/s
+2025-06-05 12:11:20.890    app     info:    [server-manager] Downloaded 32.83 MiB/44.10 MiB at 474.18 kiB/s
+2025-06-05 12:11:21.912    app     info:    [server-manager] Downloaded 33.53 MiB/44.10 MiB at 575.86 kiB/s
+2025-06-05 12:11:22.926    app     info:    [server-manager] Downloaded 34.43 MiB/44.10 MiB at 888.66 kiB/s
+2025-06-05 12:11:23.939    app     info:    [server-manager] Downloaded 35.35 MiB/44.10 MiB at 447.84 kiB/s
+2025-06-05 12:11:24.940    app     info:    [server-manager] Downloaded 35.84 MiB/44.10 MiB at 755.66 kiB/s
+2025-06-05 12:11:25.943    app     info:    [server-manager] Downloaded 36.42 MiB/44.10 MiB at 578.43 kiB/s
+2025-06-05 12:11:26.952    app     info:    [server-manager] Downloaded 37.29 MiB/44.10 MiB at 925.89 kiB/s
+2025-06-05 12:11:27.959    app     info:    [server-manager] Downloaded 38.20 MiB/44.10 MiB at 963.72 kiB/s
+2025-06-05 12:11:28.973    app     info:    [server-manager] Downloaded 39.09 MiB/44.10 MiB at 919.48 kiB/s
+2025-06-05 12:11:29.998    app     info:    [server-manager] Downloaded 40.03 MiB/44.10 MiB at 1.35 MiB/s
+2025-06-05 12:11:31.006    app     info:    [server-manager] Downloaded 40.63 MiB/44.10 MiB at 531.05 kiB/s
+2025-06-05 12:11:32.014    app     info:    [server-manager] Downloaded 41.05 MiB/44.10 MiB at 438.20 kiB/s
+2025-06-05 12:11:33.041    app     info:    [server-manager] Downloaded 41.72 MiB/44.10 MiB at 631.40 kiB/s
+2025-06-05 12:11:34.056    app     info:    [server-manager] Downloaded 42.62 MiB/44.10 MiB at 860.35 kiB/s
+2025-06-05 12:11:35.071    app     info:    [server-manager] Downloaded 43.54 MiB/44.10 MiB at 873.08 kiB/s
+2025-06-05 12:11:36.096    app     info:    [server-manager] Downloaded 43.83 MiB/44.10 MiB at 122.11 kiB/s
+2025-06-05 12:11:36.124    app     info:    [download-from-manifest] Downloaded 4 files (44.08 MiB) in 58.649 seconds
+2025-06-05 12:11:36.124    app     info:    [download-from-manifest] Average download speed: 769.69 kiB/s
+2025-06-05 12:11:36.146    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientUpdateFinished
+2025-06-05 12:11:36.155    app     info:    [server-manager] Downloaded 44.10 MiB/44.10 MiB at 940.92 kiB/s
+2025-06-05 12:11:36.163    app     info:    [server-manager] Ready to play!
+2025-06-05 12:11:36.180    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 12:11:36.180    app     info:    [server-manager] Build for Tranquility is now 2931110
+2025-06-05 12:11:36.188    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientUpdateFinished
+2025-06-05 12:16:36.193    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 12:16:36.383    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 12:16:36.383    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 12:16:36.404    app     info:    [server-manager] Ready to play!
+2025-06-05 12:16:36.422    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 12:21:36.435    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 12:21:36.770    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 12:21:36.770    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 12:21:36.786    app     info:    [server-manager] Ready to play!
+2025-06-05 12:21:36.800    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 12:21:43.980    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 12:21:44.014    app     info:    [newsfeed] Fetching news for eve-online in ru
+2025-06-05 12:21:44.046    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2025-06-05 12:21:44.046    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2025-06-05 12:21:44.266    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:21:44.266    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:21:44.267    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:21:44.267    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:21:44.267    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:21:44.268    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:21:44.268    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:21:44.268    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:21:44.341    app     info:    [newsfeed] Fetched 20 news items for eve-online in ru
+2025-06-05 12:21:44.444    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2025-06-05 12:21:44.450    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:21:44.470    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:21:44.470    app     info:    [customer-information] Getting character information for '16492377' on 'tranquility'
+2025-06-05 12:21:44.471    app     info:    [customer-information] Getting Omega status for '16492377' on 'tranquility' (eve-online)
+2025-06-05 12:21:44.472    app     info:    [virtual-goods] Getting Plex status for '16492377' on 'tranquility' (eve-online)
+2025-06-05 12:21:44.553    app     info:    [virtual-goods] Fetched Plex status for '16492377' on 'tranquility' (eve-online) with balance: 0
+2025-06-05 12:21:44.711    app     info:    [esi] Fetching character details for 2113875139, 2121174871
+2025-06-05 12:21:45.073    app     info:    [esi] Fetched 2 character details for 16492377
+2025-06-05 12:21:49.018    app     info:    [self-update] Checking for application updates.
+2025-06-05 12:21:53.158    app     info:    [self-update] No application updates were found.
+2025-06-05 12:21:55.435    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 12:21:55.436    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 12:21:56.440    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 12:22:12.299    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 12:22:12.774    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 12:22:12.775    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 12:22:12.843    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 12:22:13.777    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 12:23:07.562    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 16492377,
+  characterId: 1,
+  profile: 'Default'
+}
+2025-06-05 12:23:07.568    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.ClientQueued
+2025-06-05 12:23:07.569    app     info:    [client-queue] No clients running for 'tranquility' (eve-online), copying files before starting a client
+2025-06-05 12:23:07.570    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.ClientQueued
+2025-06-05 12:23:07.580    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2025-06-05 12:23:07.581    app     info:    [binary-copier] Copying 226 files (378 MB) to 'C:\Games\EVE\tq'
+2025-06-05 12:23:07.581    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesStarted
+2025-06-05 12:23:07.621    app     info:    [binary-copier] Removing old binaries
+2025-06-05 12:23:07.685    app     info:    [binary-copier] Copying binaries from ResFiles
+2025-06-05 12:23:07.988    app     info:    [binary-copier] Finished copying 226 files to 'C:\Games\EVE\tq' in 0.414 seconds
+2025-06-05 12:23:07.994    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2025-06-05 12:23:07.994    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesFinished
+2025-06-05 12:23:08.014    app     info:    [client-manager] Starting EVE Online game client.    C:\Games\EVE\tq\bin64\exefile.exe    [
+  '/noconsole',
+  '/server:tranquility.servers.eveonline.com',
+  '/ssoToken=***',
+  '/refreshToken=***',
+  '/settingsprofile=Default',
+  '/language=ru',
+  '/triplatform=dx11',
+  '/steamUser',
+  '/deviceID=***',
+  '/machineHash=***',
+  '/journeyID=***',
+  'exp=1749126705',
+  'tokenExpires=2025-06-05 15:31:45.000'
+]    16492377
+2025-06-05 12:23:08.022    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientStartRequested
+2025-06-05 12:23:08.026    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientStartRequested
+2025-06-05 12:23:08.067    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientStarted
+2025-06-05 12:23:08.074    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientStarted
+2025-06-05 12:23:08.075    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 1,
+  profile: 'Default',
+  userId: 16492377
+}
+2025-06-05 12:23:10.094    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2025-06-05 12:23:18.427    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 12:23:18.429    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 12:23:19.433    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 12:23:56.408    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 12:23:58.578    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 12:23:58.583    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 12:23:59.589    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 12:24:32.259    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 12:24:40.904    app     info:    [window-manager-minimize] Main window minimized to tray    { windowId: 2 }
+2025-06-05 12:24:40.976    app     info:    [window-manager-minimize] Sent notification that the application is minimized to tray    { windowId: 2 }
+2025-06-05 12:24:40.990    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 12:24:40.991    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 12:24:41.992    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 12:26:36.828    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 12:26:37.149    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 12:26:37.150    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 12:26:37.190    app     info:    [server-manager] Ready to play!
+2025-06-05 12:26:37.233    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 12:31:37.259    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 12:31:37.545    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 12:31:37.546    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 12:31:37.597    app     info:    [server-manager] Ready to play!
+2025-06-05 12:31:37.657    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 12:36:37.690    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 12:36:37.946    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 12:36:37.947    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 12:36:38.011    app     info:    [server-manager] Ready to play!
+2025-06-05 12:36:38.068    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 12:41:38.085    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 12:41:38.435    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 12:41:38.435    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 12:41:38.498    app     info:    [server-manager] Ready to play!
+2025-06-05 12:41:38.541    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 12:43:26.499    app     info:    [client-manager] 'tranquility' for EVE game client for '16492377' exited with no errors.
+2025-06-05 12:43:26.507    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientExited
+2025-06-05 12:43:26.537    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 12:43:26.726    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 12:43:26.726    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 12:43:26.748    app     info:    [server-manager] Ready to play!
+2025-06-05 12:43:26.767    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 12:43:27.096    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientExited
+2025-06-05 12:48:26.775    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 12:48:27.063    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 12:48:27.063    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 12:48:27.080    app     info:    [server-manager] Ready to play!
+2025-06-05 12:48:27.097    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 12:53:27.107    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 12:53:27.589    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 12:53:27.589    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 12:53:27.607    app     info:    [server-manager] Ready to play!
+2025-06-05 12:53:27.622    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 12:55:48.248    app     info:    [tray] Main window restored from tray    { windowId: 2 }
+2025-06-05 12:55:48.336    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 12:55:48.360    app     info:    [newsfeed] Fetching news for eve-online in ru
+2025-06-05 12:55:48.384    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2025-06-05 12:55:48.384    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2025-06-05 12:55:48.610    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:55:48.611    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:55:48.611    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:55:48.611    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:55:48.612    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:55:48.612    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:55:48.612    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:55:48.613    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 12:55:48.702    app     info:    [newsfeed] Fetched 20 news items for eve-online in ru
+2025-06-05 12:55:48.853    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2025-06-05 12:55:48.858    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:55:48.872    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:55:53.363    app     info:    [self-update] Checking for application updates.
+2025-06-05 12:55:54.060    app     info:    [self-update] No application updates were found.
+2025-06-05 12:55:55.038    app     info:    [authentication] Token for '29280260' on 'tranquility' is expired, refresh is required
+2025-06-05 12:55:55.038    app     info:    [authentication] Refreshing token for '29280260' on 'tranquility'
+2025-06-05 12:55:55.419    app     info:    [authentication] Token for '29280260' on 'tranquility' has been successfully refreshed
+2025-06-05 12:55:55.425    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:55:55.432    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 12:55:55.432    app     info:    [customer-information] Getting character information for '29280260' on 'tranquility'
+2025-06-05 12:55:55.432    app     info:    [customer-information] Getting Omega status for '29280260' on 'tranquility' (eve-online)
+2025-06-05 12:55:55.433    app     info:    [virtual-goods] Getting Plex status for '29280260' on 'tranquility' (eve-online)
+2025-06-05 12:55:55.508    app     info:    [virtual-goods] Fetched Plex status for '29280260' on 'tranquility' (eve-online) with balance: 20
+2025-06-05 12:55:55.604    app     info:    [esi] Fetching character details for 2121853336
+2025-06-05 12:55:55.980    app     info:    [esi] Fetched 1 character details for 29280260
+2025-06-05 12:55:59.756    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 29280260,
+  characterId: 1,
+  profile: 'Default'
+}
+2025-06-05 12:55:59.761    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.ClientQueued
+2025-06-05 12:55:59.762    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.ClientQueued
+2025-06-05 12:55:59.762    app     info:    [client-queue] No clients running for 'tranquility' (eve-online), copying files before starting a client
+2025-06-05 12:55:59.769    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2025-06-05 12:55:59.770    app     info:    [binary-copier] Copying 226 files (378 MB) to 'C:\Games\EVE\tq'
+2025-06-05 12:55:59.771    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesStarted
+2025-06-05 12:55:59.804    app     info:    [binary-copier] Removing old binaries
+2025-06-05 12:55:59.872    app     info:    [binary-copier] Copying binaries from ResFiles
+2025-06-05 12:56:00.163    app     info:    [binary-copier] Finished copying 226 files to 'C:\Games\EVE\tq' in 0.398 seconds
+2025-06-05 12:56:00.170    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2025-06-05 12:56:00.171    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesFinished
+2025-06-05 12:56:00.190    app     info:    [client-manager] Starting EVE Online game client.    C:\Games\EVE\tq\bin64\exefile.exe    [
+  '/noconsole',
+  '/server:tranquility.servers.eveonline.com',
+  '/ssoToken=***',
+  '/refreshToken=***',
+  '/settingsprofile=Default',
+  '/language=ru',
+  '/triplatform=dx11',
+  '/steamUser',
+  '/deviceID=***',
+  '/machineHash=***',
+  '/journeyID=***',
+  'exp=1749128756',
+  'tokenExpires=2025-06-05 16:05:56.000'
+]    29280260
+2025-06-05 12:56:00.198    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientStartRequested
+2025-06-05 12:56:00.201    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientStartRequested
+2025-06-05 12:56:00.245    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientStarted
+2025-06-05 12:56:00.251    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientStarted
+2025-06-05 12:56:00.251    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 1,
+  profile: 'Default',
+  userId: 29280260
+}
+2025-06-05 12:56:02.272    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2025-06-05 12:56:03.564    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 12:56:03.565    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 12:56:04.565    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 12:56:07.708    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 12:56:11.291    app     info:    [client-queue] Stopping client for 29280260 on tranquility
+2025-06-05 12:56:11.358    app    error:    [client-manager] 'tranquility' for eve-online game client for '29280260' exited with an error code. Exit code: 62097, signal: -1
+2025-06-05 12:56:11.365    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientCrashed
+2025-06-05 12:56:11.383    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientCrashed
+2025-06-05 12:56:11.390    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 12:56:11.411    app     info:    [client-manager] Client (2672) forcefully terminated with exit code: 62097.
+2025-06-05 12:56:11.419    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientKilled
+2025-06-05 12:56:11.420    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientKilled
+2025-06-05 12:56:11.606    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 12:56:11.606    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 12:56:11.619    app     info:    [server-manager] Ready to play!
+2025-06-05 12:56:11.633    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 12:56:18.293    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 29280260,
+  characterId: 1,
+  profile: 'Default'
+}
+2025-06-05 12:56:18.297    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.ClientQueued
+2025-06-05 12:56:18.298    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.ClientQueued
+2025-06-05 12:56:18.298    app     info:    [client-queue] No clients running for 'tranquility' (eve-online), copying files before starting a client
+2025-06-05 12:56:18.307    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2025-06-05 12:56:18.307    app     info:    [binary-copier] Copying 226 files (378 MB) to 'C:\Games\EVE\tq'
+2025-06-05 12:56:18.307    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesStarted
+2025-06-05 12:56:18.340    app     info:    [binary-copier] Removing old binaries
+2025-06-05 12:56:18.428    app     info:    [binary-copier] Copying binaries from ResFiles
+2025-06-05 12:56:18.787    app     info:    [binary-copier] Finished copying 226 files to 'C:\Games\EVE\tq' in 0.485 seconds
+2025-06-05 12:56:18.792    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2025-06-05 12:56:18.792    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesFinished
+2025-06-05 12:56:18.807    app     info:    [client-manager] Starting EVE Online game client.    C:\Games\EVE\tq\bin64\exefile.exe    [
+  '/noconsole',
+  '/server:tranquility.servers.eveonline.com',
+  '/ssoToken=***',
+  '/refreshToken=***',
+  '/settingsprofile=Default',
+  '/language=ru',
+  '/triplatform=dx11',
+  '/steamUser',
+  '/deviceID=***',
+  '/machineHash=***',
+  '/journeyID=***',
+  'exp=1749128756',
+  'tokenExpires=2025-06-05 16:05:56.000'
+]    29280260
+2025-06-05 12:56:18.811    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientStartRequested
+2025-06-05 12:56:18.814    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientStartRequested
+2025-06-05 12:56:19.072    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientStarted
+2025-06-05 12:56:19.080    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientStarted
+2025-06-05 12:56:19.080    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 1,
+  profile: 'Default',
+  userId: 29280260
+}
+2025-06-05 12:56:21.098    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2025-06-05 12:56:26.573    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 12:56:26.574    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 12:56:27.575    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 13:01:11.658    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 13:01:12.003    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 13:01:12.004    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 13:01:12.036    app     info:    [server-manager] Ready to play!
+2025-06-05 13:01:12.069    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 13:06:12.100    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 13:06:12.480    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 13:06:12.480    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 13:06:12.536    app     info:    [server-manager] Ready to play!
+2025-06-05 13:06:12.587    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 13:11:12.617    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 13:11:12.939    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 13:11:12.940    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 13:11:12.982    app     info:    [server-manager] Ready to play!
+2025-06-05 13:11:13.022    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 13:12:02.827    app     info:    [client-manager] 'tranquility' for EVE game client for '29280260' exited with no errors.
+2025-06-05 13:12:02.836    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientExited
+2025-06-05 13:12:02.866    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 13:12:03.062    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientExited
+2025-06-05 13:12:03.152    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 13:12:03.153    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 13:12:03.175    app     info:    [server-manager] Ready to play!
+2025-06-05 13:12:03.196    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 13:12:10.067    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 13:12:10.088    app     info:    [newsfeed] Fetching news for eve-online in ru
+2025-06-05 13:12:10.112    app     info:    [authentication] Token for '29280260' on 'tranquility' is expired, refresh is required
+2025-06-05 13:12:10.112    app     info:    [authentication] Refreshing token for '29280260' on 'tranquility'
+2025-06-05 13:12:10.304    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 13:12:10.305    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 13:12:10.305    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 13:12:10.305    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 13:12:10.305    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 13:12:10.306    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 13:12:10.306    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 13:12:10.306    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 13:12:10.387    app     info:    [newsfeed] Fetched 20 news items for eve-online in ru
+2025-06-05 13:12:10.491    app     info:    [authentication] Token for '29280260' on 'tranquility' has been successfully refreshed
+2025-06-05 13:12:10.497    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 13:12:10.506    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 13:12:14.081    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2025-06-05 13:12:14.081    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2025-06-05 13:12:14.245    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2025-06-05 13:12:14.249    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 13:12:14.258    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 13:12:15.094    app     info:    [self-update] Checking for application updates.
+2025-06-05 13:12:15.875    app     info:    [self-update] No application updates were found.
+2025-06-05 13:12:16.030    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 16492377,
+  characterId: 1,
+  profile: 'Default'
+}
+2025-06-05 13:12:16.037    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.ClientQueued
+2025-06-05 13:12:16.038    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.ClientQueued
+2025-06-05 13:12:16.038    app     info:    [client-queue] No clients running for 'tranquility' (eve-online), copying files before starting a client
+2025-06-05 13:12:16.046    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2025-06-05 13:12:16.046    app     info:    [binary-copier] Copying 226 files (378 MB) to 'C:\Games\EVE\tq'
+2025-06-05 13:12:16.047    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesStarted
+2025-06-05 13:12:16.080    app     info:    [binary-copier] Removing old binaries
+2025-06-05 13:12:16.150    app     info:    [binary-copier] Copying binaries from ResFiles
+2025-06-05 13:12:16.806    app     info:    [binary-copier] Finished copying 226 files to 'C:\Games\EVE\tq' in 0.764 seconds
+2025-06-05 13:12:16.810    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2025-06-05 13:12:16.810    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesFinished
+2025-06-05 13:12:16.822    app     info:    [client-manager] Starting EVE Online game client.    C:\Games\EVE\tq\bin64\exefile.exe    [
+  '/noconsole',
+  '/server:tranquility.servers.eveonline.com',
+  '/ssoToken=***',
+  '/refreshToken=***',
+  '/settingsprofile=Default',
+  '/language=ru',
+  '/triplatform=dx11',
+  '/steamUser',
+  '/deviceID=***',
+  '/machineHash=***',
+  '/journeyID=***',
+  'exp=1749129735',
+  'tokenExpires=2025-06-05 16:22:15.000'
+]    16492377
+2025-06-05 13:12:16.826    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientStartRequested
+2025-06-05 13:12:16.828    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientStartRequested
+2025-06-05 13:12:16.871    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientStarted
+2025-06-05 13:12:16.878    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientStarted
+2025-06-05 13:12:16.878    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 1,
+  profile: 'Default',
+  userId: 16492377
+}
+2025-06-05 13:12:18.896    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2025-06-05 13:12:30.059    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 13:12:30.060    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 13:12:31.060    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 13:12:31.985    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 13:12:33.924    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 13:12:33.925    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 13:12:34.925    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 13:12:37.404    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 13:14:41.528    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 13:14:41.529    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 13:14:42.530    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 13:14:50.184    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 13:14:52.567    app     info:    [window-manager-minimize] Main window minimized to tray    { windowId: 2 }
+2025-06-05 13:14:52.596    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 13:14:52.597    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 13:14:53.597    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 13:15:06.432    app     info:    [client-manager] 'tranquility' for EVE game client for '16492377' exited with no errors.
+2025-06-05 13:15:06.438    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientExited
+2025-06-05 13:15:06.458    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientExited
+2025-06-05 13:15:06.466    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 13:15:06.667    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 13:15:06.668    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 13:15:06.687    app     info:    [server-manager] Ready to play!
+2025-06-05 13:15:06.706    app     info:    [server-manager] Finished refresh cycle for Tranquility
