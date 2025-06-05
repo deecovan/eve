@@ -1,0 +1,15 @@
+<localized hint="Дроны">Drones*</localized> 3
+<localized hint="Лёгкие штурмовые ракеты">Rockets*</localized> 3
+<localized hint="Лёгкие боевые дроны">Light Drone Operation*</localized> 3
+<localized hint="Телеуправление дронами">Drone Avionics*</localized> 3
+<localized hint="Варп-двигатели">Warp Drive Operation*</localized> 3
+<localized hint="Развитие деловых отношений">Social*</localized> 3
+<localized hint="Энергоснабжение установок накачки щитов">Shield Compensation*</localized> 3
+<localized hint="Повышение маневренности кораблей">Evasive Maneuvering*</localized> 3
+<localized hint="Управление щитами">Shield Management*</localized> 3
+<localized hint="Лёгкие ракеты">Light Missiles*</localized> 3
+<localized hint="Повышение скорострельности пусковых установок">Rapid Launch*</localized> 3
+<localized hint="Прогнозирование движения цели">Target Navigation Prediction*</localized> 3
+<localized hint="Экономия ракетного топлива">Missile Bombardment*</localized> 3
+<localized hint="Пороговые состояния щитов">Tactical Shield Manipulation*</localized> 3
+<localized hint="Энергоснабжение микроварп-ускорителей">High Speed Maneuvering*</localized> 3

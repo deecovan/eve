@@ -940,3 +940,120 @@ Request timed out
 2025-06-05 13:15:06.668    app     info:    [server-manager] Tranquility build is unchanged.
 2025-06-05 13:15:06.687    app     info:    [server-manager] Ready to play!
 2025-06-05 13:15:06.706    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 13:18:29.991    app     info:    [tray] Main window restored from tray    { windowId: 2 }
+2025-06-05 13:18:30.010    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 13:18:32.000    app     info:    [authentication] Token for '31367691' on 'tranquility' is expired, refresh is required
+2025-06-05 13:18:32.001    app     info:    [authentication] Refreshing token for '31367691' on 'tranquility'
+2025-06-05 13:18:32.001    app     info:    [authentication] Token for '31367691' on 'tranquility' is expired, refresh is required
+2025-06-05 13:18:32.001    app     info:    [authentication] Refreshing token for '31367691' on 'tranquility'
+2025-06-05 13:18:32.008    app     info:    [authentication] Token for '31367691' on 'tranquility' is expired, refresh is required
+2025-06-05 13:18:32.008    app     info:    [authentication] Refreshing token for '31367691' on 'tranquility'
+2025-06-05 13:18:32.250    app     info:    [authentication] Token for '31367691' on 'tranquility' has been successfully refreshed
+2025-06-05 13:18:32.256    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 13:18:32.267    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 13:18:32.271    app     info:    [authentication] Token for '31367691' on 'tranquility' has been successfully refreshed
+2025-06-05 13:18:32.276    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 13:18:32.287    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 13:18:32.289    app     info:    [authentication] Token for '31367691' on 'tranquility' has been successfully refreshed
+2025-06-05 13:18:32.293    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 13:18:32.302    app     info:    [customer-information] Getting character information for '31367691' on 'tranquility'
+2025-06-05 13:18:32.302    app     info:    [customer-information] Getting Omega status for '31367691' on 'tranquility' (eve-online)
+2025-06-05 13:18:32.302    app     info:    [virtual-goods] Getting Plex status for '31367691' on 'tranquility' (eve-online)
+2025-06-05 13:18:32.306    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 13:18:32.373    app     info:    [virtual-goods] Fetched Plex status for '31367691' on 'tranquility' (eve-online) with balance: 0
+2025-06-05 13:18:32.512    app     info:    [esi] Fetching character details for 2123502320
+2025-06-05 13:18:32.776    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 31367691,
+  characterId: 1,
+  profile: 'Default'
+}
+2025-06-05 13:18:32.780    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.ClientQueued
+2025-06-05 13:18:32.781    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.ClientQueued
+2025-06-05 13:18:32.781    app     info:    [client-queue] No clients running for 'tranquility' (eve-online), copying files before starting a client
+2025-06-05 13:18:32.791    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2025-06-05 13:18:32.791    app     info:    [binary-copier] Copying 226 files (378 MB) to 'C:\Games\EVE\tq'
+2025-06-05 13:18:32.791    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesStarted
+2025-06-05 13:18:32.824    app     info:    [binary-copier] Removing old binaries
+2025-06-05 13:18:32.849    app     info:    [esi] Fetched 1 character details for 31367691
+2025-06-05 13:18:32.894    app     info:    [binary-copier] Copying binaries from ResFiles
+2025-06-05 13:18:33.209    app     info:    [binary-copier] Finished copying 226 files to 'C:\Games\EVE\tq' in 0.423 seconds
+2025-06-05 13:18:33.217    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2025-06-05 13:18:33.217    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesFinished
+2025-06-05 13:18:33.236    app     info:    [client-manager] Starting EVE Online game client.    C:\Games\EVE\tq\bin64\exefile.exe    [
+  '/noconsole',
+  '/server:tranquility.servers.eveonline.com',
+  '/ssoToken=***',
+  '/refreshToken=***',
+  '/settingsprofile=Default',
+  '/language=ru',
+  '/triplatform=dx11',
+  '/steamUser',
+  '/deviceID=***',
+  '/machineHash=***',
+  '/journeyID=***',
+  'exp=1749130113',
+  'tokenExpires=2025-06-05 16:28:33.000'
+]    31367691
+2025-06-05 13:18:33.242    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientStartRequested
+2025-06-05 13:18:33.257    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientStartRequested
+2025-06-05 13:18:33.304    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientStarted
+2025-06-05 13:18:33.310    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientStarted
+2025-06-05 13:18:33.311    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 1,
+  profile: 'Default',
+  userId: 31367691
+}
+2025-06-05 13:18:33.891    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 13:18:33.892    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 13:18:34.892    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 13:18:35.041    app     info:    [self-update] Checking for application updates.
+2025-06-05 13:18:35.332    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2025-06-05 13:18:36.256    app     info:    [self-update] No application updates were found.
+2025-06-05 13:18:45.590    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 13:18:53.965    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 13:18:53.966    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 13:18:54.967    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 13:20:06.733    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 13:20:07.039    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 13:20:07.040    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 13:20:07.085    app     info:    [server-manager] Ready to play!
+2025-06-05 13:20:07.122    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 13:25:07.166    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 13:25:07.486    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 13:25:07.486    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 13:25:07.526    app     info:    [server-manager] Ready to play!
+2025-06-05 13:25:07.570    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 13:30:07.593    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 13:30:07.860    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 13:30:07.860    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 13:30:07.891    app     info:    [server-manager] Ready to play!
+2025-06-05 13:30:07.920    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 13:35:07.942    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 13:35:08.181    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 13:35:08.181    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 13:35:08.209    app     info:    [server-manager] Ready to play!
+2025-06-05 13:35:08.236    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 13:40:08.263    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 13:40:08.500    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 13:40:08.502    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 13:40:08.538    app     info:    [server-manager] Ready to play!
+2025-06-05 13:40:08.570    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 13:45:08.581    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 13:45:08.805    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 13:45:08.805    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 13:45:08.821    app     info:    [server-manager] Ready to play!
+2025-06-05 13:45:08.839    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 13:50:08.859    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 13:50:09.142    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 13:50:09.142    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 13:50:09.167    app     info:    [server-manager] Ready to play!
+2025-06-05 13:50:09.194    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 13:55:09.214    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 13:55:09.504    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 13:55:09.504    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 13:55:09.540    app     info:    [server-manager] Ready to play!
+2025-06-05 13:55:09.583    app     info:    [server-manager] Finished refresh cycle for Tranquility
