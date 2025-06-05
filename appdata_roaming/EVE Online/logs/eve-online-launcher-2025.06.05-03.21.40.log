@@ -524,3 +524,18 @@ getaddrinfo ENOTFOUND launcher.eveonline.com
 2025-06-05 05:47:06.744    app     info:    [server-manager] Tranquility build is unchanged.
 2025-06-05 05:47:06.766    app     info:    [server-manager] Ready to play!
 2025-06-05 05:47:06.789    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 05:52:06.806    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 05:52:07.060    app     info:    [server-manager] Previous Tranquility build: 2929428, current build: 2929428
+2025-06-05 05:52:07.060    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 05:52:07.073    app     info:    [server-manager] Ready to play!
+2025-06-05 05:52:07.087    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 05:57:07.099    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 05:57:07.411    app     info:    [server-manager] Previous Tranquility build: 2929428, current build: 2929428
+2025-06-05 05:57:07.411    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 05:57:07.425    app     info:    [server-manager] Ready to play!
+2025-06-05 05:57:07.440    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 06:02:07.450    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 06:02:07.668    app     info:    [server-manager] Previous Tranquility build: 2929428, current build: 2929428
+2025-06-05 06:02:07.668    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 06:02:07.683    app     info:    [server-manager] Ready to play!
+2025-06-05 06:02:07.699    app     info:    [server-manager] Finished refresh cycle for Tranquility

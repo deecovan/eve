@@ -18,7 +18,7 @@
 				"eve-online": {
 					"tranquility": [
 						{
-							"processId": 2848,
+							"processId": 9816,
 							"username": "deemandiman",
 							"userId": 31367691,
 							"profile": "Default",
@@ -35,7 +35,7 @@
 			"window": {
 				"isMinimized": false,
 				"isMaximized": false,
-				"isVisible": false
+				"isVisible": true
 			},
 			"session": {
 				"isFirstRun": false,

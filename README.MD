@@ -5,7 +5,7 @@
 	- DeeMan Diman
 	- deemandiman@gmail.com
 	- Twitch steamcovan linked
-	- 1mSP got from dmytro.cheva
+	- 1m SP got from dmytro.cheva
 
 ## 05.28
 - Start new deemandiman 
