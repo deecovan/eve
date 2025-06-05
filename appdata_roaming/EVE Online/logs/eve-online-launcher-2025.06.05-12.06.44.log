@@ -1102,3 +1102,92 @@ Request timed out
 2025-06-05 14:40:13.821    app     info:    [server-manager] Tranquility build is unchanged.
 2025-06-05 14:40:13.848    app     info:    [server-manager] Ready to play!
 2025-06-05 14:40:13.875    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 14:45:13.892    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 14:45:14.212    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 14:45:14.212    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 14:45:14.230    app     info:    [server-manager] Ready to play!
+2025-06-05 14:45:14.250    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 14:50:14.263    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 14:50:14.455    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 14:50:14.455    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 14:50:14.473    app     info:    [server-manager] Ready to play!
+2025-06-05 14:50:14.491    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 14:55:14.503    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 14:55:14.797    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 14:55:14.797    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 14:55:14.813    app     info:    [server-manager] Ready to play!
+2025-06-05 14:55:14.833    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 15:00:14.844    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 15:00:15.210    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 15:00:15.210    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 15:00:15.225    app     info:    [server-manager] Ready to play!
+2025-06-05 15:00:15.242    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 15:05:15.259    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 15:05:15.496    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 15:05:15.496    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 15:05:15.515    app     info:    [server-manager] Ready to play!
+2025-06-05 15:05:15.545    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 15:10:15.557    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 15:10:15.767    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 15:10:15.767    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 15:10:15.783    app     info:    [server-manager] Ready to play!
+2025-06-05 15:10:15.802    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 15:15:15.813    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 15:15:16.107    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 15:15:16.107    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 15:15:16.124    app     info:    [server-manager] Ready to play!
+2025-06-05 15:15:16.136    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 15:19:33.338    app     info:    [client-manager] 'tranquility' for EVE game client for '31367691' exited with no errors.
+2025-06-05 15:19:33.344    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientExited
+2025-06-05 15:19:33.365    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-05 15:19:33.533    app     info:    [server-manager] Previous Tranquility build: 2931110, current build: 2931110
+2025-06-05 15:19:33.533    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-05 15:19:33.551    app     info:    [server-manager] Ready to play!
+2025-06-05 15:19:33.568    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-05 15:19:33.654    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientExited
+2025-06-05 15:19:39.447    app     info:    [window-manager-minimize] Main window minimized to tray    { windowId: 2 }
+2025-06-05 15:19:39.555    app     info:    [scheduler] Starting scheduler foreground
+2025-06-05 15:19:39.573    app     info:    [newsfeed] Fetching news for eve-online in ru
+2025-06-05 15:19:39.598    app     info:    [creatives] Requesting creatives for eve-online
+2025-06-05 15:19:39.599    app     info:    [authentication] Token for '31367691' on 'tranquility' is expired, refresh is required
+2025-06-05 15:19:39.599    app     info:    [authentication] Refreshing token for '31367691' on 'tranquility'
+2025-06-05 15:19:39.600    app     info:    [authentication] Token for '31367691' on 'tranquility' is expired, refresh is required
+2025-06-05 15:19:39.600    app     info:    [authentication] Refreshing token for '31367691' on 'tranquility'
+2025-06-05 15:19:39.608    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-05 15:19:39.609    app     info:    [ipc-requests] Handling requests in the background
+2025-06-05 15:19:39.891    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 15:19:39.892    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 15:19:39.892    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 15:19:39.892    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 15:19:39.892    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 15:19:39.892    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 15:19:39.892    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 15:19:39.892    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-05 15:19:39.923    app     info:    [newsfeed] Fetched 20 news items for eve-online in ru
+2025-06-05 15:19:40.149    app     info:    [authentication] Token for '31367691' on 'tranquility' has been successfully refreshed
+2025-06-05 15:19:40.154    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 15:19:40.161    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 15:19:40.298    app     info:    [authentication] Token for '31367691' on 'tranquility' has been successfully refreshed
+2025-06-05 15:19:40.303    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 15:19:40.309    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-05 15:19:40.309    app     info:    [customer-information] Getting character information for '31367691' on 'tranquility'
+2025-06-05 15:19:40.310    app     info:    [customer-information] Getting Omega status for '31367691' on 'tranquility' (eve-online)
+2025-06-05 15:19:40.310    app     info:    [virtual-goods] Getting Plex status for '31367691' on 'tranquility' (eve-online)
+2025-06-05 15:19:40.385    app     info:    [virtual-goods] Fetched Plex status for '31367691' on 'tranquility' (eve-online) with balance: 0
+2025-06-05 15:19:40.510    app     info:    [esi] Fetching character details for 2123502320
+2025-06-05 15:19:40.610    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-05 15:19:41.116    app     info:    [esi] Fetched 1 character details for 31367691
+2025-06-05 15:19:42.048    app     info:    [creatives] Received 4 creatives for eve-online
+2025-06-05 15:19:42.099    app     info:    [tray] Quitting application from tray
+2025-06-05 15:19:42.103    app     info:    Application quitting. Cleanup needed: true
+2025-06-05 15:19:42.111    app     info:    [quasar-elg-events] Queueing shutdown event    eve_launcher.electron.application.LauncherShutdown
+2025-06-05 15:19:42.116    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.LauncherShutdown
+2025-06-05 15:19:42.117    app     info:    app.quit called, but we are still sending ELG events.
+2025-06-05 15:19:42.367    app     info:    [quasar-elg-events] Shutdown event timeout passed
+2025-06-05 15:19:42.367    app     info:    ELG stream closed, quitting
+2025-06-05 15:19:42.368    app     info:    [window-manager] Stopped forwarding events to window manager, as the window closed    { windowId: 2 }
+2025-06-05 15:19:42.368    app     info:    [window-manager-minimize] Main window is closing    { windowId: 2 }
+2025-06-05 15:19:42.369    app     info:    [quasar-elg-events] gRPC connection aborted
+2025-06-05 15:19:42.370    app     info:    ELG stream closed, quitting
+2025-06-05 15:19:42.383    app     info:    [window-manager] Main window closed    { windowId: 2 }
+2025-06-05 15:19:42.384    app     info:    Application closed    0
