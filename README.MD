@@ -6,6 +6,8 @@
 	- deemandiman@gmail.com
 	- Twitch steamcovan linked
 	- 1m SP got from dmytro.cheva
+- Join Dee Cartel (Deem Matar dmytro.cheva) 
+- or Heirs of Holes (Worm Holera dee.covana)
 
 ## 05.28
 - Start new deemandiman 
