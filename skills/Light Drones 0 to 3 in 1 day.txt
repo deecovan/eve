@@ -1,0 +1,6 @@
+<localized hint="Дроны">Drones*</localized> 2
+<localized hint="Лёгкие боевые дроны">Light Drone Operation*</localized> 2
+<localized hint="Телеуправление дронами">Drone Avionics*</localized> 2
+<localized hint="Дроны">Drones*</localized> 3
+<localized hint="Лёгкие боевые дроны">Light Drone Operation*</localized> 3
+<localized hint="Телеуправление дронами">Drone Avionics*</localized> 3
