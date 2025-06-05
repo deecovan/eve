@@ -1,5 +1,12 @@
 # eve GitHub repo 
 
+## 06.05
+- deemandman 
+	- DeeMan Diman
+	- deemandiman@gmail.com
+	- Twitch steamcovan linked
+	- 1mSP got from dmytro.cheva
+
 ## 05.28
 - Start new deemandiman 
   - Meta ???
