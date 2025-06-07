@@ -16,7 +16,15 @@
 		"clientManagement": {
 			"processes": {
 				"eve-online": {
-					"tranquility": [],
+					"tranquility": [
+						{
+							"processId": 8284,
+							"username": "deemandiman",
+							"userId": 31367691,
+							"profile": "Default",
+							"dxVersion": "dx11"
+						}
+					],
 					"unknown": []
 				}
 			},
@@ -27,7 +35,7 @@
 			"window": {
 				"isMinimized": false,
 				"isMaximized": false,
-				"isVisible": false
+				"isVisible": true
 			},
 			"session": {
 				"isFirstRun": false,
