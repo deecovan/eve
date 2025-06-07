@@ -1,7 +1,7 @@
 # eve GitHub repo 
 
 ## 06.07
-- Updated 9 accounts
+- Updated 8 accounts
 	- 692,232,870 ISK inc. 20 PLEX
 - deecovana
 	- To Xalepa 
