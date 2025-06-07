@@ -1,9 +1,16 @@
 # eve GitHub repo 
 
 ## 06.07
-- To Xalepa has NO 1m SP
+- deecovana
+	- To Xalepa 
+	- deecovana@gmail.com
+	- has NO 1m SP
 	- also not in Heirs of Holes
 	- simply 0-level noob
+- never-played
+	- Smart Eggs
+	- neverplayedever@gmail.com
+	- added to list
 
 ## 06.05
 - deemandman 
