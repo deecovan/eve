@@ -1,6 +1,9 @@
 # eve GitHub repo 
 
 ## 06.07
+- Continue DeeMan MinerMan 
+	- Mine and Build 5x Bantams
+
 - Updated 8 accounts
 	- 692,232,870 ISK inc. 20 PLEX
 - deecovana

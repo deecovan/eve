@@ -289,3 +289,387 @@
 2025-06-07 15:55:13.685    app     info:    [time-sync] Not showing any warnings because there were errors fetching the time.
 2025-06-07 15:55:14.546    app     info:    [self-update] No application updates were found.
 2025-06-07 15:55:16.807    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 15:55:37.167    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 15:55:37.171    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 15:55:38.171    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 15:59:25.492    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-07 15:59:25.748    app     info:    [server-manager] Previous Tranquility build: 2932557, current build: 2932557
+2025-06-07 15:59:25.748    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-07 15:59:25.780    app     info:    [server-manager] Ready to play!
+2025-06-07 15:59:25.807    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-07 16:03:53.904    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:03:53.945    app     info:    [authentication] Token for '31367691' on 'tranquility' is expired, refresh is required
+2025-06-07 16:03:53.945    app     info:    [authentication] Refreshing token for '31367691' on 'tranquility'
+2025-06-07 16:03:54.326    app     info:    [authentication] Token for '31367691' on 'tranquility' has been successfully refreshed
+2025-06-07 16:03:54.331    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-07 16:03:54.344    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-07 16:03:54.345    app     info:    [customer-information] Getting character information for '31367691' on 'tranquility'
+2025-06-07 16:03:54.345    app     info:    [customer-information] Getting Omega status for '31367691' on 'tranquility' (eve-online)
+2025-06-07 16:03:54.345    app     info:    [virtual-goods] Getting Plex status for '31367691' on 'tranquility' (eve-online)
+2025-06-07 16:03:54.756    app     info:    [esi] Fetching character details for 2123502320
+2025-06-07 16:03:55.204    app     info:    [esi] Fetched 1 character details for 31367691
+2025-06-07 16:03:58.986    app     info:    [self-update] Checking for application updates.
+2025-06-07 16:03:59.090    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:03:59.093    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:03:59.352    app    error:    [quasar-manager-helper] Failed to perform Quasar request RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )    c [EpgError]: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  innerError: undefined,
+  statusCode: 0,
+  statusMessage: ''
+}
+2025-06-07 16:03:59.353    app     warn:    [virtual-goods] Can't fetch Plex status for '31367691' on 'tranquility' (eve-online), error: EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )
+2025-06-07 16:03:59.385    app    error:    [AuthenticationMiddleware] RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )    EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2025-06-07 16:04:00.102    app     info:    [self-update] No application updates were found.
+2025-06-07 16:04:00.103    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:04:25.829    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-07 16:04:26.122    app     info:    [server-manager] Previous Tranquility build: 2932557, current build: 2932557
+2025-06-07 16:04:26.122    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-07 16:04:26.150    app     info:    [server-manager] Ready to play!
+2025-06-07 16:04:26.174    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-07 16:09:26.195    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-07 16:09:26.443    app     info:    [server-manager] Previous Tranquility build: 2932557, current build: 2932557
+2025-06-07 16:09:26.443    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-07 16:09:26.472    app     info:    [server-manager] Ready to play!
+2025-06-07 16:09:26.502    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-07 16:11:03.372    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:11:03.400    app     info:    [newsfeed] Fetching news for eve-online in ru
+2025-06-07 16:11:03.422    app     info:    [customer-information] Getting character information for '31367691' on 'tranquility'
+2025-06-07 16:11:03.422    app     info:    [customer-information] Getting Omega status for '31367691' on 'tranquility' (eve-online)
+2025-06-07 16:11:03.422    app     info:    [virtual-goods] Getting Plex status for '31367691' on 'tranquility' (eve-online)
+2025-06-07 16:11:03.585    app     info:    [newsfeed] Fetched 20 news items for eve-online in ru
+2025-06-07 16:11:03.646    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-07 16:11:03.646    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-07 16:11:03.647    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-07 16:11:03.647    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-07 16:11:03.647    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-07 16:11:03.648    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-07 16:11:03.648    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-07 16:11:03.648    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-06-07 16:11:03.662    app     info:    [esi] Fetching character details for 2123502320
+2025-06-07 16:11:04.627    app     info:    [esi] Fetched 1 character details for 31367691
+2025-06-07 16:11:08.527    app     info:    [self-update] Checking for application updates.
+2025-06-07 16:11:09.268    app    error:    [quasar-manager-helper] Failed to perform Quasar request RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5843ms (0: )    c [EpgError]: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5843ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  innerError: undefined,
+  statusCode: 0,
+  statusMessage: ''
+}
+2025-06-07 16:11:09.268    app     warn:    [virtual-goods] Can't fetch Plex status for '31367691' on 'tranquility' (eve-online), error: EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5843ms (0: )
+2025-06-07 16:11:09.287    app    error:    [AuthenticationMiddleware] RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5843ms (0: )    EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5843ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2025-06-07 16:11:17.508    app     info:    [self-update] No application updates were found.
+2025-06-07 16:12:03.383    app     info:    [customer-information] Getting character information for '31367691' on 'tranquility'
+2025-06-07 16:12:03.383    app     info:    [virtual-goods] Getting Plex status for '31367691' on 'tranquility' (eve-online)
+2025-06-07 16:12:03.591    app     info:    [esi] Fetching character details for 2123502320
+2025-06-07 16:12:03.936    app     info:    [esi] Fetched 1 character details for 31367691
+2025-06-07 16:12:08.385    app    error:    [quasar-manager-helper] Failed to perform Quasar request RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5001ms (0: )    c [EpgError]: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5001ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  innerError: undefined,
+  statusCode: 0,
+  statusMessage: ''
+}
+2025-06-07 16:12:08.386    app     warn:    [virtual-goods] Can't fetch Plex status for '31367691' on 'tranquility' (eve-online), error: EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5001ms (0: )
+2025-06-07 16:12:08.404    app    error:    [AuthenticationMiddleware] RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5001ms (0: )    EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5001ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2025-06-07 16:12:50.469    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:12:50.471    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:12:51.471    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:13:13.474    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:13:13.492    app     info:    [authentication] Token for '31367691' on 'tranquility' is expired, refresh is required
+2025-06-07 16:13:13.492    app     info:    [authentication] Refreshing token for '31367691' on 'tranquility'
+2025-06-07 16:13:13.734    app     info:    [authentication] Token for '31367691' on 'tranquility' has been successfully refreshed
+2025-06-07 16:13:13.739    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-07 16:13:13.752    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-06-07 16:13:13.752    app     info:    [customer-information] Getting character information for '31367691' on 'tranquility'
+2025-06-07 16:13:13.753    app     info:    [virtual-goods] Getting Plex status for '31367691' on 'tranquility' (eve-online)
+2025-06-07 16:13:13.882    app     info:    [esi] Fetching character details for 2123502320
+2025-06-07 16:13:14.103    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:13:14.104    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:13:14.808    app     info:    [esi] Fetched 1 character details for 31367691
+2025-06-07 16:13:15.105    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:13:18.754    app    error:    [quasar-manager-helper] Failed to perform Quasar request RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )    c [EpgError]: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  innerError: undefined,
+  statusCode: 0,
+  statusMessage: ''
+}
+2025-06-07 16:13:18.754    app     warn:    [virtual-goods] Can't fetch Plex status for '31367691' on 'tranquility' (eve-online), error: EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )
+2025-06-07 16:13:18.767    app    error:    [AuthenticationMiddleware] RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )    EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2025-06-07 16:13:22.053    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:13:22.231    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:13:22.232    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:13:23.232    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:13:24.467    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:13:24.595    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:13:24.596    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:13:25.597    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:13:31.247    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:13:31.364    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:13:31.365    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:13:32.365    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:13:34.361    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:13:34.495    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:13:34.496    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:13:35.497    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:13:36.361    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:13:36.497    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:13:36.498    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:13:37.499    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:13:38.059    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:13:38.170    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:13:38.171    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:13:39.171    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:13:40.705    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:13:40.828    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:13:40.829    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:13:41.830    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:13:41.985    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:13:42.106    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:13:42.107    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:13:43.044    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:13:43.107    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:13:43.222    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:13:43.223    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:13:44.188    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:13:44.223    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:13:44.289    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:13:44.291    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:13:45.291    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:13:46.267    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:13:48.643    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:13:48.644    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:13:49.645    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:13:54.925    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:13:54.976    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:13:54.977    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:13:55.979    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:14:21.076    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:14:21.097    app     info:    [customer-information] Getting character information for '31367691' on 'tranquility'
+2025-06-07 16:14:21.097    app     info:    [customer-information] Getting Omega status for '31367691' on 'tranquility' (eve-online)
+2025-06-07 16:14:21.097    app     info:    [virtual-goods] Getting Plex status for '31367691' on 'tranquility' (eve-online)
+2025-06-07 16:14:21.295    app     info:    [esi] Fetching character details for 2123502320
+2025-06-07 16:14:21.448    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:14:21.449    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:14:21.651    app     info:    [esi] Fetched 1 character details for 31367691
+2025-06-07 16:14:22.449    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:14:22.582    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:14:22.920    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:14:22.921    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:14:23.921    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:14:26.101    app    error:    [quasar-manager-helper] Failed to perform Quasar request RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )    c [EpgError]: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  innerError: undefined,
+  statusCode: 0,
+  statusMessage: ''
+}
+2025-06-07 16:14:26.101    app     warn:    [virtual-goods] Can't fetch Plex status for '31367691' on 'tranquility' (eve-online), error: EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )
+2025-06-07 16:14:26.113    app    error:    [AuthenticationMiddleware] RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )    EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2025-06-07 16:14:26.519    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-07 16:14:26.740    app     info:    [server-manager] Previous Tranquility build: 2932557, current build: 2932557
+2025-06-07 16:14:26.740    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-07 16:14:26.761    app     info:    [server-manager] Ready to play!
+2025-06-07 16:14:26.779    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-07 16:15:18.749    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:15:19.299    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:15:19.300    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:15:20.300    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:15:23.552    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:15:23.575    app     info:    [customer-information] Getting character information for '31367691' on 'tranquility'
+2025-06-07 16:15:23.575    app     info:    [virtual-goods] Getting Plex status for '31367691' on 'tranquility' (eve-online)
+2025-06-07 16:15:23.749    app     info:    [esi] Fetching character details for 2123502320
+2025-06-07 16:15:24.028    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:15:24.028    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:15:24.165    app     info:    [esi] Fetched 1 character details for 31367691
+2025-06-07 16:15:24.756    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:15:25.030    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:15:25.067    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:15:25.068    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:15:26.069    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:15:28.577    app    error:    [quasar-manager-helper] Failed to perform Quasar request RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5001ms (0: )    c [EpgError]: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5001ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  innerError: undefined,
+  statusCode: 0,
+  statusMessage: ''
+}
+2025-06-07 16:15:28.578    app     warn:    [virtual-goods] Can't fetch Plex status for '31367691' on 'tranquility' (eve-online), error: EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5001ms (0: )
+2025-06-07 16:15:28.588    app    error:    [AuthenticationMiddleware] RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5001ms (0: )    EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5001ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2025-06-07 16:15:37.279    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:15:38.021    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:15:38.022    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:15:39.024    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:15:40.912    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:15:43.261    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:15:43.262    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:15:44.269    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:15:47.584    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:15:49.158    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:15:49.160    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:15:50.160    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:17:25.848    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:17:25.876    app     info:    [customer-information] Getting character information for '31367691' on 'tranquility'
+2025-06-07 16:17:25.876    app     info:    [customer-information] Getting Omega status for '31367691' on 'tranquility' (eve-online)
+2025-06-07 16:17:25.876    app     info:    [virtual-goods] Getting Plex status for '31367691' on 'tranquility' (eve-online)
+2025-06-07 16:17:26.284    app     info:    [esi] Fetching character details for 2123502320
+2025-06-07 16:17:26.594    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:17:26.594    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:17:27.595    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:17:27.653    app     info:    [esi] Fetched 1 character details for 31367691
+2025-06-07 16:17:27.731    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:17:28.585    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:17:28.585    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:17:29.441    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:17:29.587    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:17:29.900    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:17:29.901    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:17:30.882    app     info:    [self-update] Checking for application updates.
+2025-06-07 16:17:30.942    app    error:    [quasar-manager-helper] Failed to perform Quasar request RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5063ms (0: )    c [EpgError]: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5063ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  innerError: undefined,
+  statusCode: 0,
+  statusMessage: ''
+}
+2025-06-07 16:17:30.942    app     warn:    [virtual-goods] Can't fetch Plex status for '31367691' on 'tranquility' (eve-online), error: EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5063ms (0: )
+2025-06-07 16:17:30.968    app    error:    [AuthenticationMiddleware] RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5063ms (0: )    EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5063ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2025-06-07 16:17:30.968    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:17:32.081    app     info:    [self-update] No application updates were found.
+2025-06-07 16:17:35.654    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:17:36.426    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:17:36.427    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:17:37.428    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:17:45.738    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:17:46.332    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:17:46.333    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:17:47.334    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:18:18.987    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:18:19.433    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:18:19.433    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:18:20.434    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:18:41.687    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:18:41.709    app     info:    [customer-information] Getting character information for '31367691' on 'tranquility'
+2025-06-07 16:18:41.709    app     info:    [virtual-goods] Getting Plex status for '31367691' on 'tranquility' (eve-online)
+2025-06-07 16:18:41.976    app     info:    [esi] Fetching character details for 2123502320
+2025-06-07 16:18:42.309    app     info:    [esi] Fetched 1 character details for 31367691
+2025-06-07 16:18:44.222    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:18:44.223    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:18:45.223    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:18:46.711    app    error:    [quasar-manager-helper] Failed to perform Quasar request RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )    c [EpgError]: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  innerError: undefined,
+  statusCode: 0,
+  statusMessage: ''
+}
+2025-06-07 16:18:46.712    app     warn:    [virtual-goods] Can't fetch Plex status for '31367691' on 'tranquility' (eve-online), error: EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )
+2025-06-07 16:18:46.728    app    error:    [AuthenticationMiddleware] RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )    EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2025-06-07 16:18:47.499    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:18:48.632    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:18:48.633    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:18:49.634    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:18:56.927    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:19:01.307    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:19:01.308    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:19:02.308    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:19:06.485    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:19:07.048    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:19:07.049    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:19:08.049    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:19:26.801    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2025-06-07 16:19:32.234    app     info:    [server-manager] Previous Tranquility build: 2932557, current build: 2932557
+2025-06-07 16:19:32.234    app     info:    [server-manager] Tranquility build is unchanged.
+2025-06-07 16:19:32.258    app     info:    [server-manager] Ready to play!
+2025-06-07 16:19:32.283    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2025-06-07 16:20:29.042    app     info:    [scheduler] Starting scheduler foreground
+2025-06-07 16:20:29.063    app     info:    [customer-information] Getting character information for '31367691' on 'tranquility'
+2025-06-07 16:20:29.063    app     info:    [customer-information] Getting Omega status for '31367691' on 'tranquility' (eve-online)
+2025-06-07 16:20:29.064    app     info:    [virtual-goods] Getting Plex status for '31367691' on 'tranquility' (eve-online)
+2025-06-07 16:20:29.645    app     info:    [esi] Fetching character details for 2123502320
+2025-06-07 16:20:30.047    app     info:    [esi] Fetched 1 character details for 31367691
+2025-06-07 16:20:30.153    app     info:    [scheduler] Stopped scheduler foreground
+2025-06-07 16:20:30.154    app     info:    [ipc-requests] Handling requests in the background
+2025-06-07 16:20:31.155    app     info:    [ipc-requests] No longer handling requests in the background
+2025-06-07 16:20:34.067    app    error:    [quasar-manager-helper] Failed to perform Quasar request RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )    c [EpgError]: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  innerError: undefined,
+  statusCode: 0,
+  statusMessage: ''
+}
+2025-06-07 16:20:34.067    app     warn:    [virtual-goods] Can't fetch Plex status for '31367691' on 'tranquility' (eve-online), error: EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )
+2025-06-07 16:20:34.079    app    error:    [AuthenticationMiddleware] RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )    EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31367691-null' in 5000ms (0: )
+    at F (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1837251)
+    at P.rejectMessage (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1847430)
+    at Timeout.<anonymous> (C:\Program Files (x86)\Steam\steamapps\common\Eve Online\app-1.10.1\resources\app.asar\.webpack\main\index.js:8:1850187)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
