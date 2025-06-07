@@ -9,14 +9,22 @@
 		"clientBuilds": {
 			"eve-online": {
 				"tranquility": {
-					"build": "2931110"
+					"build": "2932557"
 				}
 			}
 		},
 		"clientManagement": {
 			"processes": {
 				"eve-online": {
-					"tranquility": [],
+					"tranquility": [
+						{
+							"processId": 5992,
+							"username": "steam::23622903",
+							"userId": 23622903,
+							"profile": "Default",
+							"dxVersion": "dx11"
+						}
+					],
 					"unknown": []
 				}
 			},

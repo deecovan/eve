@@ -444,7 +444,7 @@
 						"url": "https://www.eveonline.com/frontlines"
 					}
 				],
-				"updatedAt": 1749125212201
+				"updatedAt": 1749296754555
 			},
 			"playArea": {
 				"content": {
@@ -522,7 +522,7 @@
 						"url": "https://www.eveonline.com/de/frontlines"
 					}
 				],
-				"updatedAt": 1749125212121
+				"updatedAt": 1749296754486
 			},
 			"playArea": {
 				"content": {
@@ -600,7 +600,7 @@
 						"url": "https://www.eveonline.com/fr/frontlines"
 					}
 				],
-				"updatedAt": 1749125212220
+				"updatedAt": 1749296754564
 			},
 			"playArea": {
 				"content": {
@@ -678,7 +678,7 @@
 						"url": "https://www.eveonline.com/ja/frontlines"
 					}
 				],
-				"updatedAt": 1749125212171
+				"updatedAt": 1749296754542
 			},
 			"playArea": {
 				"content": {
@@ -756,7 +756,7 @@
 						"url": "https://www.eveonline.com/ko/frontlines"
 					}
 				],
-				"updatedAt": 1749125212153
+				"updatedAt": 1749296754517
 			},
 			"playArea": {
 				"content": {
@@ -784,37 +784,37 @@
 					{
 						"id": "732971935",
 						"campaignId": "662611227",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5MTM2NzgzLCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiNjYyNjExMjI3IiwiY3JJRCI6IjczMjk3MTkzNSIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiZTVlYjZjMmEiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6NTIwNjcxMzQ3fQ..-86278c06&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly9zdG9yZS5ldmVvbmxpbmUuY29tL3Byb2R1Y3QvbWFzdGVyLWJ1bmRsZS0yZjEvdmVybS03ODk4P3V0bV9zb3VyY2U9bGF1bmNoZXImdXRtX21lZGl1bT1hcHAmdXRtX2NhbXBhaWduPWNuOnd3X2xnOnJ1X21nOjRfcGQ6Ml9jZDoyNV8wNl8yZjFfYmJfY3Q6bGF1bmNoZXItYmFubmVyX3RnOnNlY3VyZQ==",
-						"landing_url": "https://store.eveonline.com/product/master-bundle-2f1/verm-7898?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:ru_mg:4_pd:2_cd:25_06_2f1_bb_ct:launcher-banner_tg:secure",
-						"image": "cache+https://creatives2.extccp.com/tb9ffac83/img/szszg_sdzu4k_b437fac3.png",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5Mjk2NzU4LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiNjYyNjExMjI3IiwiY3JJRCI6IjczMjk3MTkzNSIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiMmFkN2JjN2UiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6MzM2NzkyMDEzfQ..-e15ffdb5&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly9zdG9yZS5ldmVvbmxpbmUuY29tLz91dG1fc291cmNlPWxhdW5jaGVyJnV0bV9tZWRpdW09YXBwJnV0bV9jYW1wYWlnbj1jbjp3d19sZzpydV9tZzo0X3BkOjJfY2Q6MjVfMDZfMmYxX2JiX2N0OmxhdW5jaGVyLWJhbm5lcl90ZzpzZWN1cmUjc2tpbGwtdHJhaW5pbmc=",
+						"landing_url": "https://store.eveonline.com/?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:ru_mg:4_pd:2_cd:25_06_2f1_bb_ct:launcher-banner_tg:secure#skill-training",
+						"image": "cache+https://creatives2.extccp.com/t16987e88/img/szszg_mxehrk_14b03c12.png",
 						"weight": "60"
 					},
 					{
 						"id": "157765213",
 						"campaignId": "384515519",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5MTM2NzgzLCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiMzg0NTE1NTE5IiwiY3JJRCI6IjE1Nzc2NTIxMyIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiZTVlYjZjMmEiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6NjM5NDg5MzA3fQ..-d849a2a8&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS90d2l0Y2g/dXRtX3NvdXJjZT1sYXVuY2hlciZ1dG1fbWVkaXVtPWFwcCZ1dG1fY2FtcGFpZ249Y246d3dfbGc6cnVfbWc6M19wZDoyX2NkOnR3aXRjaC1kcm9wc19jdDpsYXVuY2hlci1iYW5uZXJfdGc6dHdpdGNo",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5Mjk2NzU4LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiMzg0NTE1NTE5IiwiY3JJRCI6IjE1Nzc2NTIxMyIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiMmFkN2JjN2UiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6NTE5MzYxMzA5fQ..-31eb1286&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS90d2l0Y2g/dXRtX3NvdXJjZT1sYXVuY2hlciZ1dG1fbWVkaXVtPWFwcCZ1dG1fY2FtcGFpZ249Y246d3dfbGc6cnVfbWc6M19wZDoyX2NkOnR3aXRjaC1kcm9wc19jdDpsYXVuY2hlci1iYW5uZXJfdGc6dHdpdGNo",
 						"landing_url": "https://www.eveonline.com/twitch?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:ru_mg:3_pd:2_cd:twitch-drops_ct:launcher-banner_tg:twitch",
-						"image": "cache+https://creatives2.extccp.com/tb9ffac83/img/szszg_epz7sb_89e424d2.png",
+						"image": "cache+https://creatives2.extccp.com/t16987e88/img/szszg_epz7sb_89e424d2.png",
 						"weight": "60"
 					},
 					{
 						"id": "182801465",
 						"campaignId": "394925935",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5MTM2NzgzLCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiMzk0OTI1OTM1IiwiY3JJRCI6IjE4MjgwMTQ2NSIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiZTVlYjZjMmEiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6NDYxODY5NjI5fQ..-6a942840&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly9zdG9yZS5ldmVvbmxpbmUuY29tL3Byb2R1Y3QvaW5pdGlhdGUtYXNjZW5zaW9uLXBhY2svdmVybS03ODg2P3V0bV9zb3VyY2U9bGF1bmNoZXImdXRtX21lZGl1bT1hcHAmdXRtX2NhbXBhaWduPWNuOnd3X2xnOmRlX21nOjRfcGQ6Ml9jZDoyNV8wNV9sZWdpb25fcGFja3NfY3Q6bGF1bmNoZXItYmFubmVyX3RnOnNlY3VyZQ==",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5Mjk2NzU4LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiMzk0OTI1OTM1IiwiY3JJRCI6IjE4MjgwMTQ2NSIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiMmFkN2JjN2UiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6NDcwMzUyNDExfQ..-19b2bcbc&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly9zdG9yZS5ldmVvbmxpbmUuY29tL3Byb2R1Y3QvaW5pdGlhdGUtYXNjZW5zaW9uLXBhY2svdmVybS03ODg2P3V0bV9zb3VyY2U9bGF1bmNoZXImdXRtX21lZGl1bT1hcHAmdXRtX2NhbXBhaWduPWNuOnd3X2xnOmRlX21nOjRfcGQ6Ml9jZDoyNV8wNV9sZWdpb25fcGFja3NfY3Q6bGF1bmNoZXItYmFubmVyX3RnOnNlY3VyZQ==",
 						"landing_url": "https://store.eveonline.com/product/initiate-ascension-pack/verm-7886?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:de_mg:4_pd:2_cd:25_05_legion_packs_ct:launcher-banner_tg:secure",
-						"image": "cache+https://creatives2.extccp.com/tb9ffac83/img/szszg_cw6anu_6ac6818e.png",
+						"image": "cache+https://creatives2.extccp.com/t16987e88/img/szszg_cw6anu_6ac6818e.png",
 						"weight": "60"
 					},
 					{
 						"id": "295934048",
 						"campaignId": "874575904",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5MTM2NzgzLCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiODc0NTc1OTA0IiwiY3JJRCI6IjI5NTkzNDA0OCIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiZTVlYjZjMmEiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6MTMwMjI5OTYxfQ..-346ac7d5&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS9ydS9vbWVnYT91dG1fc291cmNlPWxhdW5jaGVyJnV0bV9tZWRpdW09YXBwJnV0bV9jYW1wYWlnbj1jbjp3d19sZzpydV9tZzo0X3BkOjJfY2Q6ZnJlZV9za2lsbF9wb2ludHNfbmVzX2N0OmxhdW5jaGVyLWJhbm5lcl90ZzpuZXdz",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5Mjk2NzU4LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiODc0NTc1OTA0IiwiY3JJRCI6IjI5NTkzNDA0OCIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiMmFkN2JjN2UiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6OTI3OTYyMzQwfQ..-7685ae2c&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS9ydS9vbWVnYT91dG1fc291cmNlPWxhdW5jaGVyJnV0bV9tZWRpdW09YXBwJnV0bV9jYW1wYWlnbj1jbjp3d19sZzpydV9tZzo0X3BkOjJfY2Q6ZnJlZV9za2lsbF9wb2ludHNfbmVzX2N0OmxhdW5jaGVyLWJhbm5lcl90ZzpuZXdz",
 						"landing_url": "https://www.eveonline.com/ru/omega?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:ru_mg:4_pd:2_cd:free_skill_points_nes_ct:launcher-banner_tg:news",
-						"image": "cache+https://creatives2.extccp.com/tb9ffac83/img/szszg_kz8ayd_37e54e48.png",
+						"image": "cache+https://creatives2.extccp.com/t16987e88/img/szszg_kz8ayd_37e54e48.png",
 						"weight": "60"
 					}
 				],
-				"updatedAt": 1749136782050
+				"updatedAt": 1749296754871
 			},
 			"imageGallery": {
 				"items": []
@@ -867,7 +867,7 @@
 						"url": "https://www.eveonline.com/ru/frontlines"
 					}
 				],
-				"updatedAt": 1749125212137
+				"updatedAt": 1749296754501
 			},
 			"playArea": {
 				"content": {
@@ -1421,6 +1421,7 @@
 			},
 			"newsContent": {
 				"ids": [
+					"MFmKxEGRAdt1edsNjkz5q",
 					"4eEM0jBNQf3kOtSVYkNpyt",
 					"5LESjIWFWP59YSRBzWJA0v",
 					"1UtZdo1mfy6fEdDl0vqfxd",
@@ -1439,10 +1440,23 @@
 					"2bV3teAUvuDsEDI9QU9lQm",
 					"1K4Aza0aisnNaecRw6VQOv",
 					"3e4sEempp1ZOERyRsQfsGA",
-					"1qapq3OxBr0v6x0nbLrkQe",
-					"4jcGFbQI3p9VQMUATOM1dV"
+					"1qapq3OxBr0v6x0nbLrkQe"
 				],
 				"entities": {
+					"MFmKxEGRAdt1edsNjkz5q": {
+						"id": "MFmKxEGRAdt1edsNjkz5q",
+						"title": "Community Beat for 06 June",
+						"slug": "community-beat-for-06-june",
+						"tags": [
+							"community"
+						],
+						"category": "news",
+						"author": "EVE Online Community Team",
+						"publishingDate": "2025-06-07",
+						"metaDescription": "Your regular update on what's happening around New Eden!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/7JMCitrtdOyCPisLYuGlnL/648a7ab1133c4ca110d4ea1e195e4979/CommBeat3840x2160.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/community-beat-for-06-june"
+					},
 					"4eEM0jBNQf3kOtSVYkNpyt": {
 						"id": "4eEM0jBNQf3kOtSVYkNpyt",
 						"title": "Список изменений. Версия 23.01",
@@ -1717,20 +1731,6 @@
 						"metaDescription": "Bringing the Community Together",
 						"src": "https://images.ctfassets.net/7lhcm73ukv5p/2jUNpHgYzEit4QkJD4TOt2/fb43c1d9c9cab284d79ba5b9233a5f3c/Harpa_-_Green_-_Fanfest_2025.webp?w=350&fm=jpg&fl=progressive&q=90",
 						"url": "https://www.eveonline.com/ru/news/view/fanfest-2025-is-live-join-the-celebration"
-					},
-					"4jcGFbQI3p9VQMUATOM1dV": {
-						"id": "4jcGFbQI3p9VQMUATOM1dV",
-						"title": "Save up to 25% on Omega + Police SKINs!",
-						"slug": "save-up-to-25-on-omega-police-skins",
-						"tags": [
-							"offers"
-						],
-						"category": "news",
-						"author": "EVE Online Team",
-						"publishingDate": "2025-04-30",
-						"metaDescription": "Celebrate Capsuleer Day & Fanfest with discounted Omega and exclusive SKINs. ",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/3Dy5shubxea3xizsgOT1Ab/31182e32573a80f475ab65442dd264f3/Screenshot_NoCopy_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/save-up-to-25-on-omega-police-skins"
 					}
 				}
 			}
@@ -1797,7 +1797,7 @@
 						"url": "https://www.eveonline.com/es/frontlines"
 					}
 				],
-				"updatedAt": 1749125212237
+				"updatedAt": 1749296754575
 			},
 			"playArea": {
 				"content": {
@@ -1875,7 +1875,7 @@
 						"url": "https://www.eveonline.com/zh/frontlines"
 					}
 				],
-				"updatedAt": 1749125212266
+				"updatedAt": 1749296754586
 			},
 			"playArea": {
 				"content": {

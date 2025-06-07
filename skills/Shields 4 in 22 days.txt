@@ -1,0 +1,14 @@
+<localized hint="Дистанционная накачка щитов">Shield Emission Systems*</localized> 1
+<localized hint="Дистанционная накачка щитов">Shield Emission Systems*</localized> 2
+<localized hint="Дистанционная накачка щитов">Shield Emission Systems*</localized> 3
+<localized hint="Регенерация щитов">Shield Operation*</localized> 1
+<localized hint="Регенерация щитов">Shield Operation*</localized> 2
+<localized hint="Регенерация щитов">Shield Operation*</localized> 3
+<localized hint="Энергоснабжение установок накачки щитов">Shield Compensation*</localized> 1
+<localized hint="Энергоснабжение установок накачки щитов">Shield Compensation*</localized> 2
+<localized hint="Энергоснабжение установок накачки щитов">Shield Compensation*</localized> 3
+<localized hint="Регенерация щитов">Shield Operation*</localized> 4
+<localized hint="Энергоснабжение установок накачки щитов">Shield Compensation*</localized> 4
+<localized hint="Улучшения щитов">Shield Upgrades*</localized> 4
+<localized hint="Управление щитами">Shield Management*</localized> 4
+<localized hint="Пороговые состояния щитов">Tactical Shield Manipulation*</localized> 4
