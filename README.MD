@@ -1,5 +1,10 @@
 # eve GitHub repo 
 
+## 06.07
+- To Xalepa has NO 1m SP
+	- also not in Heirs of Holes
+	- simply 0-level noob
+
 ## 06.05
 - deemandman 
 	- DeeMan Diman

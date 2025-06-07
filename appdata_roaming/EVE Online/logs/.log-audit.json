@@ -84,6 +84,11 @@
             "date": 1749296750129,
             "name": "C:\\Users\\dmytr\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2025.06.07-11.45.50.log",
             "hash": "0e9cdad76629230c535f0e7437e90f454d966c25c220e1c3bca73be508a609fc"
+        },
+        {
+            "date": 1749301802286,
+            "name": "C:\\Users\\dmytr\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2025.06.07-13.10.02.log",
+            "hash": "53dedcd10b51c21d17cd2c25b18cac1e634ada0d0ad3d38c77109be2ba1c9b5f"
         }
     ],
     "hashType": "sha256"
