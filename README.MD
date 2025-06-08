@@ -1,5 +1,8 @@
 # eve GitHub repo 
 
+- Continue wukelan.che
+	- Gallentiada
+	- wukelan.che@gmail.com 
 ## 06.08
 - Continue dmitry.cheva
 	- Abyssette
