@@ -1,5 +1,10 @@
 # eve GitHub repo 
 
+## 06.08
+- Continue dmitry.cheva
+	- Abyssette
+	- dmitry.cheva@gmail.com
+
 ## 06.07
 - Continue DeeMan MinerMan 
 	- Mine and Build 5x Bantams

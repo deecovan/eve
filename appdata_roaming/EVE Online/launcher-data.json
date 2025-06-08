@@ -16,7 +16,15 @@
 		"clientManagement": {
 			"processes": {
 				"eve-online": {
-					"tranquility": [],
+					"tranquility": [
+						{
+							"processId": 9776,
+							"username": "never-played",
+							"userId": 29285645,
+							"profile": "Default",
+							"dxVersion": "dx11"
+						}
+					],
 					"unknown": []
 				}
 			},
