@@ -16,7 +16,7 @@
 		"v2/application": {
 			"name": "EVE Online",
 			"window": {
-				"isMinimized": true,
+				"isMinimized": false,
 				"isMaximized": true,
 				"isVisible": false
 			},
