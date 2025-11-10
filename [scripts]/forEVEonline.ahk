@@ -1,7 +1,7 @@
 ;-=-\ EVE online mouse clicker \-=-
-;v.1.21.31b
+;v.1.21.33
 ;for AHK 1.1.34.04
-;by cheva (c) MIT 2012-2023
+;by cheva (c) MIT 2012-2025
 
 ;-=-\ Set globals \-=-
 global MouseSpeed = 1

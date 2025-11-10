@@ -444,7 +444,7 @@
 						"url": "https://www.eveonline.com/frontlines"
 					}
 				],
-				"updatedAt": 1762781796320
+				"updatedAt": 1762798023160
 			},
 			"playArea": {
 				"content": {
@@ -522,7 +522,7 @@
 						"url": "https://www.eveonline.com/de/frontlines"
 					}
 				],
-				"updatedAt": 1762781796268
+				"updatedAt": 1762798023109
 			},
 			"playArea": {
 				"content": {
@@ -600,7 +600,7 @@
 						"url": "https://www.eveonline.com/fr/frontlines"
 					}
 				],
-				"updatedAt": 1762781796334
+				"updatedAt": 1762798023169
 			},
 			"playArea": {
 				"content": {
@@ -678,7 +678,7 @@
 						"url": "https://www.eveonline.com/ja/frontlines"
 					}
 				],
-				"updatedAt": 1762781796307
+				"updatedAt": 1762798023149
 			},
 			"playArea": {
 				"content": {
@@ -756,7 +756,7 @@
 						"url": "https://www.eveonline.com/ko/frontlines"
 					}
 				],
-				"updatedAt": 1762781796294
+				"updatedAt": 1762798023137
 			},
 			"playArea": {
 				"content": {
@@ -784,7 +784,7 @@
 					{
 						"id": "809823184",
 						"campaignId": "159123865",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzYyNzg5MTQ2LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiMTU5MTIzODY1IiwiY3JJRCI6IjgwOTgyMzE4NCIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiNmFhMTdkYTkiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6NTU4NDc2NDk1fQ..-1d5a335a&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly9zdG9yZS5ldmVvbmxpbmUuY29tLz91dG1fc291cmNlPWxhdW5jaGVyJnV0bV9tZWRpdW09YXBwJnV0bV9jYW1wYWlnbj1jbjp3d19tZzo0X3BkOjJfY2Q6e2NyZWF0aXZlX25hbWV9X2N0OmxhdW5jaGVyLWJhbm5lcl90ZzpzdG9yZQ==",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzYyNzk4MDI1LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiMTU5MTIzODY1IiwiY3JJRCI6IjgwOTgyMzE4NCIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiNmFhMTdkYTkiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6NzgwMTk1ODczfQ..-ee124c13&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly9zdG9yZS5ldmVvbmxpbmUuY29tLz91dG1fc291cmNlPWxhdW5jaGVyJnV0bV9tZWRpdW09YXBwJnV0bV9jYW1wYWlnbj1jbjp3d19tZzo0X3BkOjJfY2Q6e2NyZWF0aXZlX25hbWV9X2N0OmxhdW5jaGVyLWJhbm5lcl90ZzpzdG9yZQ==",
 						"landing_url": "https://store.eveonline.com/?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_mg:4_pd:2_cd:2025_11_soeskinses_RU_ct:launcher-banner_tg:store",
 						"image": "cache+https://creatives2.extccp.com/t4475494d/img/szszg_eh4m8x_2e0c4ee9.png",
 						"weight": "60"
@@ -792,13 +792,13 @@
 					{
 						"id": "393383568",
 						"campaignId": "958914616",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzYyNzg5MTQ2LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiOTU4OTE0NjE2IiwiY3JJRCI6IjM5MzM4MzU2OCIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiNmFhMTdkYTkiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6NDAxNDAzMzEzfQ..-00dbafd3&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS9uZXdzL3ZpZXcvbWluaW5nLWluLWZvY3VzLW5ldy1vcmUtYW5kLW1vcmU/dXRtX3NvdXJjZT1sYXVuY2hlciZ1dG1fbWVkaXVtPWFwcCZ1dG1fY2FtcGFpZ249Y246d3dfbWc6M19wZDoyX2NkOntjcmVhdGl2ZV9uYW1lfV9jdDpsYXVuY2hlci1iYW5uZXJfdGc6bmV3cw==",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzYyNzk4MDI1LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiOTU4OTE0NjE2IiwiY3JJRCI6IjM5MzM4MzU2OCIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiNmFhMTdkYTkiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6MzE0MDk3MTUwfQ..-d996064d&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS9uZXdzL3ZpZXcvbWluaW5nLWluLWZvY3VzLW5ldy1vcmUtYW5kLW1vcmU/dXRtX3NvdXJjZT1sYXVuY2hlciZ1dG1fbWVkaXVtPWFwcCZ1dG1fY2FtcGFpZ249Y246d3dfbWc6M19wZDoyX2NkOntjcmVhdGl2ZV9uYW1lfV9jdDpsYXVuY2hlci1iYW5uZXJfdGc6bmV3cw==",
 						"landing_url": "https://www.eveonline.com/news/view/mining-in-focus-new-ore-and-more?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_mg:3_pd:2_cd:2025_11_catalyst_infocus_1_RU_ct:launcher-banner_tg:news",
 						"image": "cache+https://creatives2.extccp.com/t4475494d/img/szszg_bg4hp3_4d1544d7.png",
 						"weight": "60"
 					}
 				],
-				"updatedAt": 1762789142353
+				"updatedAt": 1762798021631
 			},
 			"imageGallery": {
 				"items": []
@@ -851,7 +851,7 @@
 						"url": "https://www.eveonline.com/ru/frontlines"
 					}
 				],
-				"updatedAt": 1762781796282
+				"updatedAt": 1762798023124
 			},
 			"playArea": {
 				"content": {
@@ -1773,7 +1773,7 @@
 						"url": "https://www.eveonline.com/es/frontlines"
 					}
 				],
-				"updatedAt": 1762781796347
+				"updatedAt": 1762798023181
 			},
 			"playArea": {
 				"content": {
@@ -1851,7 +1851,7 @@
 						"url": "https://www.eveonline.com/zh/frontlines"
 					}
 				],
-				"updatedAt": 1762781796360
+				"updatedAt": 1762798023193
 			},
 			"playArea": {
 				"content": {

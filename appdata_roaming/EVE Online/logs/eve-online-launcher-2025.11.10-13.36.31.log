@@ -8430,3 +8430,243 @@ aborted
 2025-11-10 16:49:21.640    app     info:    [server-manager] tranquility build is unchanged.
 2025-11-10 16:49:21.644    app     info:    [server-manager] Ready to play!
 2025-11-10 16:49:21.648    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 16:54:21.663    app     info:    [server-manager] Starting refresh cycle for eve-online / tranquility
+2025-11-10 16:54:22.138    app     info:    [server-manager] Previous tranquility build: 3092632, current build: 3092632
+2025-11-10 16:54:22.138    app     info:    [server-manager] tranquility build is unchanged.
+2025-11-10 16:54:22.144    app     info:    [server-manager] Ready to play!
+2025-11-10 16:54:22.149    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 16:59:22.171    app     info:    [server-manager] Starting refresh cycle for eve-online / tranquility
+2025-11-10 16:59:22.364    app     info:    [server-manager] Previous tranquility build: 3092632, current build: 3092632
+2025-11-10 16:59:22.364    app     info:    [server-manager] tranquility build is unchanged.
+2025-11-10 16:59:22.368    app     info:    [server-manager] Ready to play!
+2025-11-10 16:59:22.372    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 17:04:22.388    app     info:    [server-manager] Starting refresh cycle for eve-online / tranquility
+2025-11-10 17:04:37.637    app     info:    [server-manager] Previous tranquility build: 3092632, current build: 3092632
+2025-11-10 17:04:37.637    app     info:    [server-manager] tranquility build is unchanged.
+2025-11-10 17:04:37.644    app     info:    [server-manager] Ready to play!
+2025-11-10 17:04:37.648    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 17:07:24.266    app     warn:    Retrying request to https://launcher.eveonline.com (1) Request timed out    p [RequestTimeoutError]: Request timed out
+    at ClientRequest.<anonymous> (C:\Users\dmytr\AppData\Local\eve-online\app-1.12.2\resources\app.asar\.webpack\main\index.js:8:2884217)
+    at ClientRequest.emit (node:events:518:28)
+    at TLSSocket.emitRequestTimeout (node:_http_client:863:9)
+    at Object.onceWrapper (node:events:632:28)
+    at TLSSocket.emit (node:events:530:35)
+    at Socket._onTimeout (node:net:609:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-11-10 17:08:47.779    app     info:    [client-manager] 'tranquility' for eve-online game client for '31320672' exited with no errors.
+2025-11-10 17:08:47.781    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientExited
+2025-11-10 17:08:47.795    app     info:    [server-manager] Starting refresh cycle for eve-online / tranquility
+2025-11-10 17:08:48.040    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientExited
+2025-11-10 17:08:48.982    app     info:    [server-manager] Previous tranquility build: 3092632, current build: 3092632
+2025-11-10 17:08:48.983    app     info:    [server-manager] tranquility build is unchanged.
+2025-11-10 17:08:48.985    app     info:    [server-manager] Ready to play!
+2025-11-10 17:08:48.988    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 17:09:10.071    app     info:    [tray] Main window restored from tray    { windowId: 2 }
+2025-11-10 17:09:10.082    app     info:    [scheduler] Starting scheduler foreground
+2025-11-10 17:09:10.087    app     info:    [newsfeed] Fetching news for eve-online in ru
+2025-11-10 17:09:10.099    app     info:    [authentication] Token for '31320672' on 'tranquility' is expired, refresh is required
+2025-11-10 17:09:10.099    app     info:    [authentication] Refreshing token for '31320672' on 'tranquility'
+2025-11-10 17:09:10.263    app     info:    [newsfeed] Fetched 20 news items for eve-online in ru
+2025-11-10 17:09:10.394    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-11-10 17:09:10.394    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-11-10 17:09:10.395    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-11-10 17:09:10.395    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-11-10 17:09:10.395    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-11-10 17:09:10.395    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-11-10 17:09:10.395    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-11-10 17:09:10.396    app     warn:    [play-area-content] Invalid product found in play area content    { product: 'eve-frontier' }
+2025-11-10 17:09:10.484    app     info:    [authentication] Token for '31320672' on 'tranquility' has been successfully refreshed
+2025-11-10 17:09:10.486    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2025-11-10 17:09:10.498    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2025-11-10 17:09:10.498    app     info:    [customer-information] Getting character information for '31320672' on 'tranquility'
+2025-11-10 17:09:10.499    app     info:    [customer-information] Getting Omega status for '31320672' on 'tranquility' (eve-online)
+2025-11-10 17:09:10.499    app     info:    [virtual-goods] Getting Plex status for '31320672' on 'tranquility' (eve-online)
+2025-11-10 17:09:10.761    app     info:    [esi] Fetching character details for 2123259076
+2025-11-10 17:09:11.172    app     info:    [esi] Fetched 1 character details for 31320672
+2025-11-10 17:09:13.771    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 31320672,
+  characterId: 1,
+  profile: 'Default',
+  branchId: undefined
+}
+2025-11-10 17:09:13.774    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.ClientQueued
+2025-11-10 17:09:13.774    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.ClientQueued
+2025-11-10 17:09:13.775    app     info:    [client-queue] No clients running for 'tranquility' (eve-online), copying files before starting a client
+2025-11-10 17:09:13.779    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2025-11-10 17:09:13.780    app     info:    [binary-copier] Copying 227 files (405 MB) to 'C:\Games\EVE\tq'
+2025-11-10 17:09:13.780    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesStarted
+2025-11-10 17:09:13.824    app     info:    [binary-copier] Removing old binaries
+2025-11-10 17:09:13.917    app     info:    [binary-copier] Copying binaries from ResFiles
+2025-11-10 17:09:15.169    app     info:    [self-update] Checking for application updates.
+2025-11-10 17:09:15.211    app     info:    [binary-copier] Finished copying 227 files to 'C:\Games\EVE\tq' in 1.433 seconds
+2025-11-10 17:09:15.213    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2025-11-10 17:09:15.213    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesFinished
+2025-11-10 17:09:15.222    app     info:    [client-manager] Starting eve-online game client.    C:\Games\EVE\tq\bin64\exefile.exe    [
+  '/noconsole',
+  '/server:tranquility.servers.eveonline.com',
+  '/ssoToken=***',
+  '/refreshToken=***',
+  '/settingsprofile=Default',
+  '/language=ru',
+  '/LauncherData=ZXZlLW9ubGluZTp0cmFucXVpbGl0eTo6MzEzMjA2NzI6',
+  '/triplatform=dx11',
+  '/deviceID=***',
+  '/machineHash=***',
+  '/journeyID=***',
+  'exp=1762795154',
+  'tokenExpires=2025-11-10 19:19:14.000'
+]    31320672
+2025-11-10 17:09:15.224    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientStartRequested
+2025-11-10 17:09:15.228    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientStartRequested
+2025-11-10 17:09:15.280    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientStarted
+2025-11-10 17:09:15.409    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientStarted
+2025-11-10 17:09:15.409    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 31320672,
+  characterId: 1,
+  profile: 'Default',
+  branchId: undefined
+}
+2025-11-10 17:09:15.420    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientMonitored
+2025-11-10 17:09:15.425    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientMonitored
+2025-11-10 17:09:15.426    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientMonitored
+2025-11-10 17:09:15.429    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientMonitored
+2025-11-10 17:09:15.509    app    error:    [quasar-manager-helper] Failed to perform Quasar request RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31320672-null' in 5006ms (0: )    c [EpgError]: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31320672-null' in 5006ms (0: )
+    at P (C:\Users\dmytr\AppData\Local\eve-online\app-1.12.2\resources\app.asar\.webpack\main\index.js:8:1992734)
+    at F.rejectMessage (C:\Users\dmytr\AppData\Local\eve-online\app-1.12.2\resources\app.asar\.webpack\main\index.js:8:2002913)
+    at Timeout.<anonymous> (C:\Users\dmytr\AppData\Local\eve-online\app-1.12.2\resources\app.asar\.webpack\main\index.js:8:2005695)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  innerError: undefined,
+  statusCode: 0,
+  statusMessage: ''
+}
+2025-11-10 17:09:15.509    app     warn:    [virtual-goods] Can't fetch Plex status for '31320672' on 'tranquility' (eve-online), error: EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31320672-null' in 5006ms (0: )
+2025-11-10 17:09:15.511    app    error:    [AuthenticationMiddleware] RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31320672-null' in 5006ms (0: )    EpgError: RESPONSE REFUSED: eve_public.plex.vault.api.BalanceRequest received for 'tranquility-31320672-null' in 5006ms (0: )
+    at P (C:\Users\dmytr\AppData\Local\eve-online\app-1.12.2\resources\app.asar\.webpack\main\index.js:8:1992734)
+    at F.rejectMessage (C:\Users\dmytr\AppData\Local\eve-online\app-1.12.2\resources\app.asar\.webpack\main\index.js:8:2002913)
+    at Timeout.<anonymous> (C:\Users\dmytr\AppData\Local\eve-online\app-1.12.2\resources\app.asar\.webpack\main\index.js:8:2005695)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-11-10 17:09:15.569    app     info:    [window-manager-minimize] Main window minimized to tray    { windowId: 2 }
+2025-11-10 17:09:16.351    app     info:    [scheduler] Stopped scheduler foreground
+2025-11-10 17:09:16.760    app     info:    [self-update] No application updates were found.
+2025-11-10 17:09:17.417    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2025-11-10 17:09:26.350    app     warn:    Retrying request to https://launcher.eveonline.com (2) Request timed out    p [RequestTimeoutError]: Request timed out
+    at ClientRequest.<anonymous> (C:\Users\dmytr\AppData\Local\eve-online\app-1.12.2\resources\app.asar\.webpack\main\index.js:8:2884217)
+    at ClientRequest.emit (node:events:518:28)
+    at TLSSocket.emitRequestTimeout (node:_http_client:863:9)
+    at Object.onceWrapper (node:events:632:28)
+    at TLSSocket.emit (node:events:530:35)
+    at Socket._onTimeout (node:net:609:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-11-10 17:10:37.591    app     info:    warn: [LaunchDarkly] Error on stream connection: Read timeout, received no data in 300000ms, assuming connection is dead, will continue retrying after 531 milliseconds.    []
+2025-11-10 17:10:37.591    app     info:    info: [LaunchDarkly] Closing stream connection    []
+2025-11-10 17:10:38.130    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJraW5kIjoibXVsdGkiLCJsYXVuY2hlciI6eyJrZXkiOiJlZjNjMWY1Ny03NWI2LTQzNzItODQzNy1kODQ5MTJjMjgyMWUiLCJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjI0MSwibGFuZ3VhZ2UiOiJydSIsImFwcGxpY2F0aW9uIjoiZXZlLW9ubGluZSIsInZlcnNpb24iOiIxLjEyLjIiLCJwbGF0Zm9ybSI6IndpbmRvd3MiLCJpc0dlRm9yY2VOb3ciOmZhbHNlLCJvc1ZlcnNpb25EZXByZWNhdGVkIjpmYWxzZSwidXNlcklkcyI6WzMxMzY3NjkxLDE4OTIyMzg2LDIxMTAzMTEsMzEzNjc2OTFdLCJwcm9kdWN0cyI6WyJldmUtb25saW5lIl0sIm9tZWdhQ291bnQiOjAsImFscGhhQ291bnQiOjEwLCJhY2NvdW50Q291bnQiOjEwLCJvbGRlc3RBY2NvdW50QWdlIjo2Njk3LCJ5b3VuZ2VzdEFjY291bnRBZ2UiOjIyOX0sImpvdXJuZXkiOnsia2V5IjoiYjEyMjhlYTAtMzY5MC00ZDk3LWJjZmUtYmQwMjY0OGNkNTZjIiwiYW5vbnltb3VzIjp0cnVlfX0?withReasons=true    []
+2025-11-10 17:11:36.940    app     warn:    Retrying request to https://launcher.eveonline.com (1) Request timed out    p [RequestTimeoutError]: Request timed out
+    at ClientRequest.<anonymous> (C:\Users\dmytr\AppData\Local\eve-online\app-1.12.2\resources\app.asar\.webpack\main\index.js:8:2884217)
+    at ClientRequest.emit (node:events:518:28)
+    at TLSSocket.emitRequestTimeout (node:_http_client:863:9)
+    at Object.onceWrapper (node:events:632:28)
+    at TLSSocket.emit (node:events:530:35)
+    at Socket._onTimeout (node:net:609:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-11-10 17:13:49.006    app     info:    [server-manager] Starting refresh cycle for eve-online / tranquility
+2025-11-10 17:13:49.333    app     info:    [server-manager] Previous tranquility build: 3092632, current build: 3092632
+2025-11-10 17:13:49.334    app     info:    [server-manager] tranquility build is unchanged.
+2025-11-10 17:13:49.340    app     info:    [server-manager] Ready to play!
+2025-11-10 17:13:49.345    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 17:18:49.356    app     info:    [server-manager] Starting refresh cycle for eve-online / tranquility
+2025-11-10 17:18:49.559    app     info:    [server-manager] Previous tranquility build: 3092632, current build: 3092632
+2025-11-10 17:18:49.560    app     info:    [server-manager] tranquility build is unchanged.
+2025-11-10 17:18:49.568    app     info:    [server-manager] Ready to play!
+2025-11-10 17:18:49.574    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 17:23:49.583    app     info:    [server-manager] Starting refresh cycle for eve-online / tranquility
+2025-11-10 17:23:57.055    app     info:    [server-manager] Previous tranquility build: 3092632, current build: 3092632
+2025-11-10 17:23:57.055    app     info:    [server-manager] tranquility build is unchanged.
+2025-11-10 17:23:57.059    app     info:    [server-manager] Ready to play!
+2025-11-10 17:23:57.064    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 17:28:57.083    app     info:    [server-manager] Starting refresh cycle for eve-online / tranquility
+2025-11-10 17:28:57.466    app     info:    [server-manager] Previous tranquility build: 3092632, current build: 3092632
+2025-11-10 17:28:57.466    app     info:    [server-manager] tranquility build is unchanged.
+2025-11-10 17:28:57.470    app     info:    [server-manager] Ready to play!
+2025-11-10 17:28:57.475    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 17:33:57.489    app     info:    [server-manager] Starting refresh cycle for eve-online / tranquility
+2025-11-10 17:33:59.664    app     info:    [server-manager] Previous tranquility build: 3092632, current build: 3092632
+2025-11-10 17:33:59.665    app     info:    [server-manager] tranquility build is unchanged.
+2025-11-10 17:33:59.671    app     info:    [server-manager] Ready to play!
+2025-11-10 17:33:59.676    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 17:38:59.678    app     info:    [server-manager] Starting refresh cycle for eve-online / tranquility
+2025-11-10 17:38:59.959    app     info:    [server-manager] Previous tranquility build: 3092632, current build: 3092632
+2025-11-10 17:38:59.959    app     info:    [server-manager] tranquility build is unchanged.
+2025-11-10 17:38:59.964    app     info:    [server-manager] Ready to play!
+2025-11-10 17:38:59.967    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 17:43:59.974    app     info:    [server-manager] Starting refresh cycle for eve-online / tranquility
+2025-11-10 17:44:00.274    app     info:    [server-manager] Previous tranquility build: 3092632, current build: 3092632
+2025-11-10 17:44:00.274    app     info:    [server-manager] tranquility build is unchanged.
+2025-11-10 17:44:00.278    app     info:    [server-manager] Ready to play!
+2025-11-10 17:44:00.284    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 17:49:00.300    app     info:    [server-manager] Starting refresh cycle for eve-online / tranquility
+2025-11-10 17:49:00.508    app     info:    [server-manager] Previous tranquility build: 3092632, current build: 3092632
+2025-11-10 17:49:00.508    app     info:    [server-manager] tranquility build is unchanged.
+2025-11-10 17:49:00.512    app     info:    [server-manager] Ready to play!
+2025-11-10 17:49:00.517    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 17:54:00.524    app     info:    [server-manager] Starting refresh cycle for eve-online / tranquility
+2025-11-10 17:54:01.057    app     info:    [server-manager] Previous tranquility build: 3092632, current build: 3092632
+2025-11-10 17:54:01.058    app     info:    [server-manager] tranquility build is unchanged.
+2025-11-10 17:54:01.065    app     info:    [server-manager] Ready to play!
+2025-11-10 17:54:01.070    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 17:59:01.084    app     info:    [server-manager] Starting refresh cycle for eve-online / tranquility
+2025-11-10 17:59:01.671    app     info:    [server-manager] Previous tranquility build: 3092632, current build: 3092632
+2025-11-10 17:59:01.671    app     info:    [server-manager] tranquility build is unchanged.
+2025-11-10 17:59:01.676    app     info:    [server-manager] Ready to play!
+2025-11-10 17:59:01.683    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 17:59:06.549    app     warn:    Retrying request to https://launcher.eveonline.com (1) Request error when calling 'https://launcher.eveonline.com'
+getaddrinfo ENOTFOUND launcher.eveonline.com    f [RequestError]: Request error when calling 'https://launcher.eveonline.com'
+getaddrinfo ENOTFOUND launcher.eveonline.com
+    at f.from (C:\Users\dmytr\AppData\Local\eve-online\app-1.12.2\resources\app.asar\.webpack\main\index.js:8:2881258)
+    at ClientRequest.<anonymous> (C:\Users\dmytr\AppData\Local\eve-online\app-1.12.2\resources\app.asar\.webpack\main\index.js:8:2884107)
+    at ClientRequest.emit (node:events:518:28)
+    at emitErrorEvent (node:_http_client:104:11)
+    at TLSSocket.socketErrorListener (node:_http_client:518:5)
+    at TLSSocket.emit (node:events:518:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'launcher.eveonline.com'
+}
+2025-11-10 18:04:01.697    app     info:    [server-manager] Starting refresh cycle for eve-online / tranquility
+2025-11-10 18:04:02.374    app     info:    [server-manager] Previous tranquility build: 3092632, current build: 3092632
+2025-11-10 18:04:02.374    app     info:    [server-manager] tranquility build is unchanged.
+2025-11-10 18:04:02.380    app     info:    [server-manager] Ready to play!
+2025-11-10 18:04:02.389    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 18:06:45.651    app     info:    [client-manager] 'tranquility' for eve-online game client for '31320672' exited with no errors.
+2025-11-10 18:06:45.654    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientExited
+2025-11-10 18:06:45.667    app     info:    [server-manager] Starting refresh cycle for eve-online / tranquility
+2025-11-10 18:06:45.851    app     info:    [server-manager] Previous tranquility build: 3092632, current build: 3092632
+2025-11-10 18:06:45.852    app     info:    [server-manager] tranquility build is unchanged.
+2025-11-10 18:06:45.855    app     info:    [server-manager] Ready to play!
+2025-11-10 18:06:45.858    app     info:    [server-manager] Finished refresh cycle for tranquility
+2025-11-10 18:06:45.879    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientExited
+2025-11-10 18:06:49.507    app     info:    [tray] Quitting application from tray
+2025-11-10 18:06:49.509    app     info:    Application quitting. Cleanup needed: true
+2025-11-10 18:06:49.511    app     info:    [quasar-elg-events] Queueing shutdown event    eve_launcher.electron.application.LauncherShutdown
+2025-11-10 18:06:49.512    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.LauncherShutdown
+2025-11-10 18:06:49.513    app     info:    app.quit called, but we are still sending ELG events.
+2025-11-10 18:06:49.770    app     info:    [quasar-elg-events] Shutdown event timeout passed
+2025-11-10 18:06:49.771    app     info:    ELG stream closed, quitting
+2025-11-10 18:06:49.776    app     info:    [window-manager] Stopped forwarding events to window manager, as the window closed    { windowId: 2 }
+2025-11-10 18:06:49.776    app     info:    [window-manager-minimize] Main window is closing    { windowId: 2 }
+2025-11-10 18:06:49.777    app     info:    [quasar-elg-events] gRPC connection aborted
+2025-11-10 18:06:49.781    app     info:    ELG stream closed, quitting
+2025-11-10 18:06:49.798    app     info:    [window-manager] Main window closed    { windowId: 2 }
+2025-11-10 18:06:49.799    app     info:    Application closed    0
