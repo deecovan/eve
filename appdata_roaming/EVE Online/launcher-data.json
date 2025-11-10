@@ -9,7 +9,7 @@
 		"clientBuilds": {
 			"eve-online": {
 				"tranquility": {
-					"build": "2932557"
+					"build": "3092632"
 				}
 			}
 		},
@@ -64,8 +64,8 @@
 				"progress": {
 					"tranquility": {
 						"progress": 0,
-						"isBestExperiencePlayable": false,
-						"isNewPlayerExperiencePlayable": false,
+						"isBestExperiencePlayable": true,
+						"isNewPlayerExperiencePlayable": true,
 						"status": "idle"
 					}
 				},
