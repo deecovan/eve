@@ -4,6 +4,8 @@
 - 2025-11-10 Targets and Donators
   - from: Worm Holera, Steamaha, Deem Matar
   - to: DeeMan Diman, To Xalepa
+- Deem Matar needs to approve To Xalepa in Dee Cartel
+  - check all maximum permissions
 
 - Continue wukelan.che
 	- Gallentiada
