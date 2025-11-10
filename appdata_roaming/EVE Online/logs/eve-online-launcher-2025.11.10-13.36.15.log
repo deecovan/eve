@@ -1,0 +1,21 @@
+2025-11-10 13:36:16.240    app     info:    [self-update] Configuring update feed.
+2025-11-10 13:36:16.245    app     info:    [self-update] Update feed set to: https://launcher.ccpgames.com/eve-online/release/win32/x64/
+2025-11-10 13:36:16.254    app     info:    Startup arguments    [ '--squirrel-install', '1.12.2' ]
+2025-11-10 13:36:16.379    app     info:    [quasar-elg-events] Queueing event    eve_launcher.electron.application.SquirrelInstall
+2025-11-10 13:36:16.506    app     info:    [shortcuts] Waiting for third party authentication to be ready.
+2025-11-10 13:36:16.520    app    error:    (node:7600) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+(Use `eve-online --trace-deprecation ...` to show where the warning was created)    []
+2025-11-10 13:36:16.522    app     info:    [third-party-authentications] Checking for Steam startup
+2025-11-10 13:36:16.698    app     warn:    [steam-auth] Failed to initialize Steamworks client: GenericFailure
+2025-11-10 13:36:16.700    app     info:    [third-party-authentications] Done checking third party startups
+2025-11-10 13:36:16.817    app     info:    [cache-protocol] Found 0 entries to remove
+2025-11-10 13:36:16.817    app     info:    [cache-protocol] Nothing to clean up.
+2025-11-10 13:36:16.822    app     info:    [shortcuts] Creating global shortcut in desktop.
+2025-11-10 13:36:17.240    app     info:    [shortcuts] Created shortcut for eve-launcher in desktop
+2025-11-10 13:36:18.795    app     info:    [shortcuts] Creating global shortcut in startmenu.
+2025-11-10 13:36:18.809    app     info:    [quasar-elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.SquirrelInstall
+2025-11-10 13:36:18.929    app     info:    [shortcuts] Created shortcut for eve-launcher in startmenu
+2025-11-10 13:36:18.941    app     info:    [shortcuts] Shortcut desktop/EVE Launcher is already up-to-date.
+2025-11-10 13:36:19.051    app     info:    [shortcuts] Shortcut startmenu/EVE Launcher is already up-to-date.
+2025-11-10 13:36:19.052    app     info:    Application quitting. Cleanup needed: true
+2025-11-10 13:36:19.055    app     info:    app.quit called, but we are still sending ELG events.

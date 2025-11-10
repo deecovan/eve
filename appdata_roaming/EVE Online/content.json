@@ -444,7 +444,7 @@
 						"url": "https://www.eveonline.com/frontlines"
 					}
 				],
-				"updatedAt": 1749394462163
+				"updatedAt": 1762781796320
 			},
 			"playArea": {
 				"content": {
@@ -522,7 +522,7 @@
 						"url": "https://www.eveonline.com/de/frontlines"
 					}
 				],
-				"updatedAt": 1749394462083
+				"updatedAt": 1762781796268
 			},
 			"playArea": {
 				"content": {
@@ -600,7 +600,7 @@
 						"url": "https://www.eveonline.com/fr/frontlines"
 					}
 				],
-				"updatedAt": 1749394462193
+				"updatedAt": 1762781796334
 			},
 			"playArea": {
 				"content": {
@@ -678,7 +678,7 @@
 						"url": "https://www.eveonline.com/ja/frontlines"
 					}
 				],
-				"updatedAt": 1749394462146
+				"updatedAt": 1762781796307
 			},
 			"playArea": {
 				"content": {
@@ -756,7 +756,7 @@
 						"url": "https://www.eveonline.com/ko/frontlines"
 					}
 				],
-				"updatedAt": 1749394462130
+				"updatedAt": 1762781796294
 			},
 			"playArea": {
 				"content": {
@@ -782,39 +782,23 @@
 			"creatives": {
 				"creatives": [
 					{
-						"id": "732971935",
-						"campaignId": "662611227",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5MzkwMjk2LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiNjYyNjExMjI3IiwiY3JJRCI6IjczMjk3MTkzNSIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiMmFkN2JjN2UiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6OTA5MjM0MTczfQ..-1f76e39e&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly9zdG9yZS5ldmVvbmxpbmUuY29tLz91dG1fc291cmNlPWxhdW5jaGVyJnV0bV9tZWRpdW09YXBwJnV0bV9jYW1wYWlnbj1jbjp3d19sZzpydV9tZzo0X3BkOjJfY2Q6MjVfMDZfMmYxX2JiX2N0OmxhdW5jaGVyLWJhbm5lcl90ZzpzZWN1cmUjc2tpbGwtdHJhaW5pbmc=",
-						"landing_url": "https://store.eveonline.com/?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:ru_mg:4_pd:2_cd:25_06_2f1_bb_ct:launcher-banner_tg:secure#skill-training",
-						"image": "cache+https://creatives2.extccp.com/t16987e88/img/szszg_mxehrk_14b03c12.png",
+						"id": "657183765",
+						"campaignId": "840737877",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzYyNzgxODQ3LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiODQwNzM3ODc3IiwiY3JJRCI6IjY1NzE4Mzc2NSIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiNmFhMTdkYTkiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6MzY0ODg0NjE2fQ..-6118d59b&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly9zdG9yZS5ldmVvbmxpbmUuY29tLz91dG1fc291cmNlPWxhdW5jaGVyJnV0bV9tZWRpdW09YXBwJnV0bV9jYW1wYWlnbj1jbjp3d19tZzo0X3BkOjJfY2Q6e2NyZWF0aXZlX25hbWV9X2N0OmxhdW5jaGVyLWJhbm5lcl90ZzpzdG9yZQ==",
+						"landing_url": "https://store.eveonline.com/?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_mg:4_pd:2_cd:2025_11_soeskins_RU_ct:launcher-banner_tg:store",
+						"image": "cache+https://creatives2.extccp.com/t4475494d/img/szszg_3s9xbc_54e2d765.png",
 						"weight": "60"
 					},
 					{
-						"id": "157765213",
-						"campaignId": "384515519",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5MzkwMjk2LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiMzg0NTE1NTE5IiwiY3JJRCI6IjE1Nzc2NTIxMyIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiMmFkN2JjN2UiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6MTcxMjIzNjkyfQ..-2920a42c&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS90d2l0Y2g/dXRtX3NvdXJjZT1sYXVuY2hlciZ1dG1fbWVkaXVtPWFwcCZ1dG1fY2FtcGFpZ249Y246d3dfbGc6cnVfbWc6M19wZDoyX2NkOnR3aXRjaC1kcm9wc19jdDpsYXVuY2hlci1iYW5uZXJfdGc6dHdpdGNo",
-						"landing_url": "https://www.eveonline.com/twitch?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:ru_mg:3_pd:2_cd:twitch-drops_ct:launcher-banner_tg:twitch",
-						"image": "cache+https://creatives2.extccp.com/t16987e88/img/szszg_epz7sb_89e424d2.png",
-						"weight": "60"
-					},
-					{
-						"id": "182801465",
-						"campaignId": "394925935",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5MzkwMjk2LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiMzk0OTI1OTM1IiwiY3JJRCI6IjE4MjgwMTQ2NSIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiMmFkN2JjN2UiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6MzY5NTUzMDI4fQ..-91bf74e7&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly9zdG9yZS5ldmVvbmxpbmUuY29tL3Byb2R1Y3QvaW5pdGlhdGUtYXNjZW5zaW9uLXBhY2svdmVybS03ODg2P3V0bV9zb3VyY2U9bGF1bmNoZXImdXRtX21lZGl1bT1hcHAmdXRtX2NhbXBhaWduPWNuOnd3X2xnOmRlX21nOjRfcGQ6Ml9jZDoyNV8wNV9sZWdpb25fcGFja3NfY3Q6bGF1bmNoZXItYmFubmVyX3RnOnNlY3VyZQ==",
-						"landing_url": "https://store.eveonline.com/product/initiate-ascension-pack/verm-7886?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:de_mg:4_pd:2_cd:25_05_legion_packs_ct:launcher-banner_tg:secure",
-						"image": "cache+https://creatives2.extccp.com/t16987e88/img/szszg_cw6anu_6ac6818e.png",
-						"weight": "60"
-					},
-					{
-						"id": "295934048",
-						"campaignId": "874575904",
-						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzQ5MzkwMjk2LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiODc0NTc1OTA0IiwiY3JJRCI6IjI5NTkzNDA0OCIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiMmFkN2JjN2UiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6NzI3NDk1MjgyfQ..-e7fcbb00&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS9ydS9vbWVnYT91dG1fc291cmNlPWxhdW5jaGVyJnV0bV9tZWRpdW09YXBwJnV0bV9jYW1wYWlnbj1jbjp3d19sZzpydV9tZzo0X3BkOjJfY2Q6ZnJlZV9za2lsbF9wb2ludHNfbmVzX2N0OmxhdW5jaGVyLWJhbm5lcl90ZzpuZXdz",
-						"landing_url": "https://www.eveonline.com/ru/omega?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:ru_mg:4_pd:2_cd:free_skill_points_nes_ct:launcher-banner_tg:news",
-						"image": "cache+https://creatives2.extccp.com/t16987e88/img/szszg_kz8ayd_37e54e48.png",
+						"id": "393383568",
+						"campaignId": "958914616",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzYyNzgxODQ3LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiOTU4OTE0NjE2IiwiY3JJRCI6IjM5MzM4MzU2OCIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiNmFhMTdkYTkiLCJyZWZlcmVyIjoiIiwiY2QxIjoiIiwiY2QyIjoiIiwiY2QzIjoiIiwiY2Q0IjoiIiwiY2Q1IjoiIiwiXyI6MTYxNzk4ODczfQ..-52bfecaf&ag_custom_source=e-launcher&ag_custom_term=ru&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS9uZXdzL3ZpZXcvbWluaW5nLWluLWZvY3VzLW5ldy1vcmUtYW5kLW1vcmU/dXRtX3NvdXJjZT1sYXVuY2hlciZ1dG1fbWVkaXVtPWFwcCZ1dG1fY2FtcGFpZ249Y246d3dfbWc6M19wZDoyX2NkOntjcmVhdGl2ZV9uYW1lfV9jdDpsYXVuY2hlci1iYW5uZXJfdGc6bmV3cw==",
+						"landing_url": "https://www.eveonline.com/news/view/mining-in-focus-new-ore-and-more?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_mg:3_pd:2_cd:2025_11_catalyst_infocus_1_RU_ct:launcher-banner_tg:news",
+						"image": "cache+https://creatives2.extccp.com/t4475494d/img/szszg_bg4hp3_4d1544d7.png",
 						"weight": "60"
 					}
 				],
-				"updatedAt": 1749390296302
+				"updatedAt": 1762781843785
 			},
 			"imageGallery": {
 				"items": []
@@ -867,7 +851,7 @@
 						"url": "https://www.eveonline.com/ru/frontlines"
 					}
 				],
-				"updatedAt": 1749394462115
+				"updatedAt": 1762781796282
 			},
 			"playArea": {
 				"content": {
@@ -1421,41 +1405,80 @@
 			},
 			"newsContent": {
 				"ids": [
-					"MFmKxEGRAdt1edsNjkz5q",
+					"4Kyk6jByKGLb9S0NOQnQ6W",
+					"46PGu3bY3T5Sd5Mad4lnbB",
+					"2YHf1SBrVmII9E3H4o3Oc",
+					"4jdbEzGNicrKmgZ1L2Yvwn",
 					"4eEM0jBNQf3kOtSVYkNpyt",
-					"5LESjIWFWP59YSRBzWJA0v",
-					"1UtZdo1mfy6fEdDl0vqfxd",
-					"6M5KWWBifBFwtGsQZx6fN5",
-					"5TndXj7GXQoSxncbLMW7KX",
-					"6QEU6heiVFrxYTXTDhiz6L",
-					"1it3tsfkXtiPO9vNdgtCm0",
-					"1c3EGYRjvvwUaEXdgV258T",
-					"2BjiJoSoCqehIChvOuD15h",
-					"4MDM4YFfP1kNX6OGKCmLuG",
-					"1LUNEJeEYFRYBP9O1iDbVX",
-					"41ELpBy9SQROuhNmtyIPCc",
-					"3U9aOZUEL9XV1XsmTI3qm2",
-					"2AYqyaWwIlKNlpeXTwHde8",
-					"2KtGCKpjBfvSoDuE58Spfx",
-					"2bV3teAUvuDsEDI9QU9lQm",
-					"1K4Aza0aisnNaecRw6VQOv",
-					"3e4sEempp1ZOERyRsQfsGA",
-					"1qapq3OxBr0v6x0nbLrkQe"
+					"6PPqFZWzoYt6lxw4MFpDaX",
+					"1KaCzI9aybXW44AudPWLec",
+					"7GGgvXQ37sz0PSXZKTsj6i",
+					"7kg1LLwqqLccrwi3pPdlrK",
+					"1w2CXklDcLxUTJXJWUGVtZ",
+					"45vlYp1r3o1avNcfnZt6tB",
+					"3jQd9h6ij6sM34kI7enc1",
+					"1NBeco14UHl6LT9GVkvQh4",
+					"3qVGzyFGMfnPJoBrLIm8Wv",
+					"bk03l87iEjgcaIDFcKa0P",
+					"3Z4Uom4ryuEIjmgOsonKzM",
+					"1MZsEvnHkSlY1pxFzzJiC9",
+					"ap7feZ8cqQMhjLdoXMBcd",
+					"J2zw7ZSoiuoJBElppTBKa",
+					"6wamXSNBX8AIJ4Mb89FslO"
 				],
 				"entities": {
-					"MFmKxEGRAdt1edsNjkz5q": {
-						"id": "MFmKxEGRAdt1edsNjkz5q",
-						"title": "Community Beat for 06 June",
-						"slug": "community-beat-for-06-june",
+					"4Kyk6jByKGLb9S0NOQnQ6W": {
+						"id": "4Kyk6jByKGLb9S0NOQnQ6W",
+						"title": "Community Beat for 9 November",
+						"slug": "community-beat-for-9-november",
+						"tags": [],
+						"category": "news",
+						"author": "EVE Online Community Team",
+						"publishingDate": "2025-11-09",
+						"metaDescription": "Your regular update on what's happening around New Eden!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/7JMCitrtdOyCPisLYuGlnL/648a7ab1133c4ca110d4ea1e195e4979/CommBeat3840x2160.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/community-beat-for-9-november"
+					},
+					"46PGu3bY3T5Sd5Mad4lnbB": {
+						"id": "46PGu3bY3T5Sd5Mad4lnbB",
+						"title": "Monthly Economic Report - October 2025",
+						"slug": "monthly-economic-report-october-2025",
+						"tags": [],
+						"category": "dev-blogs",
+						"author": "EVE Online Economic Council",
+						"publishingDate": "2025-11-07",
+						"metaDescription": "The Monthly Economic Report for October 2025 is now available!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/m54ICjNKxKm7gj7yFGpr2/ba663f183816036cde718b7f3593e6eb/EVE_News_RU_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/monthly-economic-report-october-2025"
+					},
+					"2YHf1SBrVmII9E3H4o3Oc": {
+						"id": "2YHf1SBrVmII9E3H4o3Oc",
+						"title": "Get SOE SKIN Crate With Any $10+ Item",
+						"slug": "get-soe-skin-crate-with-any-usd10-item",
 						"tags": [
+							"offers"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-11-06",
+						"metaDescription": "Your chance to unlock rare and historic SKINs. ",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/5dfJDz3hO15BO0rjneFpC6/993ec9fe2b08dfbbd0cdb44919b54d2c/Screenshot_NoCopy_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/get-soe-skin-crate-with-any-usd10-item"
+					},
+					"4jdbEzGNicrKmgZ1L2Yvwn": {
+						"id": "4jdbEzGNicrKmgZ1L2Yvwn",
+						"title": "Take the Fanfest Stage as a Presenter!",
+						"slug": "take-the-fanfest-stage-as-a-presenter",
+						"tags": [
+							"fanfest",
 							"community"
 						],
 						"category": "news",
-						"author": "EVE Online Community Team",
-						"publishingDate": "2025-06-07",
-						"metaDescription": "Your regular update on what's happening around New Eden!",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/7JMCitrtdOyCPisLYuGlnL/648a7ab1133c4ca110d4ea1e195e4979/CommBeat3840x2160.jpg?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/community-beat-for-06-june"
+						"author": "EVE Online Team",
+						"publishingDate": "2025-11-06",
+						"metaDescription": "Are you ready to share your wisdom with other capsuleers? ",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/6CkS8AHSEGsfYCvhkl0iXM/9474193d78748c95f3c83d44fa2efbf1/Screenshot_Copy_1920x1080__1_.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/take-the-fanfest-stage-as-a-presenter"
 					},
 					"4eEM0jBNQf3kOtSVYkNpyt": {
 						"id": "4eEM0jBNQf3kOtSVYkNpyt",
@@ -1466,271 +1489,224 @@
 						],
 						"category": "patch-notes",
 						"author": "EVE Online Team",
-						"publishingDate": "2025-06-05",
-						"metaDescription": "Список изменений от 5 июня доступен для ознакомления!",
+						"publishingDate": "2025-11-06",
+						"metaDescription": "Список изменений от 6 ноябрь доступен для ознакомления!",
 						"src": "https://images.ctfassets.net/7lhcm73ukv5p/Sy7cCu9kc6QY0fMR1xwNu/1623d24c0a6fbd16ab87070214dad5c5/Sarathiel_Sun.png?w=350&fm=jpg&fl=progressive&q=90",
 						"url": "https://www.eveonline.com/ru/news/view/patch-notes-version-23-01"
 					},
-					"5LESjIWFWP59YSRBzWJA0v": {
-						"id": "5LESjIWFWP59YSRBzWJA0v",
-						"title": "Get 2 Boost Bundles for the Price of 1",
-						"slug": "get-2-boost-bundles-for-the-price-of-1",
+					"6PPqFZWzoYt6lxw4MFpDaX": {
+						"id": "6PPqFZWzoYt6lxw4MFpDaX",
+						"title": "Эволюция бурения: новая руда и не только",
+						"slug": "mining-in-focus-new-ore-and-more",
+						"tags": [
+							"expansion"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-11-04",
+						"metaDescription": "Бурение теперь динамичнее, выгоднее и конкурентнее.",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/2bwn4VV1qiw5Y6EeBz3E4Q/08ab80828c1604ce638813b3b65f2236/ExtraAssets-ForBlog_Post_NoCopy_1920x1080__1_.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/mining-in-focus-new-ore-and-more"
+					},
+					"1KaCzI9aybXW44AudPWLec": {
+						"id": "1KaCzI9aybXW44AudPWLec",
+						"title": "Nosferatu Pack Available Now",
+						"slug": "nosferatu-pack-available-now",
 						"tags": [
 							"offers"
 						],
 						"category": "news",
 						"author": "EVE Online Team",
-						"publishingDate": "2025-06-05",
-						"metaDescription": "Skyrocket your training in EVE Online and save big.",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/78VpPTNKQgP8fGi1gHHk09/b24309fc7d722b6d9711ed647b88265f/1080NoCopy.png?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/get-2-boost-bundles-for-the-price-of-1"
+						"publishingDate": "2025-10-31",
+						"metaDescription": "PLEX, apparel & SKINs ",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/uhRdrrqYi0sNRY7HzYnQo/1b47a974fde4c2eeac0e0da9f0779f6c/Screenshot1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/nosferatu-pack-available-now"
 					},
-					"1UtZdo1mfy6fEdDl0vqfxd": {
-						"id": "1UtZdo1mfy6fEdDl0vqfxd",
-						"title": "Monthly Economic Report - May 2025",
-						"slug": "monthly-economic-report-may-2025",
-						"tags": [
-							"monthly-economic-reports"
-						],
-						"category": "dev-blogs",
-						"author": "EVE Online Economic Council",
-						"publishingDate": "2025-06-04",
-						"metaDescription": "The Monthly Economic Report for May 2025 is now available!",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/m54ICjNKxKm7gj7yFGpr2/ba663f183816036cde718b7f3593e6eb/EVE_News_RU_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/monthly-economic-report-may-2025"
-					},
-					"6M5KWWBifBFwtGsQZx6fN5": {
-						"id": "6M5KWWBifBFwtGsQZx6fN5",
-						"title": "Legion уже в игре",
-						"slug": "legion-is-here",
-						"tags": [
-							"expansion",
-							"offers",
-							"development-updates",
-							"new-features"
-						],
-						"category": "news",
-						"author": "EVE Online Team",
-						"publishingDate": "2025-05-27",
-						"metaDescription": "Обретите цель сегодня!",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/5FZA4yHBbW4hUygX0yeSwy/58730a3b31356d1745ee4befa107a1ab/Screenshot_NoCopy_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/legion-is-here"
-					},
-					"5TndXj7GXQoSxncbLMW7KX": {
-						"id": "5TndXj7GXQoSxncbLMW7KX",
-						"title": "Community Beat for 24 May",
-						"slug": "community-beat-for-24-may-25",
-						"tags": [
-							"community"
-						],
-						"category": "news",
-						"author": "EVE Online Community Team",
-						"publishingDate": "2025-05-24",
-						"metaDescription": "Your regular update on what's happening around New Eden!",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/7JMCitrtdOyCPisLYuGlnL/648a7ab1133c4ca110d4ea1e195e4979/CommBeat3840x2160.jpg?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/community-beat-for-24-may-25"
-					},
-					"6QEU6heiVFrxYTXTDhiz6L": {
-						"id": "6QEU6heiVFrxYTXTDhiz6L",
-						"title": "UP TO 20% OFF OMEGA IN NES",
-						"slug": "up-to-20-off-omega-in-nes",
-						"tags": [
-							"offers"
-						],
-						"category": "news",
-						"author": "EVE Online Team",
-						"publishingDate": "2025-05-24",
-						"metaDescription": "POWER YOUR PURPOSE ",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/7pnCwMIz45gz1aJ3ddejhG/60e3881ee1175fadba3d8df2ecc38f9d/Screenshot-NoCopy_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/up-to-20-off-omega-in-nes"
-					},
-					"1it3tsfkXtiPO9vNdgtCm0": {
-						"id": "1it3tsfkXtiPO9vNdgtCm0",
-						"title": "Legion: Expansion Notes",
-						"slug": "legion-expansion-notes",
-						"tags": [
-							"expansion",
-							"patch-notes"
-						],
-						"category": "patch-notes",
-						"author": "EVE Online Team",
-						"publishingDate": "2025-05-23",
-						"metaDescription": "The expansion notes for the upcoming Legion expansion are now available.",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/Sy7cCu9kc6QY0fMR1xwNu/1623d24c0a6fbd16ab87070214dad5c5/Sarathiel_Sun.png?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/legion-expansion-notes"
-					},
-					"1c3EGYRjvvwUaEXdgV258T": {
-						"id": "1c3EGYRjvvwUaEXdgV258T",
-						"title": "\"The Drifter Crisis is Over!\"",
-						"slug": "the-drifter-crisis-is-over",
+					"7GGgvXQ37sz0PSXZKTsj6i": {
+						"id": "7GGgvXQ37sz0PSXZKTsj6i",
+						"title": "Warnings Raised Over Drifter Wormhole Experiments",
+						"slug": "warnings-raised-over-drifter-wormhole-experiments",
 						"tags": [
 							"universe"
 						],
 						"category": "New Eden News",
-						"publishingDate": "2025-05-20",
-						"metaDescription": "Drifter Activity Dies Down Cheers rang out across New Eden as news spread of the Drifter Crisis coming to an end. On YC127-05-15, preliminary reports indicated an almost complete cessation of Drifter activity in the occupied wormholes. Research provided by the Society of Conscious Thought yesterday shows a sudden severance of the connections between the Warden, the structure in Zarzakh that The Deathless retains sole access to, and the Drifter Nexuses. Consequently, Drifters have drawn back their [...]",
-						"src": "https://images.ctfassets.net/1gqwxa4vbed9/3hhXEaBJW8o2Q4DocHCoTh/9eb3b157315e7b478fc00330faad1c8a/Crisis_Walter_Islands.jpg?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://universe.eveonline.com/new-eden-news/the-drifter-crisis-is-over"
+						"publishingDate": "2025-10-30",
+						"metaDescription": "Warnings Raised Over Drifter Wormhole Experiments The Anoikis Mapping Project (AMP), a capsuleer-led initiative working with the Gallente Federation, has raised concerns over the experiments being carried out in occupied Drifter Wormholes. According to AMP, the occupiers' destructive testing of the Drifter’s hyperspace network threatens to destabilize New Eden. The Anoikis Mapping Project is dedicated to the simultaneous monitoring of every single system in Anoikis, also known as Wormhole Space. AMP [...]",
+						"src": "https://images.ctfassets.net/1gqwxa4vbed9/2INxpHe0JSI5a92QYzkUg2/920a2df938d02d7e2e7e6513d1d5b926/image-20251029-093855.png?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://universe.eveonline.com/new-eden-news/warnings-raised-over-drifter-wormhole-experiments"
 					},
-					"2BjiJoSoCqehIChvOuD15h": {
-						"id": "2BjiJoSoCqehIChvOuD15h",
-						"title": "Save 20% on PLEX + Get New Police SKINs!",
-						"slug": "save-20-on-plex-get-new-police-skins",
-						"tags": [
-							"offers"
-						],
-						"category": "news",
-						"author": "EVE Online Team",
-						"publishingDate": "2025-05-20",
-						"metaDescription": "Unlock your fleet’s new look and save big on PLEX",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/2ElsIr0eV5c05As7ob7bHc/6ecf88f16e27b7eb12d1339467c61773/Screenshot_NoCopy_3840x2160.jpg?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/save-20-on-plex-get-new-police-skins"
-					},
-					"4MDM4YFfP1kNX6OGKCmLuG": {
-						"id": "4MDM4YFfP1kNX6OGKCmLuG",
-						"title": "Список изменений. Версия 22.02",
-						"slug": "patch-notes-version-22-02",
-						"tags": [
-							"patch-notes"
-						],
-						"category": "patch-notes",
-						"author": "EVE Online Team",
-						"publishingDate": "2025-05-15",
-						"metaDescription": "Список изменений от 15 май доступен для ознакомления!",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/2t840GbDZtihSUCuUAuJ0W/7a5a7b6fb0dcf62a75d7e18ff3d42ae1/2024.11.08.10.49.49.png?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/patch-notes-version-22-02"
-					},
-					"1LUNEJeEYFRYBP9O1iDbVX": {
-						"id": "1LUNEJeEYFRYBP9O1iDbVX",
-						"title": "Курс на Legion",
-						"slug": "legion-in-focus",
-						"tags": [
-							"expansion",
-							"ccptv"
-						],
-						"category": "news",
-						"author": "EVE Online Team",
-						"publishingDate": "2025-05-13",
-						"metaDescription": "Корабли, внешние заказы, улучшения штаба владений и др.",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/7pxM8D0lWSCj4NYdGWsEh3/753d9b57e3519b356c7baf32976fb891/Screenshot_Copy_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/legion-in-focus"
-					},
-					"41ELpBy9SQROuhNmtyIPCc": {
-						"id": "41ELpBy9SQROuhNmtyIPCc",
-						"title": "Monthly Economic Report - April 2025",
-						"slug": "monthly-economic-report-april-2025",
-						"tags": [
-							"monthly-economic-reports"
-						],
-						"category": "dev-blogs",
-						"author": "EVE Online Economic Council",
-						"publishingDate": "2025-05-09",
-						"metaDescription": "The Monthly Economic Report for April 2025 is now available!",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/m54ICjNKxKm7gj7yFGpr2/ba663f183816036cde718b7f3593e6eb/EVE_News_RU_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/monthly-economic-report-april-2025"
-					},
-					"3U9aOZUEL9XV1XsmTI3qm2": {
-						"id": "3U9aOZUEL9XV1XsmTI3qm2",
-						"title": "The Future of EVE: Where Legends Begin",
-						"slug": "the-future-of-eve-where-legends-begin",
-						"tags": [
-							"fanfest"
-						],
-						"category": "news",
-						"author": "EVE Online Team",
-						"publishingDate": "2025-05-08",
-						"metaDescription": "The Future of EVE is Bright",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/1AsIfS8KMaueRWAbCvvxiA/6afd141887d88b87bfeb892244f5f124/EVE-Fanfest-Legion-Vanguard-2.png?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/the-future-of-eve-where-legends-begin"
-					},
-					"2AYqyaWwIlKNlpeXTwHde8": {
-						"id": "2AYqyaWwIlKNlpeXTwHde8",
-						"title": "Controversial EDENCOM Policy Endorsed during \"Drifter Summit\"",
-						"slug": "controversial-edencom-policy-endorsed-during-drifter-summit",
-						"tags": [
-							"universe"
-						],
-						"category": "New Eden News",
-						"publishingDate": "2025-05-08",
-						"metaDescription": "Faction Delegates Convene A think tank held as part of a “Drifter Summit” in Jita 4-4 has endorsed a controversial future direction put forward by EDENCOM delegates. Organized by the Sisters of EVE and facilitated by the Arataka Research Consortium, the summit was held inside Jita 4-4 on YC127-05-01. Delegates from all five Drifter wormhole-occupying factions met to discuss issues pertaining to the ongoing war with the Drifters. Aiming to garner wider support from those assembled in the hopes of [...]",
-						"src": "https://images.ctfassets.net/1gqwxa4vbed9/3Fky8qWH7smjgtXFsKQ6Qh/c2320441ba5c570acc132eef2699c67f/2025.05.07.16.22.00.jpg?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://universe.eveonline.com/new-eden-news/controversial-edencom-policy-endorsed-during-drifter-summit"
-					},
-					"2KtGCKpjBfvSoDuE58Spfx": {
-						"id": "2KtGCKpjBfvSoDuE58Spfx",
-						"title": "40% Off MCT + EDENCOM SKINs",
-						"slug": "40-off-mct-edencom-skins",
-						"tags": [
-							"offers"
-						],
-						"category": "news",
-						"author": "EVE Online Team",
-						"publishingDate": "2025-05-07",
-						"metaDescription": "Celebrate EDENCOM Day",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/2sjKUmuZvlfVk9qL8mdQO8/6c0ffbfafb6487fa5b9fdf70cdc5e19d/NewSecure_Product_Card_1920x1080.png?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/40-off-mct-edencom-skins"
-					},
-					"2bV3teAUvuDsEDI9QU9lQm": {
-						"id": "2bV3teAUvuDsEDI9QU9lQm",
-						"title": "Gallente President Addresses Citizens as Drifter Attacks Spread",
-						"slug": "gallente-president-addresses-citizens-as-drifter-attacks-spread",
-						"tags": [
-							"universe"
-						],
-						"category": "New Eden News",
-						"publishingDate": "2025-05-06",
-						"metaDescription": "Wrath of Tyrannos Begins Drifter activity has intensified across New Eden as forces previously seen only in the five Drifter wormholes have begun to appear across the cluster. As the factions occupying Drifter wormhole space have kept up the pressure, retaliatory sites have appeared all across New Eden. Tyrannos Strategos, leader of the Drifters' Vigilant Tyrannos, has been sighted in her dreadnought protecting newly appeared Hive structures at Locus Points in lowsec systems. These vast rings are not [...]",
-						"src": "https://images.ctfassets.net/1gqwxa4vbed9/5lXytcJx82LTdINO0PBT82/d424d082296d46b535ba3f513aea7421/2025.05.06.09.24.59.jpg?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://universe.eveonline.com/new-eden-news/gallente-president-addresses-citizens-as-drifter-attacks-spread"
-					},
-					"1K4Aza0aisnNaecRw6VQOv": {
-						"id": "1K4Aza0aisnNaecRw6VQOv",
-						"title": "Развязка «Дня капсулёра»: гнев тиранов",
-						"slug": "capsuleer-day-climax-wrath-of-tyrannos",
+					"7kg1LLwqqLccrwi3pPdlrK": {
+						"id": "7kg1LLwqqLccrwi3pPdlrK",
+						"title": "«Кровавая жатва» в разгаре",
+						"slug": "crimson-harvest-intensifies",
 						"tags": [
 							"in-game-events",
 							"offers"
 						],
 						"category": "news",
 						"author": "EVE Online Team",
-						"publishingDate": "2025-05-06",
-						"metaDescription": "Скитальцы идут в контратаку. Остался последний рывок!",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/6RRjI5QyennSwSokqOWjfu/37a83b2296b8d371e382f7c7073cdd4f/Screenshot_NoCopy_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/capsuleer-day-climax-wrath-of-tyrannos"
+						"publishingDate": "2025-10-28",
+						"metaDescription": "Достанется ли вам чертёж титана?",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/5d3USeqMXmOEpfYlJ2S6Ps/bca658e54fd90710b8f44d214f0a5021/Screenshot_NoCopy_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/crimson-harvest-intensifies"
 					},
-					"3e4sEempp1ZOERyRsQfsGA": {
-						"id": "3e4sEempp1ZOERyRsQfsGA",
-						"title": "Дополнение Legion — 27 мая",
-						"slug": "legion-expansion-launches-on-27-may",
+					"1w2CXklDcLxUTJXJWUGVtZ": {
+						"id": "1w2CXklDcLxUTJXJWUGVtZ",
+						"title": "CSM 20 - Cast Your Vote Now!",
+						"slug": "csm-20-cast-your-vote-now",
+						"tags": [
+							"community"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-10-27",
+						"metaDescription": "The polls are open and your vote matters! ",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/ttf24Wxy8a0ewBio9zy7w/be15843a473b945895635041410f4f74/EVE_News_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/csm-20-cast-your-vote-now"
+					},
+					"45vlYp1r3o1avNcfnZt6tB": {
+						"id": "45vlYp1r3o1avNcfnZt6tB",
+						"title": "Alliance Tournament XXI - Day 3 Live Results",
+						"slug": "alliance-tournament-xxi-day-3-live-results",
+						"tags": [
+							"community",
+							"tournaments",
+							"pvp"
+						],
+						"category": "news",
+						"author": "EVE Online Community Team",
+						"publishingDate": "2025-10-26",
+						"metaDescription": "See the live results as they come in!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/139wggYiBk6YvCOpXJW8Si/b49481347d4ad3ca11783513c2f97090/AT-XXI-1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/alliance-tournament-xxi-day-3-live-results"
+					},
+					"3jQd9h6ij6sM34kI7enc1": {
+						"id": "3jQd9h6ij6sM34kI7enc1",
+						"title": "Alliance Tournament XXI - Day 2 Live Results",
+						"slug": "alliance-tournament-xxi-day-2-live-results",
+						"tags": [
+							"community",
+							"tournaments",
+							"pvp"
+						],
+						"category": "news",
+						"author": "EVE Online Community Team",
+						"publishingDate": "2025-10-25",
+						"metaDescription": "See the live results as they come in!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/139wggYiBk6YvCOpXJW8Si/b49481347d4ad3ca11783513c2f97090/AT-XXI-1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/alliance-tournament-xxi-day-2-live-results"
+					},
+					"1NBeco14UHl6LT9GVkvQh4": {
+						"id": "1NBeco14UHl6LT9GVkvQh4",
+						"title": "20% Discount on Mastery Packs!",
+						"slug": "20-discount-on-mastery-packs",
+						"tags": [
+							"offers"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-10-24",
+						"metaDescription": "This weekend only, in celebration of Alliance Tournament XXI.",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/7srQvimRupdtYaPZyPEyPT/effa470a9407e2fa50b4ec9b63a8bf33/Screenshot_NoCopy_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/20-discount-on-mastery-packs"
+					},
+					"3qVGzyFGMfnPJoBrLIm8Wv": {
+						"id": "3qVGzyFGMfnPJoBrLIm8Wv",
+						"title": "Alliance Tournament XXI Starts Tomorrow",
+						"slug": "alliance-tournament-xxi-starts-tomorrow",
+						"tags": [
+							"pvp",
+							"tournaments",
+							"community"
+						],
+						"category": "news",
+						"author": "EVE ONLINE TEAM",
+						"publishingDate": "2025-10-23",
+						"metaDescription": "Alliance Tournament XXI kicks off at 14:00 UTC on 24 October. Tune in for Twitch Drops, bet on your predictions, and check out the new podcast, Gridlocked, to learn the basics of Alliance Tournament. ",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/139wggYiBk6YvCOpXJW8Si/b49481347d4ad3ca11783513c2f97090/AT-XXI-1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/alliance-tournament-xxi-starts-tomorrow"
+					},
+					"bk03l87iEjgcaIDFcKa0P": {
+						"id": "bk03l87iEjgcaIDFcKa0P",
+						"title": "Дополнение Catalyst выходит 18 ноября",
+						"slug": "catalyst-expansion-launches-18-november",
+						"tags": [
+							"expansion"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-10-21",
+						"metaDescription": "От малой искры до империи: всё начинается с руды.",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/viYmU0M25rWGxKw4U5lUs/93ee45aa92b7741af07512a265914329/Screenshot_Expansion-Logo_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/catalyst-expansion-launches-18-november"
+					},
+					"3Z4Uom4ryuEIjmgOsonKzM": {
+						"id": "3Z4Uom4ryuEIjmgOsonKzM",
+						"title": "Up to 15% Off Omega in EVE Store Now",
+						"slug": "up-to-15-off-omega-in-eve-store-now",
+						"tags": [],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-10-20",
+						"metaDescription": "Final chance for other deals. Don’t miss out! ",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/6T5fx3PYMBQ3U7qZeGW2sm/15c97ed2eb63db63be9c92609f33edb6/NewSecure_Product_Thumb_1920x1080.png?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/up-to-15-off-omega-in-eve-store-now"
+					},
+					"1MZsEvnHkSlY1pxFzzJiC9": {
+						"id": "1MZsEvnHkSlY1pxFzzJiC9",
+						"title": "Up to 15% Off Omega in NES",
+						"slug": "alliance-tournament-xxi-up-to-15-off-omega-in-nes",
+						"tags": [
+							"offers",
+							"tournaments"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-10-17",
+						"metaDescription": "Plus free Shattered Paradigm SKINs!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/5oLLBsDVPJXCs3Hdg9GOx6/cd274f8278e43497706a968017c43019/Screenshot_NoCopy_3840x2160.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/alliance-tournament-xxi-up-to-15-off-omega-in-nes"
+					},
+					"ap7feZ8cqQMhjLdoXMBcd": {
+						"id": "ap7feZ8cqQMhjLdoXMBcd",
+						"title": "Monthly Economic Report - September 2025",
+						"slug": "monthly-economic-report-september-2025",
+						"tags": [],
+						"category": "dev-blogs",
+						"author": "EVE Online Economic Council",
+						"publishingDate": "2025-10-14",
+						"metaDescription": "The Monthly Economic Report for September 2025 is now available!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/m54ICjNKxKm7gj7yFGpr2/ba663f183816036cde718b7f3593e6eb/EVE_News_RU_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/monthly-economic-report-september-2025"
+					},
+					"J2zw7ZSoiuoJBElppTBKa": {
+						"id": "J2zw7ZSoiuoJBElppTBKa",
+						"title": "Crimson Harvest and the Genesis of the Hollow Clones",
+						"slug": "crimson-harvest-and-the-genesis-of-the-hollow-clones",
+						"tags": [
+							"universe"
+						],
+						"category": "New Eden News",
+						"author": "Johanna Marqoso",
+						"publishingDate": "2025-10-14",
+						"metaDescription": "Last week, the Blood Raiders’ annual Crimson Harvest returned to our cluster. Once more, the cluster is gripped by the threat of blood thirsty hunting parties and the fear of fallout from their violent clashes with the Order of St. Tetrimon. This year, however, reports have reached the Scope that both Blood Raider and Tetrimon pilots have begun attacking abandoned Upwell Consortium facilities. Here to explain this unusual shift in behaviour is investigative reporter, Johanna Marqoso. Dr Hwung and the [...]",
+						"src": "https://images.ctfassets.net/1gqwxa4vbed9/1HcVaXZyGolvvQx7gVFjGb/474ab9087fd27bcf9e2c0d8e0a8c5302/Biosecurity.png?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://universe.eveonline.com/new-eden-news/crimson-harvest-and-the-genesis-of-the-hollow-clones"
+					},
+					"6wamXSNBX8AIJ4Mb89FslO": {
+						"id": "6wamXSNBX8AIJ4Mb89FslO",
+						"title": "Двухмерная карта уже зимой!",
+						"slug": "2d-map-coming-this-winter",
 						"tags": [
 							"expansion",
-							"ccptv",
-							"development-updates",
-							"community",
-							"new-features",
-							"future-updates",
-							"eve-vanguard"
+							"new-features"
 						],
 						"category": "news",
 						"author": "EVE Online Team",
-						"publishingDate": "2025-05-02",
-						"metaDescription": "Сила — в цели",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/DB6I89M9hhWH8ki9xoxbK/b5b1090178d555a139553319d9cefdb2/Screenshot_Copy_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/legion-expansion-launches-on-27-may"
-					},
-					"1qapq3OxBr0v6x0nbLrkQe": {
-						"id": "1qapq3OxBr0v6x0nbLrkQe",
-						"title": "Fanfest 2025 is Live - Join the Celebration!",
-						"slug": "fanfest-2025-is-live-join-the-celebration",
-						"tags": [
-							"fanfest"
-						],
-						"category": "news",
-						"author": "EVE Online Team",
-						"publishingDate": "2025-05-01",
-						"metaDescription": "Bringing the Community Together",
-						"src": "https://images.ctfassets.net/7lhcm73ukv5p/2jUNpHgYzEit4QkJD4TOt2/fb43c1d9c9cab284d79ba5b9233a5f3c/Harpa_-_Green_-_Fanfest_2025.webp?w=350&fm=jpg&fl=progressive&q=90",
-						"url": "https://www.eveonline.com/ru/news/view/fanfest-2025-is-live-join-the-celebration"
+						"publishingDate": "2025-10-11",
+						"metaDescription": "Ориентироваться в космосе станет проще.",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/2RmPQcE8X53dXamAmEBDqL/e9b6fa19a1ed09a9b3bed97b3432839d/Screenshot_NoCopy.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/ru/news/view/2d-map-coming-this-winter"
 					}
 				}
 			}
@@ -1797,7 +1773,7 @@
 						"url": "https://www.eveonline.com/es/frontlines"
 					}
 				],
-				"updatedAt": 1749394462207
+				"updatedAt": 1762781796347
 			},
 			"playArea": {
 				"content": {
@@ -1875,7 +1851,7 @@
 						"url": "https://www.eveonline.com/zh/frontlines"
 					}
 				],
-				"updatedAt": 1749394462222
+				"updatedAt": 1762781796360
 			},
 			"playArea": {
 				"content": {
@@ -1933,9 +1909,9 @@
 		"en": {
 			"background": {
 				"content": {
-					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/36qbytw4UIAKe0nl3Gujwz/57b8e9669b5f1db2e550b79234bf3fd8/test2_1_.png"
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/5tRom1MaKoPAmIcYycg6xl/215b63b6e0d14c3f16a3b2522937e937/vg_launcher_art2.jpg"
 				},
-				"updatedAt": 1747807274284
+				"updatedAt": 1762781836669
 			},
 			"creatives": {
 				"evergreen": {
@@ -1968,9 +1944,9 @@
 		"de": {
 			"background": {
 				"content": {
-					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/36qbytw4UIAKe0nl3Gujwz/57b8e9669b5f1db2e550b79234bf3fd8/test2_1_.png"
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/5tRom1MaKoPAmIcYycg6xl/215b63b6e0d14c3f16a3b2522937e937/vg_launcher_art2.jpg"
 				},
-				"updatedAt": 1748063329606
+				"updatedAt": 1762781812076
 			},
 			"creatives": {
 				"evergreen": {
@@ -2003,9 +1979,9 @@
 		"fr": {
 			"background": {
 				"content": {
-					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/36qbytw4UIAKe0nl3Gujwz/57b8e9669b5f1db2e550b79234bf3fd8/test2_1_.png"
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/5tRom1MaKoPAmIcYycg6xl/215b63b6e0d14c3f16a3b2522937e937/vg_launcher_art2.jpg"
 				},
-				"updatedAt": 1747807280162
+				"updatedAt": 1762781925224
 			},
 			"creatives": {
 				"evergreen": {
@@ -2038,9 +2014,9 @@
 		"ja": {
 			"background": {
 				"content": {
-					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/36qbytw4UIAKe0nl3Gujwz/57b8e9669b5f1db2e550b79234bf3fd8/test2_1_.png"
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/5tRom1MaKoPAmIcYycg6xl/215b63b6e0d14c3f16a3b2522937e937/vg_launcher_art2.jpg"
 				},
-				"updatedAt": 1748063222803
+				"updatedAt": 1762782486126
 			},
 			"creatives": {
 				"evergreen": {
@@ -2073,9 +2049,9 @@
 		"ko": {
 			"background": {
 				"content": {
-					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/36qbytw4UIAKe0nl3Gujwz/57b8e9669b5f1db2e550b79234bf3fd8/test2_1_.png"
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/5tRom1MaKoPAmIcYycg6xl/215b63b6e0d14c3f16a3b2522937e937/vg_launcher_art2.jpg"
 				},
-				"updatedAt": 1748063220430
+				"updatedAt": 1762781864599
 			},
 			"creatives": {
 				"evergreen": {
@@ -2108,9 +2084,9 @@
 		"ru": {
 			"background": {
 				"content": {
-					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/36qbytw4UIAKe0nl3Gujwz/57b8e9669b5f1db2e550b79234bf3fd8/test2_1_.png"
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/5tRom1MaKoPAmIcYycg6xl/215b63b6e0d14c3f16a3b2522937e937/vg_launcher_art2.jpg"
 				},
-				"updatedAt": 1748063221375
+				"updatedAt": 1762782486113
 			},
 			"creatives": {
 				"evergreen": {
@@ -2160,9 +2136,9 @@
 		"es": {
 			"background": {
 				"content": {
-					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/36qbytw4UIAKe0nl3Gujwz/57b8e9669b5f1db2e550b79234bf3fd8/test2_1_.png"
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/5tRom1MaKoPAmIcYycg6xl/215b63b6e0d14c3f16a3b2522937e937/vg_launcher_art2.jpg"
 				},
-				"updatedAt": 1747807280253
+				"updatedAt": 1762781843325
 			},
 			"creatives": {
 				"evergreen": {
@@ -2195,9 +2171,9 @@
 		"zh": {
 			"background": {
 				"content": {
-					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/36qbytw4UIAKe0nl3Gujwz/57b8e9669b5f1db2e550b79234bf3fd8/test2_1_.png"
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/5tRom1MaKoPAmIcYycg6xl/215b63b6e0d14c3f16a3b2522937e937/vg_launcher_art2.jpg"
 				},
-				"updatedAt": 1748063215130
+				"updatedAt": 1762782486140
 			},
 			"creatives": {
 				"evergreen": {

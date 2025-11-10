@@ -1,10 +1,10 @@
 {
 	"state": {
 		"settings": {
-			"sharedCacheDirectory": "C:\\CCP\\EVE",
-			"hasSharedCacheDirectoryBeenConfirmed": false,
 			"location": "ua",
-			"ratingSystem": "pegi"
+			"ratingSystem": "pegi",
+			"sharedCacheDirectory": "C:\\CCP\\EVE",
+			"hasSharedCacheDirectoryBeenConfirmed": false
 		},
 		"clientBuilds": {
 			"eve-online": {
@@ -13,15 +13,6 @@
 				}
 			}
 		},
-		"clientManagement": {
-			"processes": {
-				"eve-online": {
-					"tranquility": [],
-					"unknown": []
-				}
-			},
-			"temporaryProcesses": {}
-		},
 		"v2/application": {
 			"name": "EVE Online",
 			"window": {
@@ -29,33 +20,13 @@
 				"isMaximized": false,
 				"isVisible": false
 			},
-			"session": {
-				"isFirstRun": false,
-				"isAppRestartPending": false,
-				"isDevelopment": false,
-				"isQaEnabled": false,
-				"isQuitting": false,
-				"isGeforceNow": false,
-				"shenanigans": {
-					"isApplicationUpsideDown": false,
-					"hasDismissedOmegaProMaxIntro": false
-				},
-				"isVanguardCountdownActive": false,
-				"notificationTracker": {
-					"ids": [],
-					"entities": {}
-				},
-				"overlays": {
-					"isGameInstallConfirmationOpen": false
-				}
-			},
 			"updates": {
 				"hasDismissedAvailableUpdate": false,
 				"isUpdateAvailable": false,
 				"wasRecentlyUpdated": false,
 				"releaseChannel": "release",
 				"autoUpdateState": "idle",
-				"currentVersion": "1.10.1"
+				"currentVersion": "1.12.2"
 			}
 		},
 		"v2/settings": {
@@ -93,12 +64,12 @@
 				"progress": {
 					"tranquility": {
 						"progress": 0,
-						"isBestExperiencePlayable": true,
-						"isNewPlayerExperiencePlayable": true,
+						"isBestExperiencePlayable": false,
+						"isNewPlayerExperiencePlayable": false,
 						"status": "idle"
 					}
 				},
-				"cleanedAt": 1749037414759,
+				"cleanedAt": 1762781795826,
 				"canInstall": true
 			},
 			"eve-launcher": {
@@ -131,6 +102,6 @@
 			}
 		}
 	},
-	"version": 202403271440,
+	"version": 1,
 	"file-migration": 202408021525
 }

@@ -1,5 +1,10 @@
 # eve GitHub repo 
 
+## 2025-11-10 Update accounts
+- 2025-11-10 Targets and Donators
+  - from: Worm Holera, Steamaha, Deem Matar
+  - to: DeeMan Diman, To Xalepa
+
 - Continue wukelan.che
 	- Gallentiada
 	- wukelan.che@gmail.com 
